@@ -993,15 +993,6 @@
  },
  {
   "code": "PJ187",
-  "name": "MUHAMMED NIJAD P PANG",
-  "darsname": "MA'DINUL ULOOM DARS KIZHAKKUMPADAM",
-  "darsplace": "KIZHAKKUMPADAM",
-  "zone": "PERINTHALMANNA",
-  "slug": "ma'dinul-uloom-dars-kizhakkumpadam",
-  "category": "JUNIOR"
- },
- {
-  "code": "PJ188",
   "name": "MUHAMMED RISWAN TK THENKARA",
   "darsname": "MA'DINUL ULOOM DARS KIZHAKKUMPADAM",
   "darsplace": "KIZHAKKUMPADAM",
@@ -1011,7 +1002,7 @@
   "offstage1": "24. ഖത്തുന്നസ്ഖ്"
  },
  {
-  "code": "PJ189",
+  "code": "PJ188",
   "name": "MUHAMMED SABITH MANNARKKAD",
   "darsname": "MA'DINUL ULOOM DARS KIZHAKKUMPADAM",
   "darsplace": "KIZHAKKUMPADAM",
@@ -1024,7 +1015,7 @@
   "stage3": "5. പ്രസംഗം മലയാളം"
  },
  {
-  "code": "PJ190",
+  "code": "PJ189",
   "name": "MUHAMMED SHAMIL PP",
   "darsname": "MA'DINUL ULOOM DARS KIZHAKKUMPADAM",
   "darsplace": "KIZHAKKUMPADAM",
@@ -1036,7 +1027,7 @@
   "stage3": "12. ഗാനം ഉറുദു"
  },
  {
-  "code": "PJ191",
+  "code": "PJ190",
   "name": "MUHAMMED SHIBIL M",
   "darsname": "MA'DINUL ULOOM DARS KIZHAKKUMPADAM",
   "darsplace": "KIZHAKKUMPADAM",
@@ -1047,7 +1038,7 @@
   "stage1": "15. മുശാഅറ"
  },
  {
-  "code": "PJ192",
+  "code": "PJ191",
   "name": "MUHAMMED SUBHAN C KIZHATTUR",
   "darsname": "MA'DINUL ULOOM DARS KIZHAKKUMPADAM",
   "darsplace": "KIZHAKKUMPADAM",
@@ -1057,16 +1048,7 @@
   "offstage1": "21. ചിത്രരചന"
  },
  {
-  "code": "PJ193",
-  "name": "SADHIQ ALI MT PANG",
-  "darsname": "MA'DINUL ULOOM DARS KIZHAKKUMPADAM",
-  "darsplace": "KIZHAKKUMPADAM",
-  "zone": "PERINTHALMANNA",
-  "slug": "ma'dinul-uloom-dars-kizhakkumpadam",
-  "category": "JUNIOR"
- },
- {
-  "code": "PJ194",
+  "code": "PJ192",
   "name": "SHAIJAL T",
   "darsname": "MA'DINUL ULOOM DARS KIZHAKKUMPADAM",
   "darsplace": "KIZHAKKUMPADAM",
@@ -1078,7 +1060,7 @@
   "stage3": "18. മദ്ഹുന്നബി"
  },
  {
-  "code": "PJ195",
+  "code": "PJ193",
   "name": "HALAN HADHI MANJERI",
   "darsname": "MAJLISUL IRFAN DARS ACHIPRA",
   "darsplace": "ACHIPRA",
@@ -1088,7 +1070,7 @@
   "offstage1": "27. നിഘണ്ടു നിര്‍മ്മാണം"
  },
  {
-  "code": "PJ196",
+  "code": "PJ194",
   "name": "MOHAMMED SABITH TANALUR",
   "darsname": "MAJLISUL IRFAN DARS ACHIPRA",
   "darsplace": "ACHIPRA",
@@ -1101,7 +1083,7 @@
   "stage3": "7. പ്രസംഗം ഇംഗ്ലീഷ്"
  },
  {
-  "code": "PJ197",
+  "code": "PJ195",
   "name": "MUHAMMAD NIFAD MAYYERICHIRA",
   "darsname": "MAJLISUL IRFAN DARS ACHIPRA",
   "darsplace": "ACHIPRA",
@@ -1114,7 +1096,7 @@
   "stage1": "13. കഥ പറച്ചില്‍"
  },
  {
-  "code": "PJ198",
+  "code": "PJ196",
   "name": "MUHAMMED ASHIQUE WAYANAD",
   "darsname": "MAJLISUL IRFAN DARS ACHIPRA",
   "darsplace": "ACHIPRA",
@@ -1129,7 +1111,7 @@
   "groupstage1": "19. അറബി സംഘഗാനം"
  },
  {
-  "code": "PJ199",
+  "code": "PJ197",
   "name": "MUHAMMED IHSAN PURAMANNUR",
   "darsname": "MAJLISUL IRFAN DARS ACHIPRA",
   "darsplace": "ACHIPRA",
@@ -1143,7 +1125,7 @@
   "stage3": "16. പദപ്പയറ്റ് അറബി"
  },
  {
-  "code": "PJ200",
+  "code": "PJ198",
   "name": "MUHAMMED IRSHAD TANUR",
   "darsname": "MAJLISUL IRFAN DARS ACHIPRA",
   "darsplace": "ACHIPRA",
@@ -1157,7 +1139,7 @@
   "groupstage2": "20. മലയാള സമൂഹ ഗാനം"
  },
  {
-  "code": "PJ201",
+  "code": "PJ199",
   "name": "MUHAMMED RABEEH KOPPAM",
   "darsname": "MAJLISUL IRFAN DARS ACHIPRA",
   "darsplace": "ACHIPRA",
@@ -1167,7 +1149,7 @@
   "stage1": "11. മാലപ്പാട്ട്"
  },
  {
-  "code": "PJ202",
+  "code": "PJ200",
   "name": "MUHAMMED SANAULLA",
   "darsname": "MAJLISUL IRFAN DARS ACHIPRA",
   "darsplace": "ACHIPRA",
@@ -1177,7 +1159,7 @@
   "stage1": "12. ഗാനം ഉറുദു"
  },
  {
-  "code": "PJ203",
+  "code": "PJ201",
   "name": "MUHAMMED SINAN PURAMANNUR",
   "darsname": "MAJLISUL IRFAN DARS ACHIPRA",
   "darsplace": "ACHIPRA",
@@ -1187,16 +1169,7 @@
   "stage1": "14. ഗദ്യവായന മലയാളം"
  },
  {
-  "code": "PJ204",
-  "name": "SANHAD KUTTAYI",
-  "darsname": "MAJLISUL IRFAN DARS ACHIPRA",
-  "darsplace": "ACHIPRA",
-  "zone": "PERINTHALMANNA",
-  "slug": "majlisul-irfan-dars",
-  "category": "JUNIOR"
- },
- {
-  "code": "PJ205",
+  "code": "PJ202",
   "name": "ASHIQUE K P, TANUR",
   "darsname": "MAMBA'UL HUDA DARS, EARKKARA",
   "darsplace": "KADAMBUZHA, EARKKARA",
@@ -1208,7 +1181,7 @@
   "groupstage1": "19. അറബി സംഘഗാനം"
  },
  {
-  "code": "PJ206",
+  "code": "PJ203",
   "name": "MUHAMMAD AMEEN V S, CHEREKKAD",
   "darsname": "MAMBA'UL HUDA DARS, EARKKARA",
   "darsplace": "KADAMBUZHA, EARKKARA",
@@ -1218,7 +1191,7 @@
   "offstage1": "24. ഖത്തുന്നസ്ഖ്"
  },
  {
-  "code": "PJ207",
+  "code": "PJ204",
   "name": "MUHAMMAD HANAN C, KOTTOPADAM",
   "darsname": "MAMBA'UL HUDA DARS, EARKKARA",
   "darsplace": "KADAMBUZHA, EARKKARA",
@@ -1231,7 +1204,7 @@
   "stage3": "16. പദപ്പയറ്റ് അറബി"
  },
  {
-  "code": "PJ208",
+  "code": "PJ205",
   "name": "MUHAMMAD MISHAB P",
   "darsname": "MAMBA'UL HUDA DARS, EARKKARA",
   "darsplace": "KADAMBUZHA, EARKKARA",
@@ -1241,7 +1214,7 @@
   "offstage1": "21. ചിത്രരചന"
  },
  {
-  "code": "PJ209",
+  "code": "PJ206",
   "name": "MUHAMMAD SHADIL P",
   "darsname": "MAMBA'UL HUDA DARS, EARKKARA",
   "darsplace": "KADAMBUZHA, EARKKARA",
@@ -1254,7 +1227,7 @@
   "groupstage2": "20. മലയാള സമൂഹ ഗാനം"
  },
  {
-  "code": "PJ210",
+  "code": "PJ207",
   "name": "MUHAMMAD SINAN N",
   "darsname": "MAMBA'UL HUDA DARS, EARKKARA",
   "darsplace": "KADAMBUZHA, EARKKARA",
@@ -1264,7 +1237,7 @@
   "stage1": "4. പ്രസംഗം അറബി"
  },
  {
-  "code": "PJ211",
+  "code": "PJ208",
   "name": "MUHAMMED RAYYAN K, VELLUVAMBURAM",
   "darsname": "MAMBA'UL HUDA DARS, EARKKARA",
   "darsplace": "KADAMBUZHA, EARKKARA",
@@ -1274,7 +1247,7 @@
   "stage1": "1. ഖിറാഅത്ത്"
  },
  {
-  "code": "PJ212",
+  "code": "PJ209",
   "name": "RAFIL K F",
   "darsname": "MAMBA'UL HUDA DARS, EARKKARA",
   "darsplace": "KADAMBUZHA, EARKKARA",
@@ -1287,7 +1260,7 @@
   "stage3": "14. ഗദ്യവായന മലയാളം"
  },
  {
-  "code": "PJ213",
+  "code": "PJ210",
   "name": "MUHAMMAD SAHAL POOKOLATHUR",
   "darsname": "MANKADA PALLIPPURAM DARS",
   "darsplace": "MANKADA PALLIPPURAM",
@@ -1302,7 +1275,7 @@
   "stage3": "16. പദപ്പയറ്റ് അറബി"
  },
  {
-  "code": "PJ214",
+  "code": "PJ211",
   "name": "MUHAMMED IRSHAD MANJERI",
   "darsname": "MANKADA PALLIPPURAM DARS",
   "darsplace": "MANKADA PALLIPPURAM",
@@ -1317,7 +1290,7 @@
   "stage3": "11. മാലപ്പാട്ട്"
  },
  {
-  "code": "PJ215",
+  "code": "PJ212",
   "name": "FASIL RAHMAN THANUR",
   "darsname": "MARKAZUL ULAMA DARS CHERUKULAMBA",
   "darsplace": "CHERUKULAMBA",
@@ -1332,7 +1305,7 @@
   "stage3": "3. വാങ്ക്"
  },
  {
-  "code": "PJ216",
+  "code": "PJ213",
   "name": "MOHAMMED ANSIF KONOMPARA",
   "darsname": "MARKAZUL ULAMA DARS CHERUKULAMBA",
   "darsplace": "CHERUKULAMBA",
@@ -1347,7 +1320,7 @@
   "stage3": "3. വാങ്ക്"
  },
  {
-  "code": "PJ217",
+  "code": "PJ214",
   "name": "MUHAMMED ANAS CHIRAMANGALAM",
   "darsname": "MARKAZUL ULAMA DARS CHERUKULAMBA",
   "darsplace": "CHERUKULAMBA",
@@ -1362,7 +1335,7 @@
   "stage3": "2. ഹിഫ്‌ള്"
  },
  {
-  "code": "PJ218",
+  "code": "PJ215",
   "name": "MUHAMMED ANSHIF P THANUR",
   "darsname": "MARKAZUL ULAMA DARS CHERUKULAMBA",
   "darsplace": "CHERUKULAMBA",
@@ -1376,7 +1349,7 @@
   "stage2": "5. പ്രസംഗം മലയാളം"
  },
  {
-  "code": "PJ219",
+  "code": "PJ216",
   "name": "MUHAMMED ANSIF NP MACHINGAL",
   "darsname": "MARKAZUL ULAMA DARS CHERUKULAMBA",
   "darsplace": "CHERUKULAMBA",
@@ -1389,7 +1362,7 @@
   "stage1": "5. പ്രസംഗം മലയാളം"
  },
  {
-  "code": "PJ220",
+  "code": "PJ217",
   "name": "MUHAMMED MUHSIN M.P KOOTANAD",
   "darsname": "MARKAZUL ULAMA DARS CHERUKULAMBA",
   "darsplace": "CHERUKULAMBA",
@@ -1404,7 +1377,7 @@
   "stage3": "2. ഹിഫ്‌ള്"
  },
  {
-  "code": "PJ221",
+  "code": "PJ218",
   "name": "MUHAMMED RAFI KONOMBARA",
   "darsname": "MARKAZUL ULAMA DARS CHERUKULAMBA",
   "darsplace": "CHERUKULAMBA",
@@ -1418,7 +1391,7 @@
   "stage3": "5. പ്രസംഗം മലയാളം"
  },
  {
-  "code": "PJ222",
+  "code": "PJ219",
   "name": "MUHAMMED SAHAD CM CHERUR",
   "darsname": "MARKAZUL ULAMA DARS CHERUKULAMBA",
   "darsplace": "CHERUKULAMBA",
@@ -1433,7 +1406,7 @@
   "stage3": "5. പ്രസംഗം മലയാളം"
  },
  {
-  "code": "PJ223",
+  "code": "PJ220",
   "name": "MUHAMMED SAHAL M PARAPPANAGADI",
   "darsname": "MARKAZUL ULAMA DARS CHERUKULAMBA",
   "darsplace": "CHERUKULAMBA",
@@ -1448,7 +1421,7 @@
   "stage3": "9. ഗാനം അറബി"
  },
  {
-  "code": "PJ224",
+  "code": "PJ221",
   "name": "MUHAMMED SHAMIL CHIRAMANGALAM",
   "darsname": "MARKAZUL ULAMA DARS CHERUKULAMBA",
   "darsplace": "CHERUKULAMBA",
@@ -1459,7 +1432,7 @@
   "stage1": "5. പ്രസംഗം മലയാളം"
  },
  {
-  "code": "PJ225",
+  "code": "PJ222",
   "name": "MUHAMMED SHAN KONOMPARA",
   "darsname": "MARKAZUL ULAMA DARS CHERUKULAMBA",
   "darsplace": "CHERUKULAMBA",
@@ -1474,7 +1447,7 @@
   "stage3": "13. കഥ പറച്ചില്‍"
  },
  {
-  "code": "PJ226",
+  "code": "PJ223",
   "name": "MUHAMMED SINAN CHIRAKKAL",
   "darsname": "MARKAZUL ULAMA DARS CHERUKULAMBA",
   "darsplace": "CHERUKULAMBA",
@@ -1489,7 +1462,7 @@
   "stage3": "7. പ്രസംഗം ഇംഗ്ലീഷ്"
  },
  {
-  "code": "PJ227",
+  "code": "PJ224",
   "name": "ABDHURAHMAN PUTHANATHANI",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -1500,7 +1473,7 @@
   "groupstage1": "19. അറബി സംഘഗാനം"
  },
  {
-  "code": "PJ228",
+  "code": "PJ225",
   "name": "ABDUL HADI PAZHAMALLUR",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -1510,16 +1483,7 @@
   "stage1": "6. പ്രസംഗം ഉറുദു"
  },
  {
-  "code": "PJ229",
-  "name": "ABDULRAHMAN MURSHID KASARAGOD",
-  "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
-  "darsplace": "VALANCHERY",
-  "zone": "PERINTHALMANNA",
-  "slug": "markazul-ulama-dars-valanchery",
-  "category": "JUNIOR"
- },
- {
-  "code": "PJ230",
+  "code": "PJ226",
   "name": "ANZIL ATHAVANAD",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -1532,7 +1496,7 @@
   "groupstage2": "20. മലയാള സമൂഹ ഗാനം"
  },
  {
-  "code": "PJ231",
+  "code": "PJ227",
   "name": "BUJAIR ATHIPATTA",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -1542,7 +1506,7 @@
   "stage1": "12. ഗാനം ഉറുദു"
  },
  {
-  "code": "PJ232",
+  "code": "PJ228",
   "name": "HAFIZ HABEEB RAHMAN KAKKOV",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -1552,16 +1516,7 @@
   "offstage1": "22. സുഡോക്കു"
  },
  {
-  "code": "PJ233",
-  "name": "HAFIZ SHAHID VILAYIL",
-  "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
-  "darsplace": "VALANCHERY",
-  "zone": "PERINTHALMANNA",
-  "slug": "markazul-ulama-dars-valanchery",
-  "category": "JUNIOR"
- },
- {
-  "code": "PJ234",
+  "code": "PJ229",
   "name": "JASEEM FARIS WAYANAD",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -1571,7 +1526,7 @@
   "offstage1": "21. ചിത്രരചന"
  },
  {
-  "code": "PJ235",
+  "code": "PJ230",
   "name": "MOHAMMED RABEEH M ANNARA",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -1581,7 +1536,7 @@
   "stage1": "15. മുശാഅറ"
  },
  {
-  "code": "PJ236",
+  "code": "PJ231",
   "name": "MOHAMMED SHAMIL T PUTHUPARAMB",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -1591,7 +1546,7 @@
   "offstage1": "25. കേട്ടെഴുത്ത്"
  },
  {
-  "code": "PJ237",
+  "code": "PJ232",
   "name": "MUHAMMAD SHIYAS KASARAGOD",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -1601,7 +1556,7 @@
   "stage1": "17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്"
  },
  {
-  "code": "PJ238",
+  "code": "PJ233",
   "name": "MUHAMMED AFLAH CT UNIVERSITY",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -1611,7 +1566,7 @@
   "stage1": "16. പദപ്പയറ്റ് അറബി"
  },
  {
-  "code": "PJ239",
+  "code": "PJ234",
   "name": "MUHAMMED ASHIR K KOOTTILANGADI",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -1622,7 +1577,7 @@
   "offstage2": "29. മലയാള പ്രബന്ധം"
  },
  {
-  "code": "PJ240",
+  "code": "PJ235",
   "name": "MUHAMMED JASIM KONDOTTY",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -1634,7 +1589,7 @@
   "stage1": "8. ഗ്രന്ഥവായന"
  },
  {
-  "code": "PJ241",
+  "code": "PJ236",
   "name": "MUHAMMED JASIR MAILAPPURAM",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -1644,7 +1599,7 @@
   "stage1": "10. മാപ്പിളപ്പാട്ട്"
  },
  {
-  "code": "PJ242",
+  "code": "PJ237",
   "name": "MUHAMMED MISAB MK UNIVERSITY",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -1654,7 +1609,7 @@
   "stage1": "7. പ്രസംഗം ഇംഗ്ലീഷ്"
  },
  {
-  "code": "PJ243",
+  "code": "PJ238",
   "name": "MUHAMMED NIHAL KASARAGOD",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -1666,7 +1621,7 @@
   "stage3": "4. പ്രസംഗം അറബി"
  },
  {
-  "code": "PJ244",
+  "code": "PJ239",
   "name": "MUHAMMED NUAMAN K WAYANAD",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -1676,7 +1631,7 @@
   "stage1": "5. പ്രസംഗം മലയാളം"
  },
  {
-  "code": "PJ245",
+  "code": "PJ240",
   "name": "MUHAMMED RAMEES WAYANAD",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -1688,7 +1643,7 @@
   "stage1": "14. ഗദ്യവായന മലയാളം"
  },
  {
-  "code": "PJ246",
+  "code": "PJ241",
   "name": "MUHAMMED SAHAD WAYANAD",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -1699,7 +1654,7 @@
   "stage1": "13. കഥ പറച്ചില്‍"
  },
  {
-  "code": "PJ247",
+  "code": "PJ242",
   "name": "MOHAMMED RUSHAID KK",
   "darsname": "MISHKATHUL HUDA DARS EDAYATTUR",
   "darsplace": "EDAYATTUR",
@@ -1711,7 +1666,7 @@
   "stage3": "17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്"
  },
  {
-  "code": "PJ248",
+  "code": "PJ243",
   "name": "MUHAMMED DILSHAN IRIMBILIYAM",
   "darsname": "MISHKATHUL HUDA DARS EDAYATTUR",
   "darsplace": "EDAYATTUR",
@@ -1723,7 +1678,7 @@
   "stage3": "10. മാപ്പിളപ്പാട്ട്"
  },
  {
-  "code": "PJ249",
+  "code": "PJ244",
   "name": "MUHAMMED JASEEL P KOOTTUR",
   "darsname": "MISHKATHUL HUDA DARS EDAYATTUR",
   "darsplace": "EDAYATTUR",
@@ -1733,7 +1688,7 @@
   "groupstage1": "19. അറബി സംഘഗാനം"
  },
  {
-  "code": "PJ250",
+  "code": "PJ245",
   "name": "MUHAMMED RISVAN C VENNIYOOR",
   "darsname": "MISHKATHUL HUDA DARS EDAYATTUR",
   "darsplace": "EDAYATTUR",
@@ -1744,7 +1699,7 @@
   "groupstage2": "20. മലയാള സമൂഹ ഗാനം"
  },
  {
-  "code": "PJ251",
+  "code": "PJ246",
   "name": "MUHAMMED SHADIL VP KUTTIPPURAM",
   "darsname": "MISHKATHUL HUDA DARS EDAYATTUR",
   "darsplace": "EDAYATTUR",
@@ -1759,7 +1714,7 @@
   "stage3": "8. ഗ്രന്ഥവായന"
  },
  {
-  "code": "PJ252",
+  "code": "PJ247",
   "name": "MUHAMMED SINAN P PERSHANNOOR",
   "darsname": "MISHKATHUL HUDA DARS EDAYATTUR",
   "darsplace": "EDAYATTUR",
@@ -1774,7 +1729,7 @@
   "stage3": "14. ഗദ്യവായന മലയാളം"
  },
  {
-  "code": "PJ253",
+  "code": "PJ248",
   "name": "MUHAMMED SINAN VP KUTTIPPURAM",
   "darsname": "MISHKATHUL HUDA DARS EDAYATTUR",
   "darsplace": "EDAYATTUR",
@@ -1784,7 +1739,7 @@
   "stage1": "3. വാങ്ക്"
  },
  {
-  "code": "PJ254",
+  "code": "PJ249",
   "name": "MUHAMMED SWAHID IRUMBUZHI",
   "darsname": "MISHKATHUL HUDA DARS EDAYATTUR",
   "darsplace": "EDAYATTUR",
@@ -1799,7 +1754,7 @@
   "stage3": "18. മദ്ഹുന്നബി"
  },
  {
-  "code": "PJ255",
+  "code": "PJ250",
   "name": "SHAHAL AKAMAL OTTAPPALAM",
   "darsname": "MISHKATHUL HUDA DARS EDAYATTUR",
   "darsplace": "EDAYATTUR",
@@ -1809,7 +1764,7 @@
   "stage1": "16. പദപ്പയറ്റ് അറബി"
  },
  {
-  "code": "PJ256",
+  "code": "PJ251",
   "name": "SHAHAL AKMAL OTTAPPALAM",
   "darsname": "MISHKATHUL HUDA DARS EDAYATTUR",
   "darsplace": "EDAYATTUR",
@@ -1819,7 +1774,7 @@
   "stage1": "16. പദപ്പയറ്റ് അറബി"
  },
  {
-  "code": "PJ257",
+  "code": "PJ252",
   "name": "AFEEN O P,PACHEERI",
   "darsname": "MQSS,PACHEERI",
   "darsplace": "PACHEEERI,MANNARMALA",
@@ -1829,7 +1784,7 @@
   "stage1": "13. കഥ പറച്ചില്‍"
  },
  {
-  "code": "PJ258",
+  "code": "PJ253",
   "name": "ANVAR ALI V,PACHEERI",
   "darsname": "MQSS,PACHEERI",
   "darsplace": "PACHEEERI,MANNARMALA",
@@ -1839,7 +1794,7 @@
   "offstage1": "23. മെമ്മറി ടെസ്റ്റ്"
  },
  {
-  "code": "PJ259",
+  "code": "PJ254",
   "name": "FARHAN M,PACHEERI",
   "darsname": "MQSS,PACHEERI",
   "darsplace": "PACHEEERI,MANNARMALA",
@@ -1851,7 +1806,7 @@
   "groupstage2": "20. മലയാള സമൂഹ ഗാനം"
  },
  {
-  "code": "PJ260",
+  "code": "PJ255",
   "name": "JAMSHEER K P,KARAKURISSI",
   "darsname": "MQSS,PACHEERI",
   "darsplace": "PACHEEERI,MANNARMALA",
@@ -1866,16 +1821,7 @@
   "stage3": "3. വാങ്ക്"
  },
  {
-  "code": "PJ261",
-  "name": "MOHAMMED RAHIL K PACHEERI",
-  "darsname": "MQSS,PACHEERI",
-  "darsplace": "PACHEEERI,MANNARMALA",
-  "zone": "PERINTHALMANNA",
-  "slug": "mqsspacheeri",
-  "category": "JUNIOR"
- },
- {
-  "code": "PJ262",
+  "code": "PJ256",
   "name": "MOHAMMED SHAHMIL K",
   "darsname": "MQSS,PACHEERI",
   "darsplace": "PACHEEERI,MANNARMALA",
@@ -1885,7 +1831,7 @@
   "offstage1": "24. ഖത്തുന്നസ്ഖ്"
  },
  {
-  "code": "PJ263",
+  "code": "PJ257",
   "name": "MOHAMMED SHAMIL M T,PACHEERI",
   "darsname": "MQSS,PACHEERI",
   "darsplace": "PACHEEERI,MANNARMALA",
@@ -1895,7 +1841,7 @@
   "offstage1": "29. മലയാള പ്രബന്ധം"
  },
  {
-  "code": "PJ264",
+  "code": "PJ258",
   "name": "MUHAMMAD SAHAL",
   "darsname": "MQSS,PACHEERI",
   "darsplace": "PACHEEERI,MANNARMALA",
@@ -1907,7 +1853,7 @@
   "stage2": "16. പദപ്പയറ്റ് അറബി"
  },
  {
-  "code": "PJ265",
+  "code": "PJ259",
   "name": "MUHAMMED JABIR K,PACHEERI",
   "darsname": "MQSS,PACHEERI",
   "darsplace": "PACHEEERI,MANNARMALA",
@@ -1918,7 +1864,7 @@
   "stage1": "14. ഗദ്യവായന മലയാളം"
  },
  {
-  "code": "PJ266",
+  "code": "PJ260",
   "name": "MUHAMMED NIHAL A,PACHEERI",
   "darsname": "MQSS,PACHEERI",
   "darsplace": "PACHEEERI,MANNARMALA",
@@ -1928,7 +1874,7 @@
   "offstage1": "26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
  },
  {
-  "code": "PJ267",
+  "code": "PJ261",
   "name": "MUHAMMED NIHAL M T,PACHEERI",
   "darsname": "MQSS,PACHEERI",
   "darsplace": "PACHEEERI,MANNARMALA",
@@ -1940,7 +1886,7 @@
   "stage3": "10. മാപ്പിളപ്പാട്ട്"
  },
  {
-  "code": "PJ268",
+  "code": "PJ262",
   "name": "MUHAMMED RAHEES A,PACHEERI",
   "darsname": "MQSS,PACHEERI",
   "darsplace": "PACHEEERI,MANNARMALA",
@@ -1950,7 +1896,7 @@
   "groupstage1": "19. അറബി സംഘഗാനം"
  },
  {
-  "code": "PJ269",
+  "code": "PJ263",
   "name": "MUHAMMED RINSHAD M,MANNARKKAD",
   "darsname": "MQSS,PACHEERI",
   "darsplace": "PACHEEERI,MANNARMALA",
@@ -1960,7 +1906,7 @@
   "offstage1": "21. ചിത്രരചന"
  },
  {
-  "code": "PJ270",
+  "code": "PJ264",
   "name": "MUHAMMED RINSHID K",
   "darsname": "MQSS,PACHEERI",
   "darsplace": "PACHEEERI,MANNARMALA",
@@ -1971,7 +1917,7 @@
   "stage2": "5. പ്രസംഗം മലയാളം"
  },
  {
-  "code": "PJ271",
+  "code": "PJ265",
   "name": "MUHAMMED SABITH A,PACHEERI",
   "darsname": "MQSS,PACHEERI",
   "darsplace": "PACHEEERI,MANNARMALA",
@@ -1981,7 +1927,7 @@
   "stage1": "7. പ്രസംഗം ഇംഗ്ലീഷ്"
  },
  {
-  "code": "PJ272",
+  "code": "PJ266",
   "name": "SHAHID E P",
   "darsname": "MQSS,PACHEERI",
   "darsplace": "PACHEEERI,MANNARMALA",
@@ -1991,7 +1937,7 @@
   "stage1": "18. മദ്ഹുന്നബി"
  },
  {
-  "code": "PJ273",
+  "code": "PJ267",
   "name": "AMEENSHA VADAKKUPARAMBU",
   "darsname": "NUSRATHUL ISLAM DARS MAKKARAPARAMBA",
   "darsplace": "MAKKARAPARAMBA",
@@ -2001,7 +1947,7 @@
   "groupstage1": "20. മലയാള സമൂഹ ഗാനം"
  },
  {
-  "code": "PJ274",
+  "code": "PJ268",
   "name": "Anshid Kidangazham",
   "darsname": "NUSRATHUL ISLAM DARS MAKKARAPARAMBA",
   "darsplace": "MAKKARAPARAMBA",
@@ -2012,7 +1958,7 @@
   "stage1": "1. ഖിറാഅത്ത്"
  },
  {
-  "code": "PJ275",
+  "code": "PJ269",
   "name": "FAHMAN.M THATTARMANNA",
   "darsname": "NUSRATHUL ISLAM DARS MAKKARAPARAMBA",
   "darsplace": "MAKKARAPARAMBA",
@@ -2022,7 +1968,7 @@
   "offstage1": "21. ചിത്രരചന"
  },
  {
-  "code": "PJ276",
+  "code": "PJ270",
   "name": "MOHAMMED SHAMIL.P",
   "darsname": "NUSRATHUL ISLAM DARS MAKKARAPARAMBA",
   "darsplace": "MAKKARAPARAMBA",
@@ -2033,7 +1979,7 @@
   "stage2": "10. മാപ്പിളപ്പാട്ട്"
  },
  {
-  "code": "PJ277",
+  "code": "PJ271",
   "name": "MUHAMMED FAHEEM. VK",
   "darsname": "NUSRATHUL ISLAM DARS MAKKARAPARAMBA",
   "darsplace": "MAKKARAPARAMBA",
@@ -2043,7 +1989,7 @@
   "stage1": "13. കഥ പറച്ചില്‍"
  },
  {
-  "code": "PJ278",
+  "code": "PJ272",
   "name": "MUHAMMED FAHEEM.VK PANTHALLUR",
   "darsname": "NUSRATHUL ISLAM DARS MAKKARAPARAMBA",
   "darsplace": "MAKKARAPARAMBA",
@@ -2053,7 +1999,7 @@
   "stage1": "13. കഥ പറച്ചില്‍"
  },
  {
-  "code": "PJ279",
+  "code": "PJ273",
   "name": "MUHAMMED SHAMIL.M CHITTATHUPARA",
   "darsname": "NUSRATHUL ISLAM DARS MAKKARAPARAMBA",
   "darsplace": "MAKKARAPARAMBA",
@@ -2064,7 +2010,7 @@
   "stage2": "12. ഗാനം ഉറുദു"
  },
  {
-  "code": "PJ280",
+  "code": "PJ274",
   "name": "Muhammed swalih O Mudikkod",
   "darsname": "NUSRATHUL ISLAM DARS MAKKARAPARAMBA",
   "darsplace": "MAKKARAPARAMBA",
@@ -2074,7 +2020,7 @@
   "stage1": "11. മാലപ്പാട്ട്"
  },
  {
-  "code": "PJ281",
+  "code": "PJ275",
   "name": "MUSTHAFA MUHAMMED .K",
   "darsname": "NUSRATHUL ISLAM DARS MAKKARAPARAMBA",
   "darsplace": "MAKKARAPARAMBA",
@@ -2084,7 +2030,7 @@
   "offstage1": "23. മെമ്മറി ടെസ്റ്റ്"
  },
  {
-  "code": "PJ282",
+  "code": "PJ276",
   "name": "NIHAD.M UDUMBATHPADI",
   "darsname": "NUSRATHUL ISLAM DARS MAKKARAPARAMBA",
   "darsplace": "MAKKARAPARAMBA",
@@ -2095,7 +2041,7 @@
   "stage1": "6. പ്രസംഗം ഉറുദു"
  },
  {
-  "code": "PJ283",
+  "code": "PJ277",
   "name": "SAHL.CP VADAKKUPARAMBU",
   "darsname": "NUSRATHUL ISLAM DARS MAKKARAPARAMBA",
   "darsplace": "MAKKARAPARAMBA",
@@ -2105,7 +2051,7 @@
   "stage1": "3. വാങ്ക്"
  },
  {
-  "code": "PJ284",
+  "code": "PJ278",
   "name": "ABDUL RAHMAN IRUMBUZHI",
   "darsname": "POOLAMANGALAM DARS POOLAMANGALAM",
   "darsplace": "Poolamangalam, Vettichira",
@@ -2116,7 +2062,7 @@
   "stage1": "18. മദ്ഹുന്നബി"
  },
  {
-  "code": "PJ285",
+  "code": "PJ279",
   "name": "ABDULLAH IRUMBUZHI",
   "darsname": "POOLAMANGALAM DARS POOLAMANGALAM",
   "darsplace": "Poolamangalam, Vettichira",
@@ -2130,7 +2076,7 @@
   "stage3": "5. പ്രസംഗം മലയാളം"
  },
  {
-  "code": "PJ286",
+  "code": "PJ280",
   "name": "SIYAN AHSAN KOPPAM",
   "darsname": "POOLAMANGALAM DARS POOLAMANGALAM",
   "darsplace": "Poolamangalam, Vettichira",
@@ -2143,7 +2089,7 @@
   "stage2": "17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്"
  },
  {
-  "code": "PJ287",
+  "code": "PJ281",
   "name": "Hadil afnan kp vattallur",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -2153,7 +2099,7 @@
   "stage3": "11. മാലപ്പാട്ട്"
  },
  {
-  "code": "PJ288",
+  "code": "PJ282",
   "name": "MUHAMMED AJSAL ARIPRA",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -2168,7 +2114,7 @@
   "groupstage1": "19. അറബി സംഘഗാനം"
  },
  {
-  "code": "PJ289",
+  "code": "PJ283",
   "name": "MUHAMMED ARSHID PATTAMBI",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -2178,7 +2124,7 @@
   "offstage1": "24. ഖത്തുന്നസ്ഖ്"
  },
  {
-  "code": "PJ290",
+  "code": "PJ284",
   "name": "MUHAMMED FAIZAN KADALUNDI",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -2188,7 +2134,7 @@
   "stage1": "17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്"
  },
  {
-  "code": "PJ291",
+  "code": "PJ285",
   "name": "MUHAMMED HASHIM MALA",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -2198,7 +2144,7 @@
   "groupstage1": "20. മലയാള സമൂഹ ഗാനം"
  },
  {
-  "code": "PJ292",
+  "code": "PJ286",
   "name": "MUHAMMED JASIM MALA",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -2208,7 +2154,7 @@
   "stage1": "7. പ്രസംഗം ഇംഗ്ലീഷ്"
  },
  {
-  "code": "PJ293",
+  "code": "PJ287",
   "name": "MUHAMMED JILSHAD K MALA",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -2218,7 +2164,7 @@
   "stage1": "6. പ്രസംഗം ഉറുദു"
  },
  {
-  "code": "PJ294",
+  "code": "PJ288",
   "name": "MUHAMMED MIDLAG PATTAMBI",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -2228,7 +2174,7 @@
   "stage1": "14. ഗദ്യവായന മലയാളം"
  },
  {
-  "code": "PJ295",
+  "code": "PJ289",
   "name": "MUHAMMED NABEEL M",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -2238,16 +2184,7 @@
   "stage1": "5. പ്രസംഗം മലയാളം"
  },
  {
-  "code": "PJ296",
-  "name": "MUHAMMED NIHAL MALA",
-  "darsname": "RABBANIYYA DARS VATTALLUR",
-  "darsplace": "VATTALUR",
-  "zone": "PERINTHALMANNA",
-  "slug": "rabbaniyya-dars-vattallur",
-  "category": "JUNIOR"
- },
- {
-  "code": "PJ297",
+  "code": "PJ290",
   "name": "MUHAMMED NOSHIN KACHINIKKAD",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -2257,7 +2194,7 @@
   "offstage1": "25. കേട്ടെഴുത്ത്"
  },
  {
-  "code": "PJ298",
+  "code": "PJ291",
   "name": "MUHAMMED RABEEH KT VALIYAKUNNU",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -2267,7 +2204,7 @@
   "offstage1": "23. മെമ്മറി ടെസ്റ്റ്"
  },
  {
-  "code": "PJ299",
+  "code": "PJ292",
   "name": "MUHAMMED SHADIN K MALA",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -2277,7 +2214,7 @@
   "stage1": "4. പ്രസംഗം അറബി"
  },
  {
-  "code": "PJ300",
+  "code": "PJ293",
   "name": "MUHAMMED SHAMIL ARIPRA",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -2288,7 +2225,7 @@
   "offstage2": "26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
  },
  {
-  "code": "PJ301",
+  "code": "PJ294",
   "name": "MUHAMMED SINAN K",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -2298,16 +2235,7 @@
   "stage1": "10. മാപ്പിളപ്പാട്ട്"
  },
  {
-  "code": "PJ302",
-  "name": "MUHAMMED SINAN P MALA",
-  "darsname": "RABBANIYYA DARS VATTALLUR",
-  "darsplace": "VATTALUR",
-  "zone": "PERINTHALMANNA",
-  "slug": "rabbaniyya-dars-vattallur",
-  "category": "JUNIOR"
- },
- {
-  "code": "PJ303",
+  "code": "PJ295",
   "name": "MUHAMMED TWAHA VALLIKKAPATTA",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -2317,7 +2245,7 @@
   "offstage3": "27. നിഘണ്ടു നിര്‍മ്മാണം"
  },
  {
-  "code": "PJ304",
+  "code": "PJ296",
   "name": "MUHAMMED YASEEN VALLIKKAPATTA",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -2330,16 +2258,7 @@
   "stage3": "8. ഗ്രന്ഥവായന"
  },
  {
-  "code": "PJ305",
-  "name": "NIHAL ARIPRA",
-  "darsname": "RABBANIYYA DARS VATTALLUR",
-  "darsplace": "VATTALUR",
-  "zone": "PERINTHALMANNA",
-  "slug": "rabbaniyya-dars-vattallur",
-  "category": "JUNIOR"
- },
- {
-  "code": "PJ306",
+  "code": "PJ297",
   "name": "NISHAD T ARIPRA",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -2349,7 +2268,7 @@
   "offstage3": "22. സുഡോക്കു"
  },
  {
-  "code": "PJ307",
+  "code": "PJ298",
   "name": "SAYYID DILBAR ARIPRA",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -2359,7 +2278,7 @@
   "groupstage1": "19. അറബി സംഘഗാനം"
  },
  {
-  "code": "PJ308",
+  "code": "PJ299",
   "name": "SHAMIL C VILLUR",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -2369,7 +2288,7 @@
   "stage1": "9. ഗാനം അറബി"
  },
  {
-  "code": "PJ309",
+  "code": "PJ300",
   "name": "SHIBIL HUMAID KADALUNDI",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -2379,7 +2298,7 @@
   "stage1": "13. കഥ പറച്ചില്‍"
  },
  {
-  "code": "PJ310",
+  "code": "PJ301",
   "name": "SINAN VILLUR",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -2389,7 +2308,7 @@
   "stage1": "3. വാങ്ക്"
  },
  {
-  "code": "PJ311",
+  "code": "PJ302",
   "name": "ABDHUL VAAHID.MT(PANANGAGARA)",
   "darsname": "RAHMANIYYA JUMUA MASJID ANAMANGAD",
   "darsplace": "ANAMANGAD",
@@ -2400,7 +2319,7 @@
   "stage2": "9. ഗാനം അറബി"
  },
  {
-  "code": "PJ312",
+  "code": "PJ303",
   "name": "MUHAMMAD ANSAL.P (ANAMANGAD)",
   "darsname": "RAHMANIYYA JUMUA MASJID ANAMANGAD",
   "darsplace": "ANAMANGAD",
@@ -2411,7 +2330,7 @@
   "stage1": "18. മദ്ഹുന്നബി"
  },
  {
-  "code": "PJ313",
+  "code": "PJ304",
   "name": "AL HASHIR . KALLINGAL",
   "darsname": "SABEELUL HUDHA . EDAYUR PALLIPADI",
   "darsplace": "EDAYUR . PALLI PADI",
@@ -2425,7 +2344,7 @@
   "stage2": "4. പ്രസംഗം അറബി"
  },
  {
-  "code": "PJ314",
+  "code": "PJ305",
   "name": "MUHAMMAD ANSHIF . EDAYUR",
   "darsname": "SABEELUL HUDHA . EDAYUR PALLIPADI",
   "darsplace": "EDAYUR . PALLI PADI",
@@ -2436,7 +2355,7 @@
   "stage2": "3. വാങ്ക്"
  },
  {
-  "code": "PJ315",
+  "code": "PJ306",
   "name": "MUHAMMAD HAMDAN . CHOTTUR",
   "darsname": "SABEELUL HUDHA . EDAYUR PALLIPADI",
   "darsplace": "EDAYUR . PALLI PADI",
@@ -2451,7 +2370,7 @@
   "groupstage1": "20. മലയാള സമൂഹ ഗാനം"
  },
  {
-  "code": "PJ316",
+  "code": "PJ307",
   "name": "MUHAMMAD RASHID . KARATHALA",
   "darsname": "SABEELUL HUDHA . EDAYUR PALLIPADI",
   "darsplace": "EDAYUR . PALLI PADI",
@@ -2465,7 +2384,7 @@
   "stage2": "13. കഥ പറച്ചില്‍"
  },
  {
-  "code": "PJ317",
+  "code": "PJ308",
   "name": "MUHAMMAD RISVAN. KARATHALA",
   "darsname": "SABEELUL HUDHA . EDAYUR PALLIPADI",
   "darsplace": "EDAYUR . PALLI PADI",
@@ -2478,7 +2397,7 @@
   "stage1": "2. ഹിഫ്‌ള്"
  },
  {
-  "code": "PJ318",
+  "code": "PJ309",
   "name": "MUHAMMAD SAHAL. PP - KARATHALA",
   "darsname": "SABEELUL HUDHA . EDAYUR PALLIPADI",
   "darsplace": "EDAYUR . PALLI PADI",
@@ -2490,7 +2409,7 @@
   "stage3": "9. ഗാനം അറബി"
  },
  {
-  "code": "PJ319",
+  "code": "PJ310",
   "name": "MUHAMMAD SUROOR.PANG CHENDI",
   "darsname": "SABEELUL HUDHA . EDAYUR PALLIPADI",
   "darsplace": "EDAYUR . PALLI PADI",
@@ -2502,7 +2421,7 @@
   "stage1": "9. ഗാനം അറബി"
  },
  {
-  "code": "PJ320",
+  "code": "PJ311",
   "name": "MUHAMMAD SWALAH . EDAYUR",
   "darsname": "SABEELUL HUDHA . EDAYUR PALLIPADI",
   "darsplace": "EDAYUR . PALLI PADI",
@@ -2514,7 +2433,7 @@
   "stage2": "16. പദപ്പയറ്റ് അറബി"
  },
  {
-  "code": "PJ321",
+  "code": "PJ312",
   "name": "ABDUL BASITH. POOKALATHOOR",
   "darsname": "SIRAJUL ULAMA DARS. MANATHUMANGALAM",
   "darsplace": "MANATHUMANGALAM",
@@ -2526,7 +2445,7 @@
   "groupstage1": "19. അറബി സംഘഗാനം"
  },
  {
-  "code": "PJ322",
+  "code": "PJ313",
   "name": "MUHAMMAD MUSTHAFA. O THUTHA",
   "darsname": "SIRAJUL ULAMA DARS. MANATHUMANGALAM",
   "darsplace": "MANATHUMANGALAM",
@@ -2537,7 +2456,7 @@
   "stage1": "16. പദപ്പയറ്റ് അറബി"
  },
  {
-  "code": "PJ323",
+  "code": "PJ314",
   "name": "MUHAMMAD SHIBLI.M PANDIKKAD",
   "darsname": "SIRAJUL ULAMA DARS. MANATHUMANGALAM",
   "darsplace": "MANATHUMANGALAM",
@@ -2548,7 +2467,7 @@
   "stage3": "17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്"
  },
  {
-  "code": "PJ324",
+  "code": "PJ315",
   "name": "MUHAMMAD SWALIH. M PUCHENZAL",
   "darsname": "SIRAJUL ULAMA DARS. MANATHUMANGALAM",
   "darsplace": "MANATHUMANGALAM",
@@ -2559,7 +2478,7 @@
   "stage3": "10. മാപ്പിളപ്പാട്ട്"
  },
  {
-  "code": "PJ325",
+  "code": "PJ316",
   "name": "MUHAMMED IQBAL CHATTIPARANB",
   "darsname": "SIRAJUL ULAMA DARS. MANATHUMANGALAM",
   "darsplace": "MANATHUMANGALAM",
@@ -2570,7 +2489,7 @@
   "stage2": "12. ഗാനം ഉറുദു"
  },
  {
-  "code": "PJ326",
+  "code": "PJ317",
   "name": "MUHAMMED SABITH. POOKALATHOOR",
   "darsname": "SIRAJUL ULAMA DARS. MANATHUMANGALAM",
   "darsplace": "MANATHUMANGALAM",
@@ -2581,7 +2500,7 @@
   "stage2": "18. മദ്ഹുന്നബി"
  },
  {
-  "code": "PJ327",
+  "code": "PJ318",
   "name": "MUHAMMED SHAMEEL. VETTIKATTIRI",
   "darsname": "SIRAJUL ULAMA DARS. MANATHUMANGALAM",
   "darsplace": "MANATHUMANGALAM",
@@ -2591,7 +2510,7 @@
   "stage1": "13. കഥ പറച്ചില്‍"
  },
  {
-  "code": "PJ328",
+  "code": "PJ319",
   "name": "SHEHIN RIHAN.KAVANOOR",
   "darsname": "SIRAJUL ULAMA DARS. MANATHUMANGALAM",
   "darsplace": "MANATHUMANGALAM",
@@ -2605,7 +2524,7 @@
   "stage2": "8. ഗ്രന്ഥവായന"
  },
  {
-  "code": "PJ329",
+  "code": "PJ320",
   "name": "ABDULLA JALAL , KARINKALLATHANI",
   "darsname": "TTS NELLIKKUNNU DARS, NELLIKKUNNU",
   "darsplace": "NELLIKKUNNU",
@@ -2617,7 +2536,7 @@
   "stage2": "2. ഹിഫ്‌ള്"
  },
  {
-  "code": "PJ330",
+  "code": "PJ321",
   "name": "ABOOBACKER, KOTTOPPADAM",
   "darsname": "TTS NELLIKKUNNU DARS, NELLIKKUNNU",
   "darsplace": "NELLIKKUNNU",
@@ -2629,7 +2548,7 @@
   "groupstage1": "19. അറബി സംഘഗാനം"
  },
  {
-  "code": "PJ331",
+  "code": "PJ322",
   "name": "ANAS, KARUMALA",
   "darsname": "TTS NELLIKKUNNU DARS, NELLIKKUNNU",
   "darsplace": "NELLIKKUNNU",
@@ -2643,7 +2562,7 @@
   "groupstage2": "20. മലയാള സമൂഹ ഗാനം"
  },
  {
-  "code": "PJ332",
+  "code": "PJ323",
   "name": "MUHAMMED HAFS",
   "darsname": "TTS NELLIKKUNNU DARS, NELLIKKUNNU",
   "darsplace": "NELLIKKUNNU",
@@ -2655,7 +2574,7 @@
   "offstage3": "25. കേട്ടെഴുത്ത്"
  },
  {
-  "code": "PJ333",
+  "code": "PJ324",
   "name": "MUHAMMED LABEEB, AYLAKKARA",
   "darsname": "TTS NELLIKKUNNU DARS, NELLIKKUNNU",
   "darsplace": "NELLIKKUNNU",
@@ -2669,7 +2588,7 @@
   "stage3": "16. പദപ്പയറ്റ് അറബി"
  },
  {
-  "code": "PJ334",
+  "code": "PJ325",
   "name": "MUHAMMED MUEENUDHEEN, RAMANTHURUTHI",
   "darsname": "TTS NELLIKKUNNU DARS, NELLIKKUNNU",
   "darsplace": "NELLIKKUNNU",
@@ -2680,7 +2599,7 @@
   "stage2": "13. കഥ പറച്ചില്‍"
  },
  {
-  "code": "PJ335",
+  "code": "PJ326",
   "name": "MUHAMMED SINAN, KAPPU",
   "darsname": "TTS NELLIKKUNNU DARS, NELLIKKUNNU",
   "darsplace": "NELLIKKUNNU",
@@ -2693,7 +2612,7 @@
   "stage3": "17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്"
  },
  {
-  "code": "PJ336",
+  "code": "PJ327",
   "name": "SHIBILI KHAN,VALANCHERI",
   "darsname": "TTS NELLIKKUNNU DARS, NELLIKKUNNU",
   "darsplace": "NELLIKKUNNU",
@@ -3041,15 +2960,6 @@
  },
  {
   "code": "PS527",
-  "name": "MUHAMMED AFLAH M, PADINJARAKKARA",
-  "darsname": "BUSTHANU TWALIBEEN DARS AMMINIKKAD",
-  "darsplace": "AMMINIKKAD",
-  "zone": "PERINTHALMANNA",
-  "slug": "busthanu-twalibeen-dars-amminikkad",
-  "category": "SENIOR"
- },
- {
-  "code": "PS528",
   "name": "MUHAMMED FAHIM PK, VALANCHERY",
   "darsname": "BUSTHANU TWALIBEEN DARS AMMINIKKAD",
   "darsplace": "AMMINIKKAD",
@@ -3062,7 +2972,7 @@
   "groupstage3": "20. പ്രോഗ്രാം സെറ്റിംഗ്"
  },
  {
-  "code": "PS529",
+  "code": "PS528",
   "name": "MUHAMMED FARHAN PK, PAINKANNUR",
   "darsname": "BUSTHANU TWALIBEEN DARS AMMINIKKAD",
   "darsplace": "AMMINIKKAD",
@@ -3074,16 +2984,7 @@
   "stage1": "8. പ്രസംഗം ഉറുദു"
  },
  {
-  "code": "PS530",
-  "name": "MUHAMMED MAHAROOF ,KAKKOOTH",
-  "darsname": "BUSTHANU TWALIBEEN DARS AMMINIKKAD",
-  "darsplace": "AMMINIKKAD",
-  "zone": "PERINTHALMANNA",
-  "slug": "busthanu-twalibeen-dars-amminikkad",
-  "category": "SENIOR"
- },
- {
-  "code": "PS531",
+  "code": "PS529",
   "name": "MUHAMMED MUSTHAFA.CM,TANUR",
   "darsname": "BUSTHANU TWALIBEEN DARS AMMINIKKAD",
   "darsplace": "AMMINIKKAD",
@@ -3098,16 +2999,7 @@
   "stage3": "13. മുശാഅറ"
  },
  {
-  "code": "PS532",
-  "name": "MUHAMMED RAEES P, KAPPU",
-  "darsname": "BUSTHANU TWALIBEEN DARS AMMINIKKAD",
-  "darsplace": "AMMINIKKAD",
-  "zone": "PERINTHALMANNA",
-  "slug": "busthanu-twalibeen-dars-amminikkad",
-  "category": "SENIOR"
- },
- {
-  "code": "PS533",
+  "code": "PS530",
   "name": "MUHAMMED SINAN.P, PAZHAMALLUR",
   "darsname": "BUSTHANU TWALIBEEN DARS AMMINIKKAD",
   "darsplace": "AMMINIKKAD",
@@ -3121,16 +3013,7 @@
   "stage2": "11. ഗ്രന്ഥ വായന"
  },
  {
-  "code": "PS534",
-  "name": "MUNAWAR ALI M, KONNALLUR",
-  "darsname": "BUSTHANU TWALIBEEN DARS AMMINIKKAD",
-  "darsplace": "AMMINIKKAD",
-  "zone": "PERINTHALMANNA",
-  "slug": "busthanu-twalibeen-dars-amminikkad",
-  "category": "SENIOR"
- },
- {
-  "code": "PS535",
+  "code": "PS531",
   "name": "SAIFUDHEEN CK, KAREKKAD",
   "darsname": "BUSTHANU TWALIBEEN DARS AMMINIKKAD",
   "darsplace": "AMMINIKKAD",
@@ -3145,7 +3028,7 @@
   "stage3": "14. അനൗണ്‍സ്‌മെന്റ്"
  },
  {
-  "code": "PS536",
+  "code": "PS532",
   "name": "SHAHUL HAMEED C, ATHANIPPADI",
   "darsname": "BUSTHANU TWALIBEEN DARS AMMINIKKAD",
   "darsplace": "AMMINIKKAD",
@@ -3156,7 +3039,7 @@
   "stage1": "7. പ്രസംഗം അറബി"
  },
  {
-  "code": "PS537",
+  "code": "PS533",
   "name": "FASIL FIROS PK CHERAMBADI",
   "darsname": "IRSHADU THWALABA PUTHOOR",
   "darsplace": "PUTHOOR KOTTAKKAL",
@@ -3170,7 +3053,7 @@
   "groupstage2": "19. ഖസ്വീദ പാരായണം"
  },
  {
-  "code": "PS538",
+  "code": "PS534",
   "name": "IRSHAD KALIKAVU",
   "darsname": "IRSHADU THWALABA PUTHOOR",
   "darsplace": "PUTHOOR KOTTAKKAL",
@@ -3183,7 +3066,7 @@
   "stage1": "6. പ്രസംഗം മലയാളം"
  },
  {
-  "code": "PS539",
+  "code": "PS535",
   "name": "MINHATHULLAH E NALLOOR",
   "darsname": "IRSHADU THWALABA PUTHOOR",
   "darsplace": "PUTHOOR KOTTAKKAL",
@@ -3199,7 +3082,7 @@
   "groupstage3": "20. പ്രോഗ്രാം സെറ്റിംഗ്"
  },
  {
-  "code": "PS540",
+  "code": "PS536",
   "name": "MUHAMMED NASIM K KANIYAMBATTA",
   "darsname": "IRSHADU THWALABA PUTHOOR",
   "darsplace": "PUTHOOR KOTTAKKAL",
@@ -3212,7 +3095,7 @@
   "groupoffstage": "40. പത്രനിര്‍മാണം"
  },
  {
-  "code": "PS541",
+  "code": "PS537",
   "name": "MUHAMMED SAFVAN AT POOKKIPARAMBU",
   "darsname": "IRSHADU THWALABA PUTHOOR",
   "darsplace": "PUTHOOR KOTTAKKAL",
@@ -3227,7 +3110,7 @@
   "stage3": "11. ഗ്രന്ഥ വായന"
  },
  {
-  "code": "PS542",
+  "code": "PS538",
   "name": "MUHAMMED SINAN KP MANANDAVAADI",
   "darsname": "IRSHADU THWALABA PUTHOOR",
   "darsplace": "PUTHOOR KOTTAKKAL",
@@ -3242,7 +3125,7 @@
   "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്"
  },
  {
-  "code": "PS543",
+  "code": "PS539",
   "name": "NIYASUDHEEN C ELAYUR",
   "darsname": "IRSHADU THWALABA PUTHOOR",
   "darsplace": "PUTHOOR KOTTAKKAL",
@@ -3255,7 +3138,7 @@
   "stage3": "12. കവിതാലാപനം മലയാളം"
  },
  {
-  "code": "PS544",
+  "code": "PS540",
   "name": "SHABEEB MALOOF P CHERAMBADI",
   "darsname": "IRSHADU THWALABA PUTHOOR",
   "darsplace": "PUTHOOR KOTTAKKAL",
@@ -3268,7 +3151,7 @@
   "stage3": "2. ഹിഫ്‌ള്"
  },
  {
-  "code": "PS545",
+  "code": "PS541",
   "name": "ABDU NAFIH SHAN",
   "darsname": "IYNUL MARIF PONNIAKURUSSI",
   "darsplace": "PONNIAKURUSSI",
@@ -3278,7 +3161,7 @@
   "stage1": "14. അനൗണ്‍സ്‌മെന്റ്"
  },
  {
-  "code": "PS546",
+  "code": "PS542",
   "name": "ABU SUHAIR P",
   "darsname": "IYNUL MARIF PONNIAKURUSSI",
   "darsplace": "PONNIAKURUSSI",
@@ -3293,7 +3176,7 @@
   "groupstage2": "20. പ്രോഗ്രാം സെറ്റിംഗ്"
  },
  {
-  "code": "PS547",
+  "code": "PS543",
   "name": "ANSHID NM",
   "darsname": "IYNUL MARIF PONNIAKURUSSI",
   "darsplace": "PONNIAKURUSSI",
@@ -3305,7 +3188,7 @@
   "offstage3": "32. തലവാചക നിര്‍മ്മാണം"
  },
  {
-  "code": "PS548",
+  "code": "PS544",
   "name": "MOHAMMED ANAS P",
   "darsname": "IYNUL MARIF PONNIAKURUSSI",
   "darsplace": "PONNIAKURUSSI",
@@ -3315,7 +3198,7 @@
   "groupoffstage": "40. പത്രനിര്‍മാണം"
  },
  {
-  "code": "PS549",
+  "code": "PS545",
   "name": "MOHAMMED ANEES V",
   "darsname": "IYNUL MARIF PONNIAKURUSSI",
   "darsplace": "PONNIAKURUSSI",
@@ -3326,7 +3209,7 @@
   "offstage2": "37. പദ സമ്പാദനം"
  },
  {
-  "code": "PS550",
+  "code": "PS546",
   "name": "MOHAMMED IRSHAD ALI A",
   "darsname": "IYNUL MARIF PONNIAKURUSSI",
   "darsplace": "PONNIAKURUSSI",
@@ -3338,7 +3221,7 @@
   "groupstage2": "19. ഖസ്വീദ പാരായണം"
  },
  {
-  "code": "PS551",
+  "code": "PS547",
   "name": "MOHAMMED SALIH A",
   "darsname": "IYNUL MARIF PONNIAKURUSSI",
   "darsplace": "PONNIAKURUSSI",
@@ -3353,7 +3236,7 @@
   "stage3": "13. മുശാഅറ"
  },
  {
-  "code": "PS552",
+  "code": "PS548",
   "name": "MUHAMMED DASTHAKEER P",
   "darsname": "IYNUL MARIF PONNIAKURUSSI",
   "darsplace": "PONNIAKURUSSI",
@@ -3367,7 +3250,7 @@
   "stage3": "4. ക്ലാസ് അവതരണം"
  },
  {
-  "code": "PS553",
+  "code": "PS549",
   "name": "MUHAMMED IRFAN CK",
   "darsname": "IYNUL MARIF PONNIAKURUSSI",
   "darsplace": "PONNIAKURUSSI",
@@ -3379,16 +3262,7 @@
   "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്"
  },
  {
-  "code": "PS554",
-  "name": "MUHAMMED NASEEF SHIBILI",
-  "darsname": "IYNUL MARIF PONNIAKURUSSI",
-  "darsplace": "PONNIAKURUSSI",
-  "zone": "PERINTHALMANNA",
-  "slug": "iynul-marif-ponniakurussi",
-  "category": "SENIOR"
- },
- {
-  "code": "PS555",
+  "code": "PS550",
   "name": "MUHAMMED RAMEES C",
   "darsname": "IYNUL MARIF PONNIAKURUSSI",
   "darsplace": "PONNIAKURUSSI",
@@ -3398,7 +3272,7 @@
   "offstage1": "22. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
  },
  {
-  "code": "PS556",
+  "code": "PS551",
   "name": "MUHAMMED SHIBILI T",
   "darsname": "IYNUL MARIF PONNIAKURUSSI",
   "darsplace": "PONNIAKURUSSI",
@@ -3412,16 +3286,7 @@
   "stage2": "7. പ്രസംഗം അറബി"
  },
  {
-  "code": "PS557",
-  "name": "MUHAMMED SUHAIL TT",
-  "darsname": "IYNUL MARIF PONNIAKURUSSI",
-  "darsplace": "PONNIAKURUSSI",
-  "zone": "PERINTHALMANNA",
-  "slug": "iynul-marif-ponniakurussi",
-  "category": "SENIOR"
- },
- {
-  "code": "PS558",
+  "code": "PS552",
   "name": "NASRUDHEEN E",
   "darsname": "IYNUL MARIF PONNIAKURUSSI",
   "darsplace": "PONNIAKURUSSI",
@@ -3434,7 +3299,7 @@
   "stage1": "15. പ്രബന്ധാവതരണം"
  },
  {
-  "code": "PS559",
+  "code": "PS553",
   "name": "ABDUL BASITH.VP,NELLIKKUNNU",
   "darsname": "JAMALIYYA DARS VATTAPPARAMBU, KARINKALLATHANI",
   "darsplace": "VATTAPPARAMBU, KARINKALLATHANI",
@@ -3446,7 +3311,7 @@
   "stage1": "15. പ്രബന്ധാവതരണം"
  },
  {
-  "code": "PS560",
+  "code": "PS554",
   "name": "AHAMMED YASEEN.K, KARINKALLATHANI",
   "darsname": "JAMALIYYA DARS VATTAPPARAMBU, KARINKALLATHANI",
   "darsplace": "VATTAPPARAMBU, KARINKALLATHANI",
@@ -3459,7 +3324,7 @@
   "stage1": "2. ഹിഫ്‌ള്"
  },
  {
-  "code": "PS561",
+  "code": "PS555",
   "name": "AK.IBRAHEEM THAJUDHEEN ,ALANALUR",
   "darsname": "JAMALIYYA DARS VATTAPPARAMBU, KARINKALLATHANI",
   "darsplace": "VATTAPPARAMBU, KARINKALLATHANI",
@@ -3470,7 +3335,7 @@
   "stage2": "16. നിമിഷപ്രസംഗം"
  },
  {
-  "code": "PS562",
+  "code": "PS556",
   "name": "ARSHAD.A",
   "darsname": "JAMALIYYA DARS VATTAPPARAMBU, KARINKALLATHANI",
   "darsplace": "VATTAPPARAMBU, KARINKALLATHANI",
@@ -3480,7 +3345,7 @@
   "stage1": "6. പ്രസംഗം മലയാളം"
  },
  {
-  "code": "PS563",
+  "code": "PS557",
   "name": "ASHIF.C, THEYYOTTUCHIRA",
   "darsname": "JAMALIYYA DARS VATTAPPARAMBU, KARINKALLATHANI",
   "darsplace": "VATTAPPARAMBU, KARINKALLATHANI",
@@ -3493,7 +3358,7 @@
   "groupoffstage": "40. പത്രനിര്‍മാണം"
  },
  {
-  "code": "PS564",
+  "code": "PS558",
   "name": "DHUNNORUL BISHRI.NK",
   "darsname": "JAMALIYYA DARS VATTAPPARAMBU, KARINKALLATHANI",
   "darsplace": "VATTAPPARAMBU, KARINKALLATHANI",
@@ -3503,7 +3368,7 @@
   "stage1": "8. പ്രസംഗം ഉറുദു"
  },
  {
-  "code": "PS565",
+  "code": "PS559",
   "name": "IRSHAD.T, KACHERIPPARAMBA",
   "darsname": "JAMALIYYA DARS VATTAPPARAMBU, KARINKALLATHANI",
   "darsplace": "VATTAPPARAMBU, KARINKALLATHANI",
@@ -3513,7 +3378,7 @@
   "stage1": "13. മുശാഅറ"
  },
  {
-  "code": "PS566",
+  "code": "PS560",
   "name": "JASEEL.K, KACHERIPPARAMBA",
   "darsname": "JAMALIYYA DARS VATTAPPARAMBU, KARINKALLATHANI",
   "darsplace": "VATTAPPARAMBU, KARINKALLATHANI",
@@ -3526,7 +3391,7 @@
   "groupstage3": "20. പ്രോഗ്രാം സെറ്റിംഗ്"
  },
  {
-  "code": "PS567",
+  "code": "PS561",
   "name": "MUHAMMED FAYIZ.KK",
   "darsname": "JAMALIYYA DARS VATTAPPARAMBU, KARINKALLATHANI",
   "darsplace": "VATTAPPARAMBU, KARINKALLATHANI",
@@ -3538,7 +3403,7 @@
   "offstage3": "23. ഖത്തുന്നസ്ഖ്"
  },
  {
-  "code": "PS568",
+  "code": "PS562",
   "name": "MUHAMMED MUSTHAFA.TK,PARAKKANNI",
   "darsname": "JAMALIYYA DARS VATTAPPARAMBU, KARINKALLATHANI",
   "darsplace": "VATTAPPARAMBU, KARINKALLATHANI",
@@ -3553,7 +3418,7 @@
   "stage3": "11. ഗ്രന്ഥ വായന"
  },
  {
-  "code": "PS569",
+  "code": "PS563",
   "name": "MUHAMMED RAMEESUDHEEN.K,VALAMBOOR",
   "darsname": "JAMALIYYA DARS VATTAPPARAMBU, KARINKALLATHANI",
   "darsplace": "VATTAPPARAMBU, KARINKALLATHANI",
@@ -3563,7 +3428,7 @@
   "offstage1": "37. പദ സമ്പാദനം"
  },
  {
-  "code": "PS570",
+  "code": "PS564",
   "name": "MUHAMMED SALEEM.RA, MANNARKKAD",
   "darsname": "JAMALIYYA DARS VATTAPPARAMBU, KARINKALLATHANI",
   "darsplace": "VATTAPPARAMBU, KARINKALLATHANI",
@@ -3574,7 +3439,7 @@
   "groupstage2": "19. ഖസ്വീദ പാരായണം"
  },
  {
-  "code": "PS571",
+  "code": "PS565",
   "name": "MUHAMMED SWADIQ.K, PUNJAKKODE",
   "darsname": "JAMALIYYA DARS VATTAPPARAMBU, KARINKALLATHANI",
   "darsplace": "VATTAPPARAMBU, KARINKALLATHANI",
@@ -3585,7 +3450,7 @@
   "stage2": "12. കവിതാലാപനം മലയാളം"
  },
  {
-  "code": "PS572",
+  "code": "PS566",
   "name": "MUHAMMED SWALIH.PP, MANNARKKAD",
   "darsname": "JAMALIYYA DARS VATTAPPARAMBU, KARINKALLATHANI",
   "darsplace": "VATTAPPARAMBU, KARINKALLATHANI",
@@ -3595,7 +3460,7 @@
   "stage1": "17. പാടിപ്പറയല്‍"
  },
  {
-  "code": "PS573",
+  "code": "PS567",
   "name": "SAINUL ABID",
   "darsname": "JAMALIYYA DARS VATTAPPARAMBU, KARINKALLATHANI",
   "darsplace": "VATTAPPARAMBU, KARINKALLATHANI",
@@ -3605,7 +3470,7 @@
   "offstage1": "36. അടിക്കുറിപ്പ്"
  },
  {
-  "code": "PS574",
+  "code": "PS568",
   "name": "UNAIS.TH",
   "darsname": "JAMALIYYA DARS VATTAPPARAMBU, KARINKALLATHANI",
   "darsplace": "VATTAPPARAMBU, KARINKALLATHANI",
@@ -3618,7 +3483,7 @@
   "stage1": "9. പ്രസംഗം ഇംഗ്ലീഷ്"
  },
  {
-  "code": "PS575",
+  "code": "PS569",
   "name": "MUHAMMAD JABIR VATTALOOR",
   "darsname": "JAWAHIRUL ULOOM DARS KAKKOOTH",
   "darsplace": "PERINTHALMANNA",
@@ -3630,7 +3495,7 @@
   "stage3": "5. വഅ്‌ള്"
  },
  {
-  "code": "PS576",
+  "code": "PS570",
   "name": "MUHAMMED JABIR VATALOOR",
   "darsname": "JAWAHIRUL ULOOM DARS KAKKOOTH",
   "darsplace": "PERINTHALMANNA",
@@ -3642,7 +3507,7 @@
   "stage3": "10. ഖുഥ്ബ"
  },
  {
-  "code": "PS577",
+  "code": "PS571",
   "name": "MUHAMMED JASIR TANUR",
   "darsname": "JAWAHIRUL ULOOM DARS KAKKOOTH",
   "darsplace": "PERINTHALMANNA",
@@ -3654,7 +3519,7 @@
   "stage3": "3. വാങ്ക്"
  },
  {
-  "code": "PS578",
+  "code": "PS572",
   "name": "MUHAMMED MUBASHIR M KIZHAKKUMPADAM",
   "darsname": "MA'DINUL ULOOM DARS KIZHAKKUMPADAM",
   "darsplace": "KIZHAKKUMPADAM",
@@ -3670,7 +3535,7 @@
   "groupoffstage": "40. പത്രനിര്‍മാണം"
  },
  {
-  "code": "PS579",
+  "code": "PS573",
   "name": "MUHAMMED MUSTHAFA SHANU PH KUNNAMANGALAM",
   "darsname": "MA'DINUL ULOOM DARS KIZHAKKUMPADAM",
   "darsplace": "KIZHAKKUMPADAM",
@@ -3686,7 +3551,7 @@
   "groupstage3": "20. പ്രോഗ്രാം സെറ്റിംഗ്"
  },
  {
-  "code": "PS580",
+  "code": "PS574",
   "name": "MUHAMMED SAFWAN OTHUKKUNGAL",
   "darsname": "MA'DINUL ULOOM DARS KIZHAKKUMPADAM",
   "darsplace": "KIZHAKKUMPADAM",
@@ -3702,7 +3567,7 @@
   "groupstage2": "19. ഖസ്വീദ പാരായണം"
  },
  {
-  "code": "PS581",
+  "code": "PS575",
   "name": "MUHAMMED SWALIH TK ELANKUR",
   "darsname": "MA'DINUL ULOOM DARS KIZHAKKUMPADAM",
   "darsplace": "KIZHAKKUMPADAM",
@@ -3718,7 +3583,7 @@
   "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്"
  },
  {
-  "code": "PS582",
+  "code": "PS576",
   "name": "UVAIS PK ANAMANGAD",
   "darsname": "MA'DINUL ULOOM DARS KIZHAKKUMPADAM",
   "darsplace": "KIZHAKKUMPADAM",
@@ -3733,7 +3598,7 @@
   "stage3": "8. പ്രസംഗം ഉറുദു"
  },
  {
-  "code": "PS583",
+  "code": "PS577",
   "name": "FATHWAH SHIBIL TANALUR",
   "darsname": "MAJLISUL IRFAN DARS ACHIPRA",
   "darsplace": "ACHIPRA",
@@ -3746,7 +3611,7 @@
   "groupstage2": "19. ഖസ്വീദ പാരായണം"
  },
  {
-  "code": "PS584",
+  "code": "PS578",
   "name": "JASIM IRSHAD PONNANI",
   "darsname": "MAJLISUL IRFAN DARS ACHIPRA",
   "darsplace": "ACHIPRA",
@@ -3760,7 +3625,7 @@
   "stage2": "3. വാങ്ക്"
  },
  {
-  "code": "PS585",
+  "code": "PS579",
   "name": "JUNAIS TANUR",
   "darsname": "MAJLISUL IRFAN DARS ACHIPRA",
   "darsplace": "ACHIPRA",
@@ -3771,7 +3636,7 @@
   "stage2": "14. അനൗണ്‍സ്‌മെന്റ്"
  },
  {
-  "code": "PS586",
+  "code": "PS580",
   "name": "MISHAB KURUKKOL",
   "darsname": "MAJLISUL IRFAN DARS ACHIPRA",
   "darsplace": "ACHIPRA",
@@ -3783,7 +3648,7 @@
   "stage1": "9. പ്രസംഗം ഇംഗ്ലീഷ്"
  },
  {
-  "code": "PS587",
+  "code": "PS581",
   "name": "MOHAMMED RIYAS THEKKAN KUTTOR",
   "darsname": "MAJLISUL IRFAN DARS ACHIPRA",
   "darsplace": "ACHIPRA",
@@ -3795,7 +3660,7 @@
   "stage2": "16. നിമിഷപ്രസംഗം"
  },
  {
-  "code": "PS588",
+  "code": "PS582",
   "name": "MOHAMMED SUHAIB",
   "darsname": "MAJLISUL IRFAN DARS ACHIPRA",
   "darsplace": "ACHIPRA",
@@ -3806,7 +3671,7 @@
   "stage1": "12. കവിതാലാപനം മലയാളം"
  },
  {
-  "code": "PS589",
+  "code": "PS583",
   "name": "MOHAMMED THASNIF VENGARA",
   "darsname": "MAJLISUL IRFAN DARS ACHIPRA",
   "darsplace": "ACHIPRA",
@@ -3817,7 +3682,7 @@
   "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്"
  },
  {
-  "code": "PS590",
+  "code": "PS584",
   "name": "MUHAMMED ANES KOPPAM",
   "darsname": "MAJLISUL IRFAN DARS ACHIPRA",
   "darsplace": "ACHIPRA",
@@ -3830,7 +3695,7 @@
   "stage3": "8. പ്രസംഗം ഉറുദു"
  },
  {
-  "code": "PS591",
+  "code": "PS585",
   "name": "MUHAMMED RAHEES",
   "darsname": "MAJLISUL IRFAN DARS ACHIPRA",
   "darsplace": "ACHIPRA",
@@ -3844,7 +3709,7 @@
   "groupoffstage": "40. പത്രനിര്‍മാണം"
  },
  {
-  "code": "PS592",
+  "code": "PS586",
   "name": "MUHAMMED RAHEES PONNANI",
   "darsname": "MAJLISUL IRFAN DARS ACHIPRA",
   "darsplace": "ACHIPRA",
@@ -3857,7 +3722,7 @@
   "stage2": "17. പാടിപ്പറയല്‍"
  },
  {
-  "code": "PS593",
+  "code": "PS587",
   "name": "MUHAMMED SAJEER KUTTAYI",
   "darsname": "MAJLISUL IRFAN DARS ACHIPRA",
   "darsplace": "ACHIPRA",
@@ -3868,7 +3733,7 @@
   "stage1": "15. പ്രബന്ധാവതരണം"
  },
  {
-  "code": "PS594",
+  "code": "PS588",
   "name": "UMARALI HASHIR KARATHUR",
   "darsname": "MAJLISUL IRFAN DARS ACHIPRA",
   "darsplace": "ACHIPRA",
@@ -3880,7 +3745,7 @@
   "offstage3": "36. അടിക്കുറിപ്പ്"
  },
  {
-  "code": "PS595",
+  "code": "PS589",
   "name": "LUKHMANUL HAKEEM TIRUR",
   "darsname": "MANKADA PALLIPPURAM DARS",
   "darsplace": "MANKADA PALLIPPURAM",
@@ -3894,7 +3759,7 @@
   "stage2": "9. പ്രസംഗം ഇംഗ്ലീഷ്"
  },
  {
-  "code": "PS596",
+  "code": "PS590",
   "name": "MOHAMMED FAIZ KANNUR",
   "darsname": "MANKADA PALLIPPURAM DARS",
   "darsplace": "MANKADA PALLIPPURAM",
@@ -3905,7 +3770,7 @@
   "stage1": "6. പ്രസംഗം മലയാളം"
  },
  {
-  "code": "PS597",
+  "code": "PS591",
   "name": "MOHAMMED FAZAL KANNUR",
   "darsname": "MANKADA PALLIPPURAM DARS",
   "darsplace": "MANKADA PALLIPPURAM",
@@ -3917,7 +3782,7 @@
   "stage1": "8. പ്രസംഗം ഉറുദു"
  },
  {
-  "code": "PS598",
+  "code": "PS592",
   "name": "MOHAMMED RABEEH VETTATHUR",
   "darsname": "MANKADA PALLIPPURAM DARS",
   "darsplace": "MANKADA PALLIPPURAM",
@@ -3928,7 +3793,7 @@
   "stage1": "13. മുശാഅറ"
  },
  {
-  "code": "PS599",
+  "code": "PS593",
   "name": "MUHAMMED ARSHAD AMMINIKKAD",
   "darsname": "MANKADA PALLIPPURAM DARS",
   "darsplace": "MANKADA PALLIPPURAM",
@@ -3941,7 +3806,7 @@
   "stage1": "11. ഗ്രന്ഥ വായന"
  },
  {
-  "code": "PS600",
+  "code": "PS594",
   "name": "MUHAMMED SAIFUDDEEN WAYANAD",
   "darsname": "MANKADA PALLIPPURAM DARS",
   "darsplace": "MANKADA PALLIPPURAM",
@@ -3955,7 +3820,7 @@
   "stage3": "12. കവിതാലാപനം മലയാളം"
  },
  {
-  "code": "PS601",
+  "code": "PS595",
   "name": "MURSHID PANG",
   "darsname": "MANKADA PALLIPPURAM DARS",
   "darsplace": "MANKADA PALLIPPURAM",
@@ -3967,7 +3832,7 @@
   "stage2": "10. ഖുഥ്ബ"
  },
  {
-  "code": "PS602",
+  "code": "PS596",
   "name": "UMERUL FAROOQUE ALATHURPADI",
   "darsname": "MANKADA PALLIPPURAM DARS",
   "darsplace": "MANKADA PALLIPPURAM",
@@ -3980,7 +3845,7 @@
   "stage2": "17. പാടിപ്പറയല്‍"
  },
  {
-  "code": "PS603",
+  "code": "PS597",
   "name": "ABDUL SALEEM KP",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -3990,7 +3855,7 @@
   "groupoffstage": "40. പത്രനിര്‍മാണം"
  },
  {
-  "code": "PS604",
+  "code": "PS598",
   "name": "AMEEN MISHAL KANNUR",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -4003,7 +3868,7 @@
   "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്"
  },
  {
-  "code": "PS605",
+  "code": "PS599",
   "name": "FAHIS VALLIKUNNU",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -4016,7 +3881,7 @@
   "stage2": "16. നിമിഷപ്രസംഗം"
  },
  {
-  "code": "PS606",
+  "code": "PS600",
   "name": "FASIL NILIGIRI",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -4031,7 +3896,7 @@
   "stage3": "17. പാടിപ്പറയല്‍"
  },
  {
-  "code": "PS607",
+  "code": "PS601",
   "name": "HAFIZ AJMAL WAYANAD",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -4042,7 +3907,7 @@
   "stage2": "7. പ്രസംഗം അറബി"
  },
  {
-  "code": "PS608",
+  "code": "PS602",
   "name": "HAFIZ MUHAMMED KNR",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -4052,7 +3917,7 @@
   "stage1": "2. ഹിഫ്‌ള്"
  },
  {
-  "code": "PS609",
+  "code": "PS603",
   "name": "HAFIZ SHAMNAS WAYANAD",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -4062,16 +3927,7 @@
   "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്"
  },
  {
-  "code": "PS610",
-  "name": "MAHROOF PALACHIRAMAD",
-  "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
-  "darsplace": "VALANCHERY",
-  "zone": "PERINTHALMANNA",
-  "slug": "markazul-ulama-dars-valanchery",
-  "category": "SENIOR"
- },
- {
-  "code": "PS611",
+  "code": "PS604",
   "name": "MUBASHIRUDHEEN T EDAPPAL",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -4085,7 +3941,7 @@
   "stage2": "11. ഗ്രന്ഥ വായന"
  },
  {
-  "code": "PS612",
+  "code": "PS605",
   "name": "MUHAMMAD SAHADUDHEEN V PONMALA",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -4095,7 +3951,7 @@
   "offstage1": "38. തശ്കീല്‍"
  },
  {
-  "code": "PS613",
+  "code": "PS606",
   "name": "MUHAMMED ABOOBACKER KANNUR",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -4105,16 +3961,7 @@
   "stage2": "10. ഖുഥ്ബ"
  },
  {
-  "code": "PS614",
-  "name": "MUHAMMED ANSAR A.K KASARAGOD",
-  "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
-  "darsplace": "VALANCHERY",
-  "zone": "PERINTHALMANNA",
-  "slug": "markazul-ulama-dars-valanchery",
-  "category": "SENIOR"
- },
- {
-  "code": "PS615",
+  "code": "PS607",
   "name": "MUHAMMED K.P",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -4124,16 +3971,7 @@
   "groupstage2": "19. ഖസ്വീദ പാരായണം"
  },
  {
-  "code": "PS616",
-  "name": "MUHAMMED K.P KANNUR",
-  "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
-  "darsplace": "VALANCHERY",
-  "zone": "PERINTHALMANNA",
-  "slug": "markazul-ulama-dars-valanchery",
-  "category": "SENIOR"
- },
- {
-  "code": "PS617",
+  "code": "PS608",
   "name": "MUHAMMED SHAMVEEL CK VAZHAKKAD",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -4143,7 +3981,7 @@
   "stage1": "14. അനൗണ്‍സ്‌മെന്റ്"
  },
  {
-  "code": "PS618",
+  "code": "PS609",
   "name": "MUHAMMED SHEFIN THODUPUZHA",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -4157,7 +3995,7 @@
   "stage2": "15. പ്രബന്ധാവതരണം"
  },
  {
-  "code": "PS619",
+  "code": "PS610",
   "name": "MUHAMMED SINAN MK APPLI",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -4167,7 +4005,7 @@
   "stage1": "12. കവിതാലാപനം മലയാളം"
  },
  {
-  "code": "PS620",
+  "code": "PS611",
   "name": "MUHAMMED SINAN UP WAYANAD",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -4177,7 +4015,7 @@
   "offstage1": "33. മുദ്രവാക്യ രചന"
  },
  {
-  "code": "PS621",
+  "code": "PS612",
   "name": "SAFVAN PARAPPANANGADI",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -4187,7 +4025,7 @@
   "offstage1": "22. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
  },
  {
-  "code": "PS622",
+  "code": "PS613",
   "name": "SAYYID AHMED JURAIJ BA ALAVI",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -4199,16 +4037,7 @@
   "stage2": "3. വാങ്ക്"
  },
  {
-  "code": "PS623",
-  "name": "SAYYID TWAYYIB THANGAL",
-  "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
-  "darsplace": "VALANCHERY",
-  "zone": "PERINTHALMANNA",
-  "slug": "markazul-ulama-dars-valanchery",
-  "category": "SENIOR"
- },
- {
-  "code": "PS624",
+  "code": "PS614",
   "name": "SHADHULI VAILATHOOR",
   "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
   "darsplace": "VALANCHERY",
@@ -4219,25 +4048,7 @@
   "offstage2": "21. അറബിക് കാലിഗ്രഫി"
  },
  {
-  "code": "PS625",
-  "name": "WALEED MAHAMOOD KANNUR",
-  "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
-  "darsplace": "VALANCHERY",
-  "zone": "PERINTHALMANNA",
-  "slug": "markazul-ulama-dars-valanchery",
-  "category": "SENIOR"
- },
- {
-  "code": "PS626",
-  "name": "YOUNUS CHAMRAVATTAM",
-  "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
-  "darsplace": "VALANCHERY",
-  "zone": "PERINTHALMANNA",
-  "slug": "markazul-ulama-dars-valanchery",
-  "category": "SENIOR"
- },
- {
-  "code": "PS627",
+  "code": "PS615",
   "name": "ABDUL NAZIR MK KOLAPPURAM",
   "darsname": "MISHKATHUL HUDA DARS EDAYATTUR",
   "darsplace": "EDAYATTUR",
@@ -4247,7 +4058,7 @@
   "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്"
  },
  {
-  "code": "PS628",
+  "code": "PS616",
   "name": "ANSIL M KOTTUR",
   "darsname": "MISHKATHUL HUDA DARS EDAYATTUR",
   "darsplace": "EDAYATTUR",
@@ -4260,7 +4071,7 @@
   "groupstage2": "19. ഖസ്വീദ പാരായണം"
  },
  {
-  "code": "PS629",
+  "code": "PS617",
   "name": "MUHAMMAD IRSHAD POKOLOTHUR",
   "darsname": "MISHKATHUL HUDA DARS EDAYATTUR",
   "darsplace": "EDAYATTUR",
@@ -4270,7 +4081,7 @@
   "stage1": "4. ക്ലാസ് അവതരണം"
  },
  {
-  "code": "PS630",
+  "code": "PS618",
   "name": "MUHAMMED FAHIZ",
   "darsname": "MISHKATHUL HUDA DARS EDAYATTUR",
   "darsplace": "EDAYATTUR",
@@ -4285,7 +4096,7 @@
   "groupoffstage": "40. പത്രനിര്‍മാണം"
  },
  {
-  "code": "PS631",
+  "code": "PS619",
   "name": "MUHAMMED HAFEEF PT ATHALOOR",
   "darsname": "MISHKATHUL HUDA DARS EDAYATTUR",
   "darsplace": "EDAYATTUR",
@@ -4295,7 +4106,7 @@
   "offstage1": "36. അടിക്കുറിപ്പ്"
  },
  {
-  "code": "PS632",
+  "code": "PS620",
   "name": "MUHAMMED MARVAN P EDAYATTUR",
   "darsname": "MISHKATHUL HUDA DARS EDAYATTUR",
   "darsplace": "EDAYATTUR",
@@ -4305,7 +4116,7 @@
   "stage1": "17. പാടിപ്പറയല്‍"
  },
  {
-  "code": "PS633",
+  "code": "PS621",
   "name": "MUHAMMED MISHHAB IRUMBUZHI",
   "darsname": "MISHKATHUL HUDA DARS EDAYATTUR",
   "darsplace": "EDAYATTUR",
@@ -4320,7 +4131,7 @@
   "stage3": "8. പ്രസംഗം ഉറുദു"
  },
  {
-  "code": "PS634",
+  "code": "PS622",
   "name": "MUHAMMED RABEEH KP KOLATHUR",
   "darsname": "MISHKATHUL HUDA DARS EDAYATTUR",
   "darsplace": "EDAYATTUR",
@@ -4332,7 +4143,7 @@
   "stage1": "9. പ്രസംഗം ഇംഗ്ലീഷ്"
  },
  {
-  "code": "PS635",
+  "code": "PS623",
   "name": "MUHAMMED SAFEER KOZHICHENA",
   "darsname": "MISHKATHUL HUDA DARS EDAYATTUR",
   "darsplace": "EDAYATTUR",
@@ -4346,7 +4157,7 @@
   "stage2": "13. മുശാഅറ"
  },
  {
-  "code": "PS636",
+  "code": "PS624",
   "name": "MUHAMMED SAFUVAN THANGAL KUTTIPPURAM",
   "darsname": "MISHKATHUL HUDA DARS EDAYATTUR",
   "darsplace": "EDAYATTUR",
@@ -4357,7 +4168,7 @@
   "offstage2": "23. ഖത്തുന്നസ്ഖ്"
  },
  {
-  "code": "PS637",
+  "code": "PS625",
   "name": "NEJUM VALANJERI",
   "darsname": "MISHKATHUL HUDA DARS EDAYATTUR",
   "darsplace": "EDAYATTUR",
@@ -4367,7 +4178,7 @@
   "stage1": "12. കവിതാലാപനം മലയാളം"
  },
  {
-  "code": "PS638",
+  "code": "PS626",
   "name": "SHAKEER AHAMMED MK",
   "darsname": "MISHKATHUL HUDA DARS EDAYATTUR",
   "darsplace": "EDAYATTUR",
@@ -4383,7 +4194,7 @@
   "groupstage3": "20. പ്രോഗ്രാം സെറ്റിംഗ്"
  },
  {
-  "code": "PS639",
+  "code": "PS627",
   "name": "MOHAMMED ANSHID T,ERANTHODE",
   "darsname": "MQSS,PACHEERI",
   "darsplace": "PACHEEERI,MANNARMALA",
@@ -4396,7 +4207,7 @@
   "stage1": "5. വഅ്‌ള്"
  },
  {
-  "code": "PS640",
+  "code": "PS628",
   "name": "MUHAMMED SHANIF N S,MANNARKKAD",
   "darsname": "MQSS,PACHEERI",
   "darsplace": "PACHEEERI,MANNARMALA",
@@ -4410,7 +4221,7 @@
   "stage3": "11. ഗ്രന്ഥ വായന"
  },
  {
-  "code": "PS641",
+  "code": "PS629",
   "name": "JINSHAD.CK KUTTASHERI",
   "darsname": "NUSRATHUL ISLAM DARS MAKKARAPARAMBA",
   "darsplace": "MAKKARAPARAMBA",
@@ -4420,7 +4231,7 @@
   "offstage1": "36. അടിക്കുറിപ്പ്"
  },
  {
-  "code": "PS642",
+  "code": "PS630",
   "name": "JIYAD RAHMAN.V THIRUVALI",
   "darsname": "NUSRATHUL ISLAM DARS MAKKARAPARAMBA",
   "darsplace": "MAKKARAPARAMBA",
@@ -4431,7 +4242,7 @@
   "stage2": "14. അനൗണ്‍സ്‌മെന്റ്"
  },
  {
-  "code": "PS643",
+  "code": "PS631",
   "name": "MUHAMMED NIYAS.C NELLIKKUTH",
   "darsname": "NUSRATHUL ISLAM DARS MAKKARAPARAMBA",
   "darsplace": "MAKKARAPARAMBA",
@@ -4442,7 +4253,7 @@
   "stage2": "3. വാങ്ക്"
  },
  {
-  "code": "PS644",
+  "code": "PS632",
   "name": "MUHAMMED RASHID .M PANTHALLUR",
   "darsname": "NUSRATHUL ISLAM DARS MAKKARAPARAMBA",
   "darsplace": "MAKKARAPARAMBA",
@@ -4452,7 +4263,7 @@
   "stage1": "5. വഅ്‌ള്"
  },
  {
-  "code": "PS645",
+  "code": "PS633",
   "name": "SAHAL .V PATHIRIKKODE",
   "darsname": "NUSRATHUL ISLAM DARS MAKKARAPARAMBA",
   "darsplace": "MAKKARAPARAMBA",
@@ -4462,7 +4273,7 @@
   "offstage1": "22. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
  },
  {
-  "code": "PS646",
+  "code": "PS634",
   "name": "MUHAMMED IRUMBUZHI",
   "darsname": "POOLAMANGALAM DARS POOLAMANGALAM",
   "darsplace": "Poolamangalam, Vettichira",
@@ -4477,7 +4288,7 @@
   "stage3": "2. ഹിഫ്‌ള്"
  },
  {
-  "code": "PS647",
+  "code": "PS635",
   "name": "FAKRUDEEN TK KADALUNDI",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -4488,7 +4299,7 @@
   "stage2": "12. കവിതാലാപനം മലയാളം"
  },
  {
-  "code": "PS648",
+  "code": "PS636",
   "name": "MOHAMMED ZAHID VP VILLUR",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -4500,16 +4311,7 @@
   "stage1": "7. പ്രസംഗം അറബി"
  },
  {
-  "code": "PS649",
-  "name": "MUHAMMAD DILSHAD KACHINIKKAD",
-  "darsname": "RABBANIYYA DARS VATTALLUR",
-  "darsplace": "VATTALUR",
-  "zone": "PERINTHALMANNA",
-  "slug": "rabbaniyya-dars-vattallur",
-  "category": "SENIOR"
- },
- {
-  "code": "PS650",
+  "code": "PS637",
   "name": "MUHAMMED AJMAL VALLIKKAPPATTA",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -4519,7 +4321,7 @@
   "stage1": "11. ഗ്രന്ഥ വായന"
  },
  {
-  "code": "PS651",
+  "code": "PS638",
   "name": "MUHAMMED ANSHAD K ARIPRA",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -4529,7 +4331,7 @@
   "offstage3": "28. പ്രബന്ധം അറബി"
  },
  {
-  "code": "PS652",
+  "code": "PS639",
   "name": "MUHAMMED DANISH KK",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -4539,7 +4341,7 @@
   "offstage1": "35. നിഘണ്ടു നിര്‍മ്മാണം"
  },
  {
-  "code": "PS653",
+  "code": "PS640",
   "name": "MUHAMMED FARHAN P VALIYANGADI",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -4549,7 +4351,7 @@
   "stage1": "2. ഹിഫ്‌ള്"
  },
  {
-  "code": "PS654",
+  "code": "PS641",
   "name": "MUHAMMED FARIS N VILLUR",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -4559,7 +4361,7 @@
   "offstage2": "25. വിവര്‍ത്തനം"
  },
  {
-  "code": "PS655",
+  "code": "PS642",
   "name": "MUHAMMED FAYIS CT PATTAMBI",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -4571,7 +4373,7 @@
   "stage2": "15. പ്രബന്ധാവതരണം"
  },
  {
-  "code": "PS656",
+  "code": "PS643",
   "name": "MUHAMMED FAYIS MK MANJERI",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -4581,7 +4383,7 @@
   "stage1": "8. പ്രസംഗം ഉറുദു"
  },
  {
-  "code": "PS657",
+  "code": "PS644",
   "name": "MUHAMMED HASHIM EP",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -4593,7 +4395,7 @@
   "offstage3": "26. വിവര്‍ത്തനം"
  },
  {
-  "code": "PS658",
+  "code": "PS645",
   "name": "MUHAMMED MIKDHAD KADALUNDI",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -4604,16 +4406,7 @@
   "stage1": "17. പാടിപ്പറയല്‍"
  },
  {
-  "code": "PS659",
-  "name": "MUHAMMED MUHSIN P KADALUNDI",
-  "darsname": "RABBANIYYA DARS VATTALLUR",
-  "darsplace": "VATTALUR",
-  "zone": "PERINTHALMANNA",
-  "slug": "rabbaniyya-dars-vattallur",
-  "category": "SENIOR"
- },
- {
-  "code": "PS660",
+  "code": "PS646",
   "name": "MUHAMMED NABEEL K PATTAMBI",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -4623,7 +4416,7 @@
   "stage1": "14. അനൗണ്‍സ്‌മെന്റ്"
  },
  {
-  "code": "PS661",
+  "code": "PS647",
   "name": "MUHAMMED SINAN K VALIYANGADI",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -4633,7 +4426,7 @@
   "offstage3": "27. വിവര്‍ത്തനം"
  },
  {
-  "code": "PS662",
+  "code": "PS648",
   "name": "MUHAMMED UNAIS AP ARIPRA",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -4644,7 +4437,7 @@
   "offstage2": "36. അടിക്കുറിപ്പ്"
  },
  {
-  "code": "PS663",
+  "code": "PS649",
   "name": "NASEEM VALLIKKAPATTA",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -4654,7 +4447,7 @@
   "offstage1": "39. പ്രശ്‌നോത്തരി"
  },
  {
-  "code": "PS664",
+  "code": "PS650",
   "name": "SAHEER ANAS P",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -4665,25 +4458,7 @@
   "groupstage1": "19. ഖസ്വീദ പാരായണം"
  },
  {
-  "code": "PS665",
-  "name": "SAHEER ANSHAD P",
-  "darsname": "RABBANIYYA DARS VATTALLUR",
-  "darsplace": "VATTALUR",
-  "zone": "PERINTHALMANNA",
-  "slug": "rabbaniyya-dars-vattallur",
-  "category": "SENIOR"
- },
- {
-  "code": "PS666",
-  "name": "SAJJAD RABBANI KOTHAMANGALAM",
-  "darsname": "RABBANIYYA DARS VATTALLUR",
-  "darsplace": "VATTALUR",
-  "zone": "PERINTHALMANNA",
-  "slug": "rabbaniyya-dars-vattallur",
-  "category": "SENIOR"
- },
- {
-  "code": "PS667",
+  "code": "PS651",
   "name": "SUHAIL P PATTAMBI",
   "darsname": "RABBANIYYA DARS VATTALLUR",
   "darsplace": "VATTALUR",
@@ -4693,7 +4468,7 @@
   "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്"
  },
  {
-  "code": "PS668",
+  "code": "PS652",
   "name": "ABDHUL BASITH.MT(PANANGAGARA)",
   "darsname": "RAHMANIYYA JUMUA MASJID ANAMANGAD",
   "darsplace": "ANAMANGAD",
@@ -4707,7 +4482,7 @@
   "groupstage1": "19. ഖസ്വീദ പാരായണം"
  },
  {
-  "code": "PS669",
+  "code": "PS653",
   "name": "MOHAMMED SHABIN.K.K (ANAMANGAD)",
   "darsname": "RAHMANIYYA JUMUA MASJID ANAMANGAD",
   "darsplace": "ANAMANGAD",
@@ -4717,7 +4492,7 @@
   "offstage1": "38. തശ്കീല്‍"
  },
  {
-  "code": "PS670",
+  "code": "PS654",
   "name": "MUHAMMAD ASHRAF.MT PANANGAGARA",
   "darsname": "RAHMANIYYA JUMUA MASJID ANAMANGAD",
   "darsplace": "ANAMANGAD",
@@ -4731,7 +4506,7 @@
   "stage3": "16. നിമിഷപ്രസംഗം"
  },
  {
-  "code": "PS671",
+  "code": "PS655",
   "name": "MUHAMMAD MUZAMMIL.VM.KOOTAMPARA",
   "darsname": "RAHMANIYYA JUMUA MASJID ANAMANGAD",
   "darsplace": "ANAMANGAD",
@@ -4743,7 +4518,7 @@
   "stage3": "10. ഖുഥ്ബ"
  },
  {
-  "code": "PS672",
+  "code": "PS656",
   "name": "MUHAMMAD NASEEF.PM (PERUGOTTU KURSH)",
   "darsname": "RAHMANIYYA JUMUA MASJID ANAMANGAD",
   "darsplace": "ANAMANGAD",
@@ -4754,7 +4529,7 @@
   "offstage2": "32. തലവാചക നിര്‍മ്മാണം"
  },
  {
-  "code": "PS673",
+  "code": "PS657",
   "name": "MUHAMMAD SHERIF.A (PARAKKULAM)",
   "darsname": "RAHMANIYYA JUMUA MASJID ANAMANGAD",
   "darsplace": "ANAMANGAD",
@@ -4765,7 +4540,7 @@
   "stage1": "6. പ്രസംഗം മലയാളം"
  },
  {
-  "code": "PS674",
+  "code": "PS658",
   "name": "ABDUL VAHID. VETTIKATTIRI",
   "darsname": "SIRAJUL ULAMA DARS. MANATHUMANGALAM",
   "darsplace": "MANATHUMANGALAM",
@@ -4779,7 +4554,7 @@
   "stage2": "10. ഖുഥ്ബ"
  },
  {
-  "code": "PS675",
+  "code": "PS659",
   "name": "MOHAMMED ANSHIB KG. PANDIKKAD",
   "darsname": "SIRAJUL ULAMA DARS. MANATHUMANGALAM",
   "darsplace": "MANATHUMANGALAM",
@@ -4794,7 +4569,7 @@
   "stage3": "3. വാങ്ക്"
  },
  {
-  "code": "PS676",
+  "code": "PS660",
   "name": "MUHAMMED SHIBILI. P PUTHANPALLI",
   "darsname": "SIRAJUL ULAMA DARS. MANATHUMANGALAM",
   "darsplace": "MANATHUMANGALAM",
@@ -4807,7 +4582,7 @@
   "stage1": "12. കവിതാലാപനം മലയാളം"
  },
  {
-  "code": "PS677",
+  "code": "PS661",
   "name": "MOHAMMED BISHR, MAKKARAPPARAMBU",
   "darsname": "TTS NELLIKKUNNU DARS, NELLIKKUNNU",
   "darsplace": "NELLIKKUNNU",
@@ -4823,7 +4598,7 @@
   "groupoffstage": "40. പത്രനിര്‍മാണം"
  },
  {
-  "code": "PS678",
+  "code": "PS662",
   "name": "MUHAMMED AMEEN, KARUMALA",
   "darsname": "TTS NELLIKKUNNU DARS, NELLIKKUNNU",
   "darsplace": "NELLIKKUNNU",
@@ -4833,7 +4608,7 @@
   "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്"
  },
  {
-  "code": "PS679",
+  "code": "PS663",
   "name": "MUHAMMED ANSHIF, KALIKAVU",
   "darsname": "TTS NELLIKKUNNU DARS, NELLIKKUNNU",
   "darsplace": "NELLIKKUNNU",
@@ -4845,25 +4620,7 @@
   "groupstage2": "19. ഖസ്വീദ പാരായണം"
  },
  {
-  "code": "PS680",
-  "name": "MUHAMMED FASIL, MAKKARAPPARAMBU",
-  "darsname": "TTS NELLIKKUNNU DARS, NELLIKKUNNU",
-  "darsplace": "NELLIKKUNNU",
-  "zone": "PERINTHALMANNA",
-  "slug": "tts-nellikkunnu-dars-nellikkunnu",
-  "category": "SENIOR"
- },
- {
-  "code": "PS681",
-  "name": "MUHAMMED HISHAM, KIZHISHERI",
-  "darsname": "TTS NELLIKKUNNU DARS, NELLIKKUNNU",
-  "darsplace": "NELLIKKUNNU",
-  "zone": "PERINTHALMANNA",
-  "slug": "tts-nellikkunnu-dars-nellikkunnu",
-  "category": "SENIOR"
- },
- {
-  "code": "PS682",
+  "code": "PS664",
   "name": "MUHAMMED MINAH, EAST PANDIKKAD",
   "darsname": "TTS NELLIKKUNNU DARS, NELLIKKUNNU",
   "darsplace": "NELLIKKUNNU",
@@ -4873,25 +4630,7 @@
   "stage1": "2. ഹിഫ്‌ള്"
  },
  {
-  "code": "PS683",
-  "name": "MUHAMMED NIHAL, KAPPURAM",
-  "darsname": "TTS NELLIKKUNNU DARS, NELLIKKUNNU",
-  "darsplace": "NELLIKKUNNU",
-  "zone": "PERINTHALMANNA",
-  "slug": "tts-nellikkunnu-dars-nellikkunnu",
-  "category": "SENIOR"
- },
- {
-  "code": "PS684",
-  "name": "MUHAMMED RABEEH, KAZHERIPPARAMBU",
-  "darsname": "TTS NELLIKKUNNU DARS, NELLIKKUNNU",
-  "darsplace": "NELLIKKUNNU",
-  "zone": "PERINTHALMANNA",
-  "slug": "tts-nellikkunnu-dars-nellikkunnu",
-  "category": "SENIOR"
- },
- {
-  "code": "PS685",
+  "code": "PS665",
   "name": "MUHAMMED SHABEEN, EDAYATTUR",
   "darsname": "TTS NELLIKKUNNU DARS, NELLIKKUNNU",
   "darsplace": "NELLIKKUNNU",
@@ -4904,7 +4643,7 @@
   "stage1": "5. വഅ്‌ള്"
  },
  {
-  "code": "PS686",
+  "code": "PS666",
   "name": "MUHAMMED SHIBIL, EDAVANNAPPARA",
   "darsname": "TTS NELLIKKUNNU DARS, NELLIKKUNNU",
   "darsplace": "NELLIKKUNNU",
@@ -4916,7 +4655,7 @@
   "offstage3": "39. പ്രശ്‌നോത്തരി"
  },
  {
-  "code": "PS687",
+  "code": "PS667",
   "name": "MUHAMMED SHUHAIB, CHERUKARA",
   "darsname": "TTS NELLIKKUNNU DARS, NELLIKKUNNU",
   "darsplace": "NELLIKKUNNU",
@@ -4929,7 +4668,7 @@
   "stage3": "10. ഖുഥ്ബ"
  },
  {
-  "code": "PS688",
+  "code": "PS668",
   "name": "SAEED MUHAMMED, KONDOTTY",
   "darsname": "TTS NELLIKKUNNU DARS, NELLIKKUNNU",
   "darsplace": "NELLIKKUNNU",
@@ -4939,7 +4678,7 @@
   "stage1": "17. പാടിപ്പറയല്‍"
  },
  {
-  "code": "PS689",
+  "code": "PS669",
   "name": "SALMANUL FARIS, THAZHEKOD",
   "darsname": "TTS NELLIKKUNNU DARS, NELLIKKUNNU",
   "darsplace": "NELLIKKUNNU",
@@ -4953,7 +4692,7 @@
   "stage3": "15. പ്രബന്ധാവതരണം"
  },
  {
-  "code": "PS690",
+  "code": "PS670",
   "name": "SWALIH,THOTTARA",
   "darsname": "TTS NELLIKKUNNU DARS, NELLIKKUNNU",
   "darsplace": "NELLIKKUNNU",
@@ -4968,7 +4707,7 @@
   "stage3": "16. നിമിഷപ്രസംഗം"
  },
  {
-  "code": "PS691",
+  "code": "PS671",
   "name": "SYED MUHAMMED MIDLAJ",
   "darsname": "TTS NELLIKKUNNU DARS, NELLIKKUNNU",
   "darsplace": "NELLIKKUNNU",
@@ -4980,7 +4719,7 @@
   "stage1": "9. പ്രസംഗം ഇംഗ്ലീഷ്"
  },
  {
-  "code": "PS692",
+  "code": "PS672",
   "name": "SYED SHAHID SAQAF, KUTTIPPURAM",
   "darsname": "TTS NELLIKKUNNU DARS, NELLIKKUNNU",
   "darsplace": "NELLIKKUNNU",
