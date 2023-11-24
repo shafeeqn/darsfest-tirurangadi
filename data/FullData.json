@@ -2636,6 +2636,16 @@
   "stage1": "16. പദപ്പയറ്റ് അറബി"
  },
  {
+  "code": "PJ329",
+  "name": "SAYYID SARDAR",
+  "darsname": "RABBANIYYA DARS VATTALLUR",
+  "darsplace": "VATTALUR",
+  "zone": "PERINTHALMANNA",
+  "slug": "rabbaniyya-dars-vattallur",
+  "category": "JUNIOR",
+  "stage1": "18. മദ്ഹുന്നബി"
+ },
+ {
   "code": "PS501",
   "name": "JABIR ALI . AT , ORAVAMPURAM",
   "darsname": "AINUL BAYAN DARS VELLILA, MANKADA",
@@ -3862,6 +3872,7 @@
   "zone": "PERINTHALMANNA",
   "slug": "markazul-ulama-dars-valanchery",
   "category": "SENIOR",
+  "offstage1": "23. ഖത്തുന്നസ്ഖ്",
   "groupoffstage": "40. പത്രനിര്‍മാണം"
  },
  {
@@ -3968,6 +3979,7 @@
   "zone": "PERINTHALMANNA",
   "slug": "markazul-ulama-dars-valanchery",
   "category": "SENIOR",
+  "stage1": "02. ഹിഫ്‌ള്",
   "stage2": "10. ഖുഥ്ബ"
  },
  {
@@ -4032,7 +4044,8 @@
   "zone": "PERINTHALMANNA",
   "slug": "markazul-ulama-dars-valanchery",
   "category": "SENIOR",
-  "offstage1": "22. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
+  "offstage1": "22. പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
+  "offstage2": "21. അറബിക് കാലിഗ്രഫി"
  },
  {
   "code": "PS613",
@@ -4367,8 +4380,7 @@
   "darsplace": "VATTALUR",
   "zone": "PERINTHALMANNA",
   "slug": "rabbaniyya-dars-vattallur",
-  "category": "SENIOR",
-  "offstage2": "25. വിവര്‍ത്തനം"
+  "category": "SENIOR"
  },
  {
   "code": "PS642",
@@ -4380,7 +4392,8 @@
   "category": "SENIOR",
   "stage1": "09. പ്രസംഗം ഇംഗ്ലീഷ്",
   "stage2": "15. പ്രബന്ധാവതരണം",
-  "offstage1": "29. പ്രബന്ധം ഇംഗ്ലീഷ്"
+  "offstage1": "29. പ്രബന്ധം ഇംഗ്ലീഷ്",
+  "stage3": "13. മുശാഅറ"
  },
  {
   "code": "PS643",
@@ -4475,7 +4488,12 @@
   "zone": "PERINTHALMANNA",
   "slug": "rabbaniyya-dars-vattallur",
   "category": "SENIOR",
-  "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്"
+  "stage1": "10. ഖുഥ്ബ",
+  "stage2": "04. ക്ലാസ് അവതരണം",
+  "offstage1": "34. കവിതാ രചന",
+  "offstage2": "31. റിപ്പോര്‍ട്ടിംഗ്",
+  "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്",
+  "offstage3": "38. തശ്കീല്‍"
  },
  {
   "code": "PS652",
@@ -4738,5 +4756,60 @@
   "category": "SENIOR",
   "offstage1": "33. മുദ്രവാക്യ രചന",
   "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്"
+ },
+ {
+  "code": "PS673",
+  "name": "SHAMEEM RABBANI",
+  "darsname": "RABBANIYYA DARS VATTALLUR",
+  "darsplace": "VATTALUR",
+  "zone": "PERINTHALMANNA",
+  "slug": "rabbaniyya-dars-vattallur",
+  "category": "SENIOR",
+  "stage1": "01. ഖിറാഅത്ത്"
+ },
+ {
+  "code": "PS674",
+  "name": "SAJJAD RABBANI",
+  "darsname": "RABBANIYYA DARS VATTALLUR",
+  "darsplace": "VATTALUR",
+  "zone": "PERINTHALMANNA",
+  "slug": "rabbaniyya-dars-vattallur",
+  "category": "SENIOR",
+  "stage1": "06. പ്രസംഗം മലയാളം",
+  "stage2": "16. നിമിഷപ്രസംഗം"
+ },
+ {
+  "code": "PS675",
+  "name": "ASHIQ RABBANI",
+  "darsname": "RABBANIYYA DARS VATTALLUR",
+  "darsplace": "VATTALUR",
+  "zone": "PERINTHALMANNA",
+  "slug": "rabbaniyya-dars-vattallur",
+  "category": "SENIOR",
+  "stage1": "05. വഅ്‌ള്",
+  "offstage1": "23. ഖത്തുന്നസ്ഖ്",
+  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
+  "offstage3": "21. അറബിക് കാലിഗ്രഫി",
+  "groupoffstage": "40. പത്രനിര്‍മാണം"
+ },
+ {
+  "code": "PS676",
+  "name": "SHAFI VETTATHUR",
+  "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
+  "darsplace": "VALANCHERY",
+  "zone": "PERINTHALMANNA",
+  "slug": "markazul-ulama-dars-valanchery",
+  "category": "SENIOR",
+  "stage1": "12. കവിതാലാപനം മലയാളം"
+ },
+ {
+  "code": "PS677",
+  "name": "TWAYYIB THANGAL VETTICHIRA",
+  "darsname": "MARKAZUL ULAMA DARS VALANCHERY",
+  "darsplace": "VALANCHERY",
+  "zone": "PERINTHALMANNA",
+  "slug": "markazul-ulama-dars-valanchery",
+  "category": "SENIOR",
+  "offstage1": "32. തലവാചക നിര്‍മ്മാണം"
  }
 ]
