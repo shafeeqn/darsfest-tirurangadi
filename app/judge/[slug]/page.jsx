@@ -172,7 +172,9 @@ function ProgramDetail() {
               <tr className="print:bg-black print:text-white bg-black text-white">
                 <th className="p-1">Sl No</th>
                 <th className="p-1">Code</th>
-                <th className="p-1">Mark</th>
+                <th className="p-1">Mark 1</th>
+                <th className="p-1">Mark 2</th>
+                <th className="p-1">Total</th>
                 <th className="p-1">Grade</th>
                 <th className="p-1">Remark</th>
               </tr>
@@ -185,6 +187,8 @@ function ProgramDetail() {
                   <td className="px-1"></td>
                   <td className="px-1"></td>
                   <td className="px-1"></td>
+                  <td className="px-1"></td>
+                  <td className="px-1"></td>
                 </tr>
               ))}
               <tr>
@@ -193,11 +197,6 @@ function ProgramDetail() {
                 <td className="px-1"></td>
                 <td className="px-1"></td>
                 <td className="px-1"></td>
-              </tr>
-              <tr>
-                <td className="px-1">&nbsp;</td>
-                <td className="px-1"></td>
-                <td className="px-1"></td>
                 <td className="px-1"></td>
                 <td className="px-1"></td>
               </tr>
@@ -207,6 +206,17 @@ function ProgramDetail() {
                 <td className="px-1"></td>
                 <td className="px-1"></td>
                 <td className="px-1"></td>
+                <td className="px-1"></td>
+                <td className="px-1"></td>
+              </tr>
+              <tr>
+                <td className="px-1">&nbsp;</td>
+                <td className="px-1"></td>
+                <td className="px-1"></td>
+                <td className="px-1"></td>
+                <td className="px-1"></td>
+                <td className="px-1"></td>
+                <td className="px-1"></td>
               </tr>
               <tr>
                 <td className="px-1">&nbsp;</td>
@@ -214,9 +224,13 @@ function ProgramDetail() {
                 <td className="px-1"></td>
                 <td className="px-1"></td>
                 <td className="px-1"></td>
+                <td className="px-1"></td>
+                <td className="px-1"></td>
               </tr>
               <tr>
                 <td className="px-1">&nbsp;</td>
+                <td className="px-1"></td>
+                <td className="px-1"></td>
                 <td className="px-1"></td>
                 <td className="px-1"></td>
                 <td className="px-1"></td>
