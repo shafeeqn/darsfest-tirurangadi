@@ -4266,6 +4266,7 @@
   "category": "JUNIOR",
   "stage1": "08. ഗ്രന്ഥവായന",
   "stage2": "04. പ്രസംഗം അറബി",
+  "stage3": "05. പ്രസംഗം മലയാളം",
   "offstage1": "23. മെമ്മറി ടെസ്റ്റ്",
   "offstage2": "24. ഖത്തുന്നസ്ഖ്",
   "offstage3": "25. കേട്ടെഴുത്ത്"
@@ -4278,7 +4279,6 @@
   "zone": "PERINTHALMANNA",
   "slug": "sabeelul-hudha-.-edayur-pallipadi",
   "category": "JUNIOR",
-  "stage1": "18. മദ്ഹുന്നബി"
  },
  {
   "code": "PJ306",
@@ -4302,7 +4302,6 @@
   "zone": "PERINTHALMANNA",
   "slug": "sabeelul-hudha-.-edayur-pallipadi",
   "category": "JUNIOR",
-  "stage1": "05. പ്രസംഗം മലയാളം",
   "stage2": "13. കഥ പറച്ചില്‍",
   "offstage1": "23. മെമ്മറി ടെസ്റ്റ്",
   "offstage2": "24. ഖത്തുന്നസ്ഖ്",
@@ -4329,8 +4328,9 @@
   "zone": "PERINTHALMANNA",
   "slug": "sabeelul-hudha-.-edayur-pallipadi",
   "category": "JUNIOR",
+  "stage1": "18. മദ്ഹുന്നബി",
   "stage2": "03. വാങ്ക്",
-  "stage3": "09. ഗാനം അറബി"
+  "stage3": "10. മാപ്പിളപ്പാട്ട്"
  },
  {
   "code": "PJ310",
