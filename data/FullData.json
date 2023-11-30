@@ -1729,18 +1729,9 @@
   "slug": "jawahirul-uloom-dars-kakkooth",
   "category": "JUNIOR",
   "stage1": "05. പ്രസംഗം മലയാളം",
+  "stage2": "07. പ്രസംഗം ഇംഗ്ലീഷ്",
+  "stage3": "17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
   "groupstage1": "19. അറബി സംഘഗാനം"
- },
- {
-  "code": "PJ175",
-  "name": "MUHAMMED HASHIM VENGULAM",
-  "darsname": "JAWAHIRUL ULOOM DARS KAKKOOTH",
-  "darsplace": "PERINTHALMANNA",
-  "zone": "PERINTHALMANNA",
-  "slug": "jawahirul-uloom-dars-kakkooth",
-  "category": "JUNIOR",
-  "stage1": "05. പ്രസംഗം മലയാളം",
-  "stage2": "07. പ്രസംഗം ഇംഗ്ലീഷ്"
  },
  {
   "code": "PJ177",
