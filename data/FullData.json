@@ -2,7 +2,7 @@
  {
  "code":"TJ101",
  "name":"MUHAMMED AKMAL",
- "dars":"AL ANWAR DARS KURUKA",
+ "darsname":"AL ANWAR DARS KURUKA",
  "darsplace":"KOTTAKKAL,KURUKA",
  "zone":"TIRURANGADI",
  "slug":"al-anwar-dars-kuruka",
@@ -14,7 +14,7 @@
  {
  "code":"TJ102",
  "name":"MUHAMMED HISHAL",
- "dars":"AL ANWAR DARS KURUKA",
+ "darsname":"AL ANWAR DARS KURUKA",
  "darsplace":"KOTTAKKAL,KURUKA",
  "zone":"TIRURANGADI",
  "slug":"al-anwar-dars-kuruka",
@@ -28,7 +28,7 @@
  {
  "code":"TJ103",
  "name":"MUHAMMED MUHSIN",
- "dars":"AL ANWAR DARS KURUKA",
+ "darsname":"AL ANWAR DARS KURUKA",
  "darsplace":"KOTTAKKAL,KURUKA",
  "zone":"TIRURANGADI",
  "slug":"al-anwar-dars-kuruka",
@@ -43,7 +43,7 @@
  {
  "code":"TJ104",
  "name":"MUHAMMED NASHID",
- "dars":"AL ANWAR DARS KURUKA",
+ "darsname":"AL ANWAR DARS KURUKA",
  "darsplace":"KOTTAKKAL,KURUKA",
  "zone":"TIRURANGADI",
  "slug":"al-anwar-dars-kuruka",
@@ -59,7 +59,7 @@
  {
  "code":"TJ105",
  "name":"MUHEMMED MIRSHAN VENNIYOOR",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -69,7 +69,7 @@
  {
  "code":"TJ106",
  "name":"SAHAL MIRSHAD PARAPPANANGADI",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -79,7 +79,7 @@
  {
  "code":"TJ107",
  "name":"MOHAMMED ADHIL SALAH THALAKKADATHUR",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -90,7 +90,7 @@
  {
  "code":"TJ108",
  "name":"Muhammed sabith cherumukku mp",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -103,7 +103,7 @@
  {
  "code":"TJ109",
  "name":"MOHAMMED SUFAIL K KANNANTHALI",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -118,7 +118,7 @@
  {
  "code":"TJ110",
  "name":"MOHAMMAD AFNAN CHERUMUKKU",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -133,7 +133,7 @@
  {
  "code":"TJ111",
  "name":"MUHAMMED UNAIS AK CHEMBRA",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -146,7 +146,7 @@
  {
  "code":"TJ112",
  "name":"ATHAS VAKKAD",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -157,7 +157,7 @@
  {
  "code":"TJ113",
  "name":"SALMANUL FARIS P.P VELLIYAMBURAM",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -167,7 +167,7 @@
  {
  "code":"TJ114",
  "name":"MISHAB CHERUMUKKU",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -179,7 +179,7 @@
  {
  "code":"TJ115",
  "name":"MUHAMMED IHSAN K CHEMBRA",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -190,7 +190,7 @@
  {
  "code":"TJ116",
  "name":"MUHAMMED ASLAM POOKIPARAMBA",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -200,7 +200,7 @@
  {
  "code":"TJ117",
  "name":"SHAHIN CHEMBRA",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -210,7 +210,7 @@
  {
  "code":"TJ118",
  "name":"SAYYID MUHAMMED SWALIH THANGAL TANUR",
- "dars":"AL EAQALU DARS KALOOR",
+ "darsname":"AL EAQALU DARS KALOOR",
  "darsplace":"KALOOR",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-kaloor",
@@ -226,7 +226,7 @@
  {
  "code":"TJ119",
  "name":"MUHAMMED MUNEES THIRUNNAVAYA",
- "dars":"AL EAQALU DARS KALOOR",
+ "darsname":"AL EAQALU DARS KALOOR",
  "darsplace":"KALOOR",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-kaloor",
@@ -241,7 +241,7 @@
  {
  "code":"TJ120",
  "name":"AHAMMED ANSIL THIRUNNAVAYA",
- "dars":"AL EAQALU DARS KALOOR",
+ "darsname":"AL EAQALU DARS KALOOR",
  "darsplace":"KALOOR",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-kaloor",
@@ -251,7 +251,7 @@
  {
  "code":"TJ121",
  "name":"MUHAMMED RASHID KORAD",
- "dars":"AL EAQALU DARS KALOOR",
+ "darsname":"AL EAQALU DARS KALOOR",
  "darsplace":"KALOOR",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-kaloor",
@@ -261,7 +261,7 @@
  {
  "code":"TJ122",
  "name":"ABDUL FATHAH PERINTHALMANNA",
- "dars":"AL EAQALU DARS KALOOR",
+ "darsname":"AL EAQALU DARS KALOOR",
  "darsplace":"KALOOR",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-kaloor",
@@ -272,7 +272,7 @@
  {
  "code":"TJ123",
  "name":"MUHAMMED SABITH THIRUNNAVAYA",
- "dars":"AL EAQALU DARS KALOOR",
+ "darsname":"AL EAQALU DARS KALOOR",
  "darsplace":"KALOOR",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-kaloor",
@@ -284,7 +284,7 @@
  {
  "code":"TJ124",
  "name":"ALI HIJAS SOUTH PALLAR",
- "dars":"AL EAQALU DARS KALOOR",
+ "darsname":"AL EAQALU DARS KALOOR",
  "darsplace":"KALOOR",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-kaloor",
@@ -294,7 +294,7 @@
  {
  "code":"TJ125",
  "name":"MUHAMMED SINAN PONMUNDAM",
- "dars":"AL EAQALU DARS KALOOR",
+ "darsname":"AL EAQALU DARS KALOOR",
  "darsplace":"KALOOR",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-kaloor",
@@ -306,7 +306,7 @@
  {
  "code":"TJ126",
  "name":"ANAS PURATHUR",
- "dars":"AL EAQALU DARS KALOOR",
+ "darsname":"AL EAQALU DARS KALOOR",
  "darsplace":"KALOOR",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-kaloor",
@@ -316,7 +316,7 @@
  {
  "code":"TJ127",
  "name":"MUHAMMED SINAN THAVANUR",
- "dars":"AL EAQALU DARS KALOOR",
+ "darsname":"AL EAQALU DARS KALOOR",
  "darsplace":"KALOOR",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-kaloor",
@@ -331,7 +331,7 @@
  {
  "code":"TJ128",
  "name":"MUHAMMED RAFNAS HASHIM PADINJAREKARA",
- "dars":"AL EAQALU DARS KALOOR",
+ "darsname":"AL EAQALU DARS KALOOR",
  "darsplace":"KALOOR",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-kaloor",
@@ -343,7 +343,7 @@
  {
  "code":"TJ129",
  "name":"MUHAMMED RIFAD-M. VANIYANNUR",
- "dars":"AL EAQALU DURS KOTT",
+ "darsname":"AL EAQALU DURS KOTT",
  "darsplace":"THIRUR KOTT",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-durs-kott",
@@ -356,7 +356,7 @@
  {
  "code":"TJ130",
  "name":"MUHAMMED DILSHAD-P.K. MINIKAAP",
- "dars":"AL EAQALU DURS KOTT",
+ "darsname":"AL EAQALU DURS KOTT",
  "darsplace":"THIRUR. KOTT",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-durs-kott",
@@ -367,7 +367,7 @@
  {
  "code":"TJ131",
  "name":"MUHAMMED RIFAD- M VANIYANNUR",
- "dars":"AL EAQALU DURS KOTT",
+ "darsname":"AL EAQALU DURS KOTT",
  "darsplace":"THIRUR KOTT",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-durs-kott",
@@ -380,7 +380,7 @@
  {
  "code":"TJ132",
  "name":"MUHAMMED ADIL-P. VANIYANNUR",
- "dars":"AL EAQALU DURS KOTT",
+ "darsname":"AL EAQALU DURS KOTT",
  "darsplace":"THIRUR KOTT",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-durs-kott",
@@ -390,7 +390,7 @@
  {
  "code":"TJ133",
  "name":"MUHAMMED RABEEH-C. V.K PADI",
- "dars":"AL EAQALU DURS KOTT",
+ "darsname":"AL EAQALU DURS KOTT",
  "darsplace":"THIRUR KOTT",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-durs-kott",
@@ -401,7 +401,7 @@
  {
  "code":"TJ134",
  "name":"MUHAMMED RISHAL-P. VANIYANNUR",
- "dars":"AL EAQALU DURS KOTT",
+ "darsname":"AL EAQALU DURS KOTT",
  "darsplace":"THIRUR KOTT",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-durs-kott",
@@ -411,7 +411,7 @@
  {
  "code":"TJ135",
  "name":"NASIH MUHYUDHEEN-K. KOTT, THIRUR",
- "dars":"AL EAQALU DURS KOTT",
+ "darsname":"AL EAQALU DURS KOTT",
  "darsplace":"THIRUR KOTT",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-durs-kott",
@@ -422,7 +422,7 @@
  {
  "code":"TJ136",
  "name":"MUHAMMED RINSHAD-K. KARIPARAMBU",
- "dars":"AL EAQALU DURS KOTT",
+ "darsname":"AL EAQALU DURS KOTT",
  "darsplace":"THIRUR KOTT",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-durs-kott",
@@ -433,7 +433,7 @@
  {
  "code":"TJ137",
  "name":"MUBARAK eranaloor",
- "dars":"AL IMDAD PATHAMBAD",
+ "darsname":"AL IMDAD PATHAMBAD",
  "darsplace":"PATHAMBAD",
  "zone":"TIRURANGADI",
  "slug":"al-imdad-pathambad",
@@ -445,7 +445,7 @@
  {
  "code":"TJ138",
  "name":"MUHAMMED RASHAD Eranallur",
- "dars":"AL IMDAD PATHAMBAD",
+ "darsname":"AL IMDAD PATHAMBAD",
  "darsplace":"PATHAMBAD",
  "zone":"TIRURANGADI",
  "slug":"al-imdad-pathambad",
@@ -455,7 +455,7 @@
  {
  "code":"TJ139",
  "name":"ANSHIF Aluvanchuvad",
- "dars":"AL IMDAD PATHAMBAD",
+ "darsname":"AL IMDAD PATHAMBAD",
  "darsplace":"PATHAMBAD",
  "zone":"TIRURANGADI",
  "slug":"al-imdad-pathambad",
@@ -465,7 +465,7 @@
  {
  "code":"TJ140",
  "name":"Muhammed Sabeeq korad",
- "dars":"AL IMDAD PATHAMBAD",
+ "darsname":"AL IMDAD PATHAMBAD",
  "darsplace":"PATHAMBAD",
  "zone":"TIRURANGADI",
  "slug":"al-imdad-pathambad",
@@ -475,7 +475,7 @@
  {
  "code":"TJ141",
  "name":"MUHAMMED AFNAS Pandikad",
- "dars":"AL IMDAD PATHAMBAD",
+ "darsname":"AL IMDAD PATHAMBAD",
  "darsplace":"PATHAMBAD",
  "zone":"TIRURANGADI",
  "slug":"al-imdad-pathambad",
@@ -485,7 +485,7 @@
  {
  "code":"TJ142",
  "name":"Muhammed Shanu kanchipura",
- "dars":"AL IMDAD PATHAMBAD",
+ "darsname":"AL IMDAD PATHAMBAD",
  "darsplace":"PATHAMBAD",
  "zone":"TIRURANGADI",
  "slug":"al-imdad-pathambad",
@@ -496,7 +496,7 @@
  {
  "code":"TJ143",
  "name":"SAHAL KANCHIPURA",
- "dars":"AL IMDAD PATHAMBAD",
+ "darsname":"AL IMDAD PATHAMBAD",
  "darsplace":"PATHAMBAD",
  "zone":"TIRURANGADI",
  "slug":"al-imdad-pathambad",
@@ -506,7 +506,7 @@
  {
  "code":"TJ144",
  "name":"MUHAMMED RIZWAN P",
- "dars":"AL MASWALIH STUDENTS ASSOCIATION VALIYAPARAPPUR",
+ "darsname":"AL MASWALIH STUDENTS ASSOCIATION VALIYAPARAPPUR",
  "darsplace":"VALIYAPARAPPUR",
  "zone":"TIRURANGADI",
  "slug":"al-maswalih-students-association-valiyaparappur",
@@ -521,7 +521,7 @@
  {
  "code":"TJ145",
  "name":"MUHAMMED SAHEER PV",
- "dars":"AL MASWALIH STUDENTS ASSOCIATION VALIYAPARAPPUR",
+ "darsname":"AL MASWALIH STUDENTS ASSOCIATION VALIYAPARAPPUR",
  "darsplace":"VALIYAPARAPPUR",
  "zone":"TIRURANGADI",
  "slug":"al-maswalih-students-association-valiyaparappur",
@@ -534,7 +534,7 @@
  {
  "code":"TJ146",
  "name":"MUHAMMED FAYAS PK",
- "dars":"AL MASWALIH STUDENTS ASSOCIATION VALIYAPARAPPUR",
+ "darsname":"AL MASWALIH STUDENTS ASSOCIATION VALIYAPARAPPUR",
  "darsplace":"VALIYAPARAPPUR",
  "zone":"TIRURANGADI",
  "slug":"al-maswalih-students-association-valiyaparappur",
@@ -548,7 +548,7 @@
  {
  "code":"TJ147",
  "name":"MUHAMMED SINAN V",
- "dars":"AL MASWALIH STUDENTS ASSOCIATION VALIYAPARAPPUR",
+ "darsname":"AL MASWALIH STUDENTS ASSOCIATION VALIYAPARAPPUR",
  "darsplace":"VALIYAPARAPPUR",
  "zone":"TIRURANGADI",
  "slug":"al-maswalih-students-association-valiyaparappur",
@@ -560,7 +560,7 @@
  {
  "code":"TJ148",
  "name":"MUHAMMED SWABEEH AP",
- "dars":"AL MASWALIH STUDENTS ASSOCIATION VALIYAPARAPPUR",
+ "darsname":"AL MASWALIH STUDENTS ASSOCIATION VALIYAPARAPPUR",
  "darsplace":"VALIYAPARAPPUR",
  "zone":"TIRURANGADI",
  "slug":"al-maswalih-students-association-valiyaparappur",
@@ -572,7 +572,7 @@
  {
  "code":"TJ149",
  "name":"ABDHULLA FASIL MP",
- "dars":"AL MASWALIH STUDENTS ASSOCIATION VALIYAPARAPPUR",
+ "darsname":"AL MASWALIH STUDENTS ASSOCIATION VALIYAPARAPPUR",
  "darsplace":"VALIYAPARAPPUR",
  "zone":"TIRURANGADI",
  "slug":"al-maswalih-students-association-valiyaparappur",
@@ -586,7 +586,7 @@
  {
  "code":"TJ150",
  "name":"MUHAMMED ASHMAL MT",
- "dars":"AL MASWALIH STUDENTS ASSOCIATION VALIYAPARAPPUR",
+ "darsname":"AL MASWALIH STUDENTS ASSOCIATION VALIYAPARAPPUR",
  "darsplace":"VALIYAPARAPPUR",
  "zone":"TIRURANGADI",
  "slug":"al-maswalih-students-association-valiyaparappur",
@@ -597,7 +597,7 @@
  {
  "code":"TJ151",
  "name":"ADNAN N",
- "dars":"AL MASWALIH STUDENTS ASSOCIATION VALIYAPARAPPUR",
+ "darsname":"AL MASWALIH STUDENTS ASSOCIATION VALIYAPARAPPUR",
  "darsplace":"VALIYAPARAPPUR",
  "zone":"TIRURANGADI",
  "slug":"al-maswalih-students-association-valiyaparappur",
@@ -608,7 +608,7 @@
  {
  "code":"TJ152",
  "name":"MUHAMMED SAHEER VM",
- "dars":"AL MASWALIH STUDENTS ASSOCIATION VALIYAPARAPPUR",
+ "darsname":"AL MASWALIH STUDENTS ASSOCIATION VALIYAPARAPPUR",
  "darsplace":"VALIYAPARAPPUR",
  "zone":"TIRURANGADI",
  "slug":"al-maswalih-students-association-valiyaparappur",
@@ -620,7 +620,7 @@
  {
  "code":"TJ153",
  "name":"MUHAMMED FAVAS VP",
- "dars":"AL MASWALIH STUDENTS ASSOCIATION VALIYAPARAPPUR",
+ "darsname":"AL MASWALIH STUDENTS ASSOCIATION VALIYAPARAPPUR",
  "darsplace":"VALIYAPARAPPUR",
  "zone":"TIRURANGADI",
  "slug":"al-maswalih-students-association-valiyaparappur",
@@ -630,7 +630,7 @@
  {
  "code":"TJ154",
  "name":"ADNAN A",
- "dars":"AL MASWALIH STUDENTS ASSOCIATION VALIYAPARAPPUR",
+ "darsname":"AL MASWALIH STUDENTS ASSOCIATION VALIYAPARAPPUR",
  "darsplace":"VALIYAPARAPPUR",
  "zone":"TIRURANGADI",
  "slug":"al-maswalih-students-association-valiyaparappur",
@@ -640,7 +640,7 @@
  {
  "code":"TJ155",
  "name":"MUHAMMED FADHIL K",
- "dars":"AL MASWALIH STUDENTS ASSOCIATION VALIYAPARAPPUR",
+ "darsname":"AL MASWALIH STUDENTS ASSOCIATION VALIYAPARAPPUR",
  "darsplace":"VALIYAPARAPPUR",
  "zone":"TIRURANGADI",
  "slug":"al-maswalih-students-association-valiyaparappur",
@@ -650,7 +650,7 @@
  {
  "code":"TJ156",
  "name":"HASHIB MANKAVU",
- "dars":"BADRUL HUDA DARS KOOMANNA",
+ "darsname":"BADRUL HUDA DARS KOOMANNA",
  "darsplace":"KOOMANNA",
  "zone":"TIRURANGADI",
  "slug":"badrul-huda-dars-koomanna",
@@ -662,7 +662,7 @@
  {
  "code":"TJ157",
  "name":"MUNTHASIR POOKKOTUR",
- "dars":"BADRUL HUDA DARS KOOMANNA",
+ "darsname":"BADRUL HUDA DARS KOOMANNA",
  "darsplace":"KOOMANNA",
  "zone":"TIRURANGADI",
  "slug":"badrul-huda-dars-koomanna",
@@ -673,7 +673,7 @@
  {
  "code":"TJ158",
  "name":"MINSHAD OMANOOR",
- "dars":"BADRUL HUDA DARS KOOMANNA",
+ "darsname":"BADRUL HUDA DARS KOOMANNA",
  "darsplace":"KOOMANNA",
  "zone":"TIRURANGADI",
  "slug":"badrul-huda-dars-koomanna",
@@ -683,7 +683,7 @@
  {
  "code":"TJ159",
  "name":"RABEEH KOOMANNA",
- "dars":"BADRUL HUDA DARS KOOMANNA",
+ "darsname":"BADRUL HUDA DARS KOOMANNA",
  "darsplace":"KOOMANNA",
  "zone":"TIRURANGADI",
  "slug":"badrul-huda-dars-koomanna",
@@ -694,7 +694,7 @@
  {
  "code":"TJ160",
  "name":"MUHAMMED ZABITH MANKAVU",
- "dars":"BADRUL HUDA DARS KOOMANNA",
+ "darsname":"BADRUL HUDA DARS KOOMANNA",
  "darsplace":"KOOMANNA",
  "zone":"TIRURANGADI",
  "slug":"badrul-huda-dars-koomanna",
@@ -704,7 +704,7 @@
  {
  "code":"TJ161",
  "name":"MUHAMMED RISHAM PULANKARA",
- "dars":"BADRUL HUDA DARS KOOMANNA",
+ "darsname":"BADRUL HUDA DARS KOOMANNA",
  "darsplace":"KOOMANNA",
  "zone":"TIRURANGADI",
  "slug":"badrul-huda-dars-koomanna",
@@ -716,7 +716,7 @@
  {
  "code":"TJ162",
  "name":"MUHAMMAD ARFAN PUTHIYAPALAM",
- "dars":"BADRUL HUDA DARS KOOMANNA",
+ "darsname":"BADRUL HUDA DARS KOOMANNA",
  "darsplace":"KOOMANNA",
  "zone":"TIRURANGADI",
  "slug":"badrul-huda-dars-koomanna",
@@ -726,7 +726,7 @@
  {
  "code":"TJ163",
  "name":"SAHAD MANKAVU",
- "dars":"BADRUL HUDA DARS KOOMANNA",
+ "darsname":"BADRUL HUDA DARS KOOMANNA",
  "darsplace":"KOOMANNA",
  "zone":"TIRURANGADI",
  "slug":"badrul-huda-dars-koomanna",
@@ -740,7 +740,7 @@
  {
  "code":"TJ164",
  "name":"NADISH KOLUPALAM",
- "dars":"BAHJATHUL HIKAM DARS KARATHUR",
+ "darsname":"BAHJATHUL HIKAM DARS KARATHUR",
  "darsplace":"KARATHUR, TIRUR",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-hikam-dars-karathur",
@@ -750,7 +750,7 @@
  {
  "code":"TJ165",
  "name":"MUHAMMED ZADIN KARATHUR",
- "dars":"BAHJATHUL HIKAM DARS KARATHUR",
+ "darsname":"BAHJATHUL HIKAM DARS KARATHUR",
  "darsplace":"KARATHUR, TIRUR",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-hikam-dars-karathur",
@@ -760,7 +760,7 @@
  {
  "code":"TJ166",
  "name":"ARSHAD FEROKE",
- "dars":"BAHJATHUL HIKAM DARS KARATHUR",
+ "darsname":"BAHJATHUL HIKAM DARS KARATHUR",
  "darsplace":"KARATHUR, TIRUR",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-hikam-dars-karathur",
@@ -770,7 +770,7 @@
  {
  "code":"TJ167",
  "name":"MUHAMMED AMIL KARATHUR",
- "dars":"BAHJATHUL HIKAM DARS KARATHUR",
+ "darsname":"BAHJATHUL HIKAM DARS KARATHUR",
  "darsplace":"KARATHUR, TIRUR",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-hikam-dars-karathur",
@@ -780,7 +780,7 @@
  {
  "code":"TJ168",
  "name":"MUHAMMED SHAHIR TIRUR",
- "dars":"BAHJATHUL HIKAM DARS KARATHUR",
+ "darsname":"BAHJATHUL HIKAM DARS KARATHUR",
  "darsplace":"KARATHUR, TIRUR",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-hikam-dars-karathur",
@@ -790,7 +790,7 @@
  {
  "code":"TJ169",
  "name":"MUHAMMED HAFIL PALAKKAD",
- "dars":"BAHJATHUL HIKAM DARS KARATHUR",
+ "darsname":"BAHJATHUL HIKAM DARS KARATHUR",
  "darsplace":"KARATHUR, TIRUR",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-hikam-dars-karathur",
@@ -801,7 +801,7 @@
  {
  "code":"TJ170",
  "name":"MUHAMMED SINAN NANDI",
- "dars":"BAHJATHUL HIKAM DARS KARATHUR",
+ "darsname":"BAHJATHUL HIKAM DARS KARATHUR",
  "darsplace":"KARATHUR, TIRUR",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-hikam-dars-karathur",
@@ -812,7 +812,7 @@
  {
  "code":"TJ171",
  "name":"MUHAMMED SHAN POILISSERI",
- "dars":"BAHJATHUL HIKAM DARS KARATHUR",
+ "darsname":"BAHJATHUL HIKAM DARS KARATHUR",
  "darsplace":"KARATHUR, TIRUR",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-hikam-dars-karathur",
@@ -826,7 +826,7 @@
  {
  "code":"TJ172",
  "name":"MUHAMMED NAFIL PALAKKAD",
- "dars":"BAHJATHUL HIKAM DARS KARATHUR",
+ "darsname":"BAHJATHUL HIKAM DARS KARATHUR",
  "darsplace":"KARATHUR, TIRUR",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-hikam-dars-karathur",
@@ -839,7 +839,7 @@
  {
  "code":"TJ173",
  "name":"AFLAH PALAKKAD",
- "dars":"BAHJATHUL HIKAM DARS KARATHUR",
+ "darsname":"BAHJATHUL HIKAM DARS KARATHUR",
  "darsplace":"KARATHUR, TIRUR",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-hikam-dars-karathur",
@@ -851,7 +851,7 @@
  {
  "code":"TJ174",
  "name":"ALSABITH A.A KECHERI",
- "dars":"BAHJATHUL HIKAM DARS KARATHUR",
+ "darsname":"BAHJATHUL HIKAM DARS KARATHUR",
  "darsplace":"KARATHUR, TIRUR",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-hikam-dars-karathur",
@@ -862,7 +862,7 @@
  {
  "code":"TJ175",
  "name":"ALSABITH S PALAKKAD",
- "dars":"BAHJATHUL HIKAM DARS KARATHUR",
+ "darsname":"BAHJATHUL HIKAM DARS KARATHUR",
  "darsplace":"KARATHUR, TIRUR",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-hikam-dars-karathur",
@@ -874,7 +874,7 @@
  {
  "code":"TJ176",
  "name":"MUHAMMED ARSHAD VALANCHERI",
- "dars":"BAHJATHUL HIKAM DARS KARATHUR",
+ "darsname":"BAHJATHUL HIKAM DARS KARATHUR",
  "darsplace":"KARATHUR, TIRUR",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-hikam-dars-karathur",
@@ -887,7 +887,7 @@
  {
  "code":"TJ177",
  "name":"MUHAMMED RABEEH NANDI",
- "dars":"BAHJATHUL HIKAM DARS KARATHUR",
+ "darsname":"BAHJATHUL HIKAM DARS KARATHUR",
  "darsplace":"KARATHUR, TIRUR",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-hikam-dars-karathur",
@@ -900,7 +900,7 @@
  {
  "code":"TJ178",
  "name":"DAHIN MARZOOK",
- "dars":"BAHJATHUL HUDA DARAS EDAKKULAM",
+ "darsname":"BAHJATHUL HUDA DARAS EDAKKULAM",
  "darsplace":"EDAKKULAM,THIRUNAVAYA",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-huda-daras-edakkulam",
@@ -910,7 +910,7 @@
  {
  "code":"TJ179",
  "name":"MUZAMMIL K.M MANNARA PARAMPU",
- "dars":"BAHJATHUL HUDA DARAS EDAKKULAM",
+ "darsname":"BAHJATHUL HUDA DARAS EDAKKULAM",
  "darsplace":"EDAKKULAM,THIRUNAVAYA",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-huda-daras-edakkulam",
@@ -921,7 +921,7 @@
  {
  "code":"TJ180",
  "name":"ADNAN .M VALANCHERY",
- "dars":"BAHJATHUL HUDA DARAS EDAKKULAM",
+ "darsname":"BAHJATHUL HUDA DARAS EDAKKULAM",
  "darsplace":"EDAKKULAM,THIRUNAVAYA",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-huda-daras-edakkulam",
@@ -933,7 +933,7 @@
  {
  "code":"TJ181",
  "name":"MUHAMMED LABEEB.C KUTTIPURAM",
- "dars":"BAHJATHUL HUDA DARAS EDAKKULAM",
+ "darsname":"BAHJATHUL HUDA DARAS EDAKKULAM",
  "darsplace":"EDAKKULAM,THIRUNAVAYA",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-huda-daras-edakkulam",
@@ -945,7 +945,7 @@
  {
  "code":"TJ182",
  "name":"MUHAMMED ADIL.K. KASARAGOD",
- "dars":"BAHJATHUL HUDA DARAS EDAKKULAM",
+ "darsname":"BAHJATHUL HUDA DARAS EDAKKULAM",
  "darsplace":"EDAKKULAM,THIRUNAVAYA",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-huda-daras-edakkulam",
@@ -957,7 +957,7 @@
  {
  "code":"TJ183",
  "name":"JAVAD.CK. EDAKKULAM",
- "dars":"BAHJATHUL HUDA DARAS EDAKKULAM",
+ "darsname":"BAHJATHUL HUDA DARAS EDAKKULAM",
  "darsplace":"EDAKKULAM,THIRUNAVAYA",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-huda-daras-edakkulam",
@@ -967,7 +967,7 @@
  {
  "code":"TJ184",
  "name":"ASLAM. VADASSERY",
- "dars":"BAHJATHUL HUDA DARAS EDAKKULAM",
+ "darsname":"BAHJATHUL HUDA DARAS EDAKKULAM",
  "darsplace":"EDAKKULAM,THIRUNAVAYA",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-huda-daras-edakkulam",
@@ -981,7 +981,7 @@
  {
  "code":"TJ185",
  "name":"MUHAMMAD SHIMLAL.C. KOORIYAD",
- "dars":"BAHJATHUL HUDA DARAS EDAKKULAM",
+ "darsname":"BAHJATHUL HUDA DARAS EDAKKULAM",
  "darsplace":"EDAKKULAM,THIRUNAVAYA",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-huda-daras-edakkulam",
@@ -996,7 +996,7 @@
  {
  "code":"TJ186",
  "name":"NIZAMUDDIN FAIZAL. KASARGOD",
- "dars":"BAHJATHUL HUDA DARAS EDAKKULAM",
+ "darsname":"BAHJATHUL HUDA DARAS EDAKKULAM",
  "darsplace":"EDAKKULAM,THIRUNAVAYA",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-huda-daras-edakkulam",
@@ -1006,7 +1006,7 @@
  {
  "code":"TJ187",
  "name":"AL AMEEN.TS. VELIYANCODE",
- "dars":"BAHJATHUL HUDA DARAS EDAKKULAM",
+ "darsname":"BAHJATHUL HUDA DARAS EDAKKULAM",
  "darsplace":"EDAKKULAM,THIRUNAVAYA",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-huda-daras-edakkulam",
@@ -1018,7 +1018,7 @@
  {
  "code":"TJ188",
  "name":"MUHAMMAD SINAN. MANGALAPURAM",
- "dars":"BAHJATHUL HUDA DARAS EDAKKULAM",
+ "darsname":"BAHJATHUL HUDA DARAS EDAKKULAM",
  "darsplace":"EDAKKULAM,THIRUNAVAYA",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-huda-daras-edakkulam",
@@ -1028,7 +1028,7 @@
  {
  "code":"TJ189",
  "name":"MOHAMMED SHAMIL .P.A CHANGARAMKULAM",
- "dars":"BAHJATHUL HUDA DARAS EDAKKULAM",
+ "darsname":"BAHJATHUL HUDA DARAS EDAKKULAM",
  "darsplace":"EDAKKULAM,THIRUNAVAYA",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-huda-daras-edakkulam",
@@ -1040,7 +1040,7 @@
  {
  "code":"TJ190",
  "name":"MOHAMMED AJNAS .K VADAKARA",
- "dars":"BAHJATHUL HUDA DARAS EDAKKULAM",
+ "darsname":"BAHJATHUL HUDA DARAS EDAKKULAM",
  "darsplace":"EDAKKULAM,THIRUNAVAYA",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-huda-daras-edakkulam",
@@ -1050,7 +1050,7 @@
  {
  "code":"TJ191",
  "name":"Minhaj Koduvally",
- "dars":"BAYANUL ULOOM DARS KODINHI",
+ "darsname":"BAYANUL ULOOM DARS KODINHI",
  "darsplace":"KODINHI",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-kodinhi",
@@ -1062,7 +1062,7 @@
  {
  "code":"TJ192",
  "name":"Muhammed Aslam Vazhippara",
- "dars":"BAYANUL ULOOM DARS KODINHI",
+ "darsname":"BAYANUL ULOOM DARS KODINHI",
  "darsplace":"KODINHI",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-kodinhi",
@@ -1073,7 +1073,7 @@
  {
  "code":"TJ193",
  "name":"Muhammed Sabith Nattukallu",
- "dars":"BAYANUL ULOOM DARS KODINHI",
+ "darsname":"BAYANUL ULOOM DARS KODINHI",
  "darsplace":"KODINHI",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-kodinhi",
@@ -1086,7 +1086,7 @@
  {
  "code":"TJ194",
  "name":"Habeebul Rahman Vettathur",
- "dars":"BAYANUL ULOOM DARS KODINHI",
+ "darsname":"BAYANUL ULOOM DARS KODINHI",
  "darsplace":"KODINHI",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-kodinhi",
@@ -1096,7 +1096,7 @@
  {
  "code":"TJ195",
  "name":"Muhammed Bishr Manjeri",
- "dars":"BAYANUL ULOOM DARS KODINHI",
+ "darsname":"BAYANUL ULOOM DARS KODINHI",
  "darsplace":"KODINHI",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-kodinhi",
@@ -1106,7 +1106,7 @@
  {
  "code":"TJ196",
  "name":"Aboobacker Wayanad",
- "dars":"BAYANUL ULOOM DARS KODINHI",
+ "darsname":"BAYANUL ULOOM DARS KODINHI",
  "darsplace":"KODINHI",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-kodinhi",
@@ -1117,7 +1117,7 @@
  {
  "code":"TJ197",
  "name":"Aji Roshan Vettathur",
- "dars":"BAYANUL ULOOM DARS KODINHI",
+ "darsname":"BAYANUL ULOOM DARS KODINHI",
  "darsplace":"KODINHI",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-kodinhi",
@@ -1129,7 +1129,7 @@
  {
  "code":"TJ198",
  "name":"Muhammed Nisar Karinkallathanni",
- "dars":"BAYANUL ULOOM DARS KODINHI",
+ "darsname":"BAYANUL ULOOM DARS KODINHI",
  "darsplace":"KODINHI",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-kodinhi",
@@ -1140,7 +1140,7 @@
  {
  "code":"TJ199",
  "name":"Adhil Fahad Alingal",
- "dars":"BAYANUL ULOOM DARS KODINHI",
+ "darsname":"BAYANUL ULOOM DARS KODINHI",
  "darsplace":"KODINHI",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-kodinhi",
@@ -1150,7 +1150,7 @@
  {
  "code":"TJ200",
  "name":"Muhammad Rashin Kodinhi",
- "dars":"BAYANUL ULOOM DARS KODINHI",
+ "darsname":"BAYANUL ULOOM DARS KODINHI",
  "darsplace":"KODINHI",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-kodinhi",
@@ -1160,7 +1160,7 @@
  {
  "code":"TJ201",
  "name":"Muhammed Shinas Koduvally",
- "dars":"BAYANUL ULOOM DARS KODINHI",
+ "darsname":"BAYANUL ULOOM DARS KODINHI",
  "darsplace":"KODINHI",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-kodinhi",
@@ -1171,7 +1171,7 @@
  {
  "code":"TJ202",
  "name":"Muhammed Ajlan Mannarkad",
- "dars":"BAYANUL ULOOM DARS KODINHI",
+ "darsname":"BAYANUL ULOOM DARS KODINHI",
  "darsplace":"KODINHI",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-kodinhi",
@@ -1181,7 +1181,7 @@
  {
  "code":"TJ203",
  "name":"Amin Jihal Engapuzha",
- "dars":"BAYANUL ULOOM DARS KODINHI",
+ "darsname":"BAYANUL ULOOM DARS KODINHI",
  "darsplace":"KODINHI",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-kodinhi",
@@ -1191,7 +1191,7 @@
  {
  "code":"TJ204",
  "name":"Abdulla Angadippuram",
- "dars":"BAYANUL ULOOM DARS KODINHI",
+ "darsname":"BAYANUL ULOOM DARS KODINHI",
  "darsplace":"KODINHI",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-kodinhi",
@@ -1208,7 +1208,7 @@
  {
  "code":"TJ205",
  "name":"Abdulla Wayanad",
- "dars":"BAYANUL ULOOM DARS KODINHI",
+ "darsname":"BAYANUL ULOOM DARS KODINHI",
  "darsplace":"KODINHI",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-kodinhi",
@@ -1223,7 +1223,7 @@
  {
  "code":"TJ206",
  "name":"MUHAMMED ADNAN",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -1234,7 +1234,7 @@
  {
  "code":"TJ207",
  "name":"SINAN VP",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -1244,7 +1244,7 @@
  {
  "code":"TJ208",
  "name":"MUHAMMED FASEEH",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -1257,7 +1257,7 @@
  {
  "code":"TJ209",
  "name":"UMAR MUKHTAR O",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -1267,7 +1267,7 @@
  {
  "code":"TJ210",
  "name":"MUEENUDHEEN MP",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -1278,7 +1278,7 @@
  {
  "code":"TJ211",
  "name":"SAHLAN",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -1291,7 +1291,7 @@
  {
  "code":"TJ212",
  "name":"SINAN KT",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -1305,7 +1305,7 @@
  {
  "code":"TJ213",
  "name":"MUHYIDHEEN KUTTY",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -1315,7 +1315,7 @@
  {
  "code":"TJ214",
  "name":"MUHAMMED NIHAL C",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -1326,7 +1326,7 @@
  {
  "code":"TJ215",
  "name":"ARSHAD CP",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -1336,7 +1336,7 @@
  {
  "code":"TJ216",
  "name":"NAFIH NK",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -1350,7 +1350,7 @@
  {
  "code":"TJ217",
  "name":"JUNAID V",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -1361,7 +1361,7 @@
  {
  "code":"TJ218",
  "name":"AMJAD",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -1371,7 +1371,7 @@
  {
  "code":"TJ219",
  "name":"MARVAN PP",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -1381,7 +1381,7 @@
  {
  "code":"TJ220",
  "name":"QAMARUSSAMAN",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -1391,7 +1391,7 @@
  {
  "code":"TJ221",
  "name":"IHSAN",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -1401,7 +1401,7 @@
  {
  "code":"TJ222",
  "name":"UNAIS P",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -1411,7 +1411,7 @@
  {
  "code":"TJ223",
  "name":"MUHAMMED HASHIR MN PAYYANAD",
- "dars":"BAYANUL ULOOM DARS OMACHAPPUZHA",
+ "darsname":"BAYANUL ULOOM DARS OMACHAPPUZHA",
  "darsplace":"OMACHAPPUZHA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-omachappuzha",
@@ -1423,7 +1423,7 @@
  {
  "code":"TJ224",
  "name":"MUHAMMAD RAMEES A CHATTIPARAMBU",
- "dars":"BAYANUL ULOOM DARS OMACHAPPUZHA",
+ "darsname":"BAYANUL ULOOM DARS OMACHAPPUZHA",
  "darsplace":"OMACHAPPUZHA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-omachappuzha",
@@ -1433,7 +1433,7 @@
  {
  "code":"TJ225",
  "name":"MUHAMMED MUNAVAR K POOKKOTTUR",
- "dars":"BAYANUL ULOOM DARS OMACHAPPUZHA",
+ "darsname":"BAYANUL ULOOM DARS OMACHAPPUZHA",
  "darsplace":"OMACHAPPUZHA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-omachappuzha",
@@ -1447,7 +1447,7 @@
  {
  "code":"TJ226",
  "name":"MUHAMMED SHAMNAD PP SUPER BAZAR",
- "dars":"BAYANUL ULOOM DARS OMACHAPPUZHA",
+ "darsname":"BAYANUL ULOOM DARS OMACHAPPUZHA",
  "darsplace":"OMACHAPPUZHA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-omachappuzha",
@@ -1458,7 +1458,7 @@
  {
  "code":"TJ227",
  "name":"AHAMAD NIZAM C CHATTIPARAMBU",
- "dars":"BAYANUL ULOOM DARS OMACHAPPUZHA",
+ "darsname":"BAYANUL ULOOM DARS OMACHAPPUZHA",
  "darsplace":"OMACHAPPUZHA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-omachappuzha",
@@ -1468,7 +1468,7 @@
  {
  "code":"TJ228",
  "name":"MUHAMMAD MUNSHID EK POOKALATHOOR",
- "dars":"BAYANUL ULOOM DARS OMACHAPPUZHA",
+ "darsname":"BAYANUL ULOOM DARS OMACHAPPUZHA",
  "darsplace":"OMACHAPPUZHA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-omachappuzha",
@@ -1478,7 +1478,7 @@
  {
  "code":"TJ229",
  "name":"ARIF PK PULLARA",
- "dars":"BAYANUL ULOOM DARS OMACHAPPUZHA",
+ "darsname":"BAYANUL ULOOM DARS OMACHAPPUZHA",
  "darsplace":"OMACHAPPUZHA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-omachappuzha",
@@ -1492,7 +1492,7 @@
  {
  "code":"TJ230",
  "name":"SAINUL ABID T KODAMBUZHA",
- "dars":"BAYANUL ULOOM DARS OMACHAPPUZHA",
+ "darsname":"BAYANUL ULOOM DARS OMACHAPPUZHA",
  "darsplace":"OMACHAPPUZHA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-omachappuzha",
@@ -1502,7 +1502,7 @@
  {
  "code":"TJ231",
  "name":"HASEEB AHMED P CHATTIPARAMBU",
- "dars":"BAYANUL ULOOM DARS OMACHAPPUZHA",
+ "darsname":"BAYANUL ULOOM DARS OMACHAPPUZHA",
  "darsplace":"OMACHAPPUZHA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-omachappuzha",
@@ -1512,7 +1512,7 @@
  {
  "code":"TJ232",
  "name":"MUHAMMED ASLAM AP THAKADATHOOR",
- "dars":"BAYANUL ULOOM DARS OMACHAPPUZHA",
+ "darsname":"BAYANUL ULOOM DARS OMACHAPPUZHA",
  "darsplace":"OMACHAPPUZHA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-omachappuzha",
@@ -1523,7 +1523,7 @@
  {
  "code":"TJ233",
  "name":"MUHAMMED SHIHAD C KODAMBUZHA",
- "dars":"BAYANUL ULOOM DARS OMACHAPPUZHA",
+ "darsname":"BAYANUL ULOOM DARS OMACHAPPUZHA",
  "darsplace":"OMACHAPPUZHA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-omachappuzha",
@@ -1536,7 +1536,7 @@
  {
  "code":"TJ234",
  "name":"ANVAR VV POOKKOTTUR",
- "dars":"BAYANUL ULOOM DARS OMACHAPPUZHA",
+ "darsname":"BAYANUL ULOOM DARS OMACHAPPUZHA",
  "darsplace":"OMACHAPPUZHA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-omachappuzha",
@@ -1549,7 +1549,7 @@
  {
  "code":"TJ235",
  "name":"MOHAMMED FARIS VP EDAPPAL",
- "dars":"BAYANUL ULOOM DARS OMACHAPPUZHA",
+ "darsname":"BAYANUL ULOOM DARS OMACHAPPUZHA",
  "darsplace":"OMACHAPPUZHA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-omachappuzha",
@@ -1559,7 +1559,7 @@
  {
  "code":"TJ236",
  "name":"MUHAMMED SAAD T EDAPPAL",
- "dars":"BAYANUL ULOOM DARS OMACHAPPUZHA",
+ "darsname":"BAYANUL ULOOM DARS OMACHAPPUZHA",
  "darsplace":"OMACHAPPUZHA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-omachappuzha",
@@ -1569,7 +1569,7 @@
  {
  "code":"TJ237",
  "name":"Muhammed shehal ponnani",
- "dars":"BAYANUL ULOOM DARS PUTHANTHERU",
+ "darsname":"BAYANUL ULOOM DARS PUTHANTHERU",
  "darsplace":"PUTHANTHERU",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-puthantheru",
@@ -1579,7 +1579,7 @@
  {
  "code":"TJ238",
  "name":"Muhammed minhaj p",
- "dars":"BAYANUL ULOOM DARS PUTHANTHERU",
+ "darsname":"BAYANUL ULOOM DARS PUTHANTHERU",
  "darsplace":"PUTHANTHERU",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-puthantheru",
@@ -1589,7 +1589,7 @@
  {
  "code":"TJ239",
  "name":"Muhammed sahad kk NARIPARAMBU",
- "dars":"BAYANUL ULOOM DARS PUTHANTHERU",
+ "darsname":"BAYANUL ULOOM DARS PUTHANTHERU",
  "darsplace":"PUTHANTHERU",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-puthantheru",
@@ -1603,7 +1603,7 @@
  {
  "code":"TJ240",
  "name":"Muhammad jinshad.k veliyancode",
- "dars":"BAYANUL ULOOM DARS PUTHANTHERU",
+ "darsname":"BAYANUL ULOOM DARS PUTHANTHERU",
  "darsplace":"PUTHANTHERU",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-puthantheru",
@@ -1618,7 +1618,7 @@
  {
  "code":"TJ241",
  "name":"Muhammad althaf m v ponnani",
- "dars":"BAYANUL ULOOM DARS PUTHANTHERU",
+ "darsname":"BAYANUL ULOOM DARS PUTHANTHERU",
  "darsplace":"PUTHANTHERU",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-puthantheru",
@@ -1629,7 +1629,7 @@
  {
  "code":"TJ242",
  "name":"Muhammed haseeb v p vaniyannur",
- "dars":"BAYANUL ULOOM DARS PUTHANTHERU",
+ "darsname":"BAYANUL ULOOM DARS PUTHANTHERU",
  "darsplace":"PUTHANTHERU",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-puthantheru",
@@ -1642,7 +1642,7 @@
  {
  "code":"TJ243",
  "name":"Muhammed afrid m ponnani",
- "dars":"BAYANUL ULOOM DARS PUTHANTHERU",
+ "darsname":"BAYANUL ULOOM DARS PUTHANTHERU",
  "darsplace":"PUTHANTHERU",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-puthantheru",
@@ -1655,7 +1655,7 @@
  {
  "code":"TJ244",
  "name":"Muhammed ruvais c a andathode",
- "dars":"BAYANUL ULOOM DARS PUTHANTHERU",
+ "darsname":"BAYANUL ULOOM DARS PUTHANTHERU",
  "darsplace":"PUTHANTHERU",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-puthantheru",
@@ -1665,7 +1665,7 @@
  {
  "code":"TJ245",
  "name":"Mohammed rajib n ponnani",
- "dars":"BAYANUL ULOOM DARS PUTHANTHERU",
+ "darsname":"BAYANUL ULOOM DARS PUTHANTHERU",
  "darsplace":"PUTHANTHERU",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-puthantheru",
@@ -1675,7 +1675,7 @@
  {
  "code":"TJ246",
  "name":"Muhammed fayiz t v ponnani",
- "dars":"BAYANUL ULOOM DARS PUTHANTHERU",
+ "darsname":"BAYANUL ULOOM DARS PUTHANTHERU",
  "darsplace":"PUTHANTHERU",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-puthantheru",
@@ -1685,7 +1685,7 @@
  {
  "code":"TJ247",
  "name":"Mohmed sinan a s karikkad, thrissur",
- "dars":"BAYANUL ULOOM DARS PUTHANTHERU",
+ "darsname":"BAYANUL ULOOM DARS PUTHANTHERU",
  "darsplace":"PUTHANTHERU",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-puthantheru",
@@ -1695,7 +1695,7 @@
  {
  "code":"TJ248",
  "name":"Mohammed shamil v p ponnani",
- "dars":"BAYANUL ULOOM DARS PUTHANTHERU",
+ "darsname":"BAYANUL ULOOM DARS PUTHANTHERU",
  "darsplace":"PUTHANTHERU",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-puthantheru",
@@ -1706,7 +1706,7 @@
  {
  "code":"TJ249",
  "name":"Muhammed shibili k ponnani",
- "dars":"BAYANUL ULOOM DARS PUTHANTHERU",
+ "darsname":"BAYANUL ULOOM DARS PUTHANTHERU",
  "darsplace":"PUTHANTHERU",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-puthantheru",
@@ -1716,7 +1716,7 @@
  {
  "code":"TJ250",
  "name":"MINHAJ P MUNDAMPARAMBA",
- "dars":"DARUL HIDAYA DARS ULLANAM",
+ "darsname":"DARUL HIDAYA DARS ULLANAM",
  "darsplace":"ULLANAM MUNDIYANKAVU",
  "zone":"TIRURANGADI",
  "slug":"darul-hidaya-dars-ullanam",
@@ -1726,7 +1726,7 @@
  {
  "code":"TJ251",
  "name":"MUHAMMED RABEEH. P. K ULLANAM",
- "dars":"DARUL HIDAYA DARS ULLANAM",
+ "darsname":"DARUL HIDAYA DARS ULLANAM",
  "darsplace":"ULLANAM MUNDIYANKAVU",
  "zone":"TIRURANGADI",
  "slug":"darul-hidaya-dars-ullanam",
@@ -1736,7 +1736,7 @@
  {
  "code":"TJ252",
  "name":"SAYYID MUHAMMED SWADIQ THANGAL",
- "dars":"DARUL HIDAYA DARS ULLANAM",
+ "darsname":"DARUL HIDAYA DARS ULLANAM",
  "darsplace":"ULLANAM MUNDIYANKAVU",
  "zone":"TIRURANGADI",
  "slug":"darul-hidaya-dars-ullanam",
@@ -1746,7 +1746,7 @@
  {
  "code":"TJ253",
  "name":"MUHAMMED RIFAN. M CHETTIPPADI",
- "dars":"DARUL HIDAYA DARS ULLANAM",
+ "darsname":"DARUL HIDAYA DARS ULLANAM",
  "darsplace":"ULLANAM MUNDIYANKAVU",
  "zone":"TIRURANGADI",
  "slug":"darul-hidaya-dars-ullanam",
@@ -1756,7 +1756,7 @@
  {
  "code":"TJ254",
  "name":"MUHAMMED JALALUDHEEN.A. P ULLANAM",
- "dars":"DARUL HIDAYA DARS ULLANAM",
+ "darsname":"DARUL HIDAYA DARS ULLANAM",
  "darsplace":"ULLANAM MUNDIYANKAVU",
  "zone":"TIRURANGADI",
  "slug":"darul-hidaya-dars-ullanam",
@@ -1769,7 +1769,7 @@
  {
  "code":"TJ255",
  "name":"MUHAMMED RISHAD. K EDAVANNAPARA",
- "dars":"DARUL HIDAYA DARS ULLANAM",
+ "darsname":"DARUL HIDAYA DARS ULLANAM",
  "darsplace":"ULLANAM MUNDIYANKAVU",
  "zone":"TIRURANGADI",
  "slug":"darul-hidaya-dars-ullanam",
@@ -1782,7 +1782,7 @@
  {
  "code":"TJ256",
  "name":"RAHDIL RAHMAN. K TIRUR",
- "dars":"DARUL HIDAYA DARS ULLANAM",
+ "darsname":"DARUL HIDAYA DARS ULLANAM",
  "darsplace":"ULLANAM MUNDIYANKAVU",
  "zone":"TIRURANGADI",
  "slug":"darul-hidaya-dars-ullanam",
@@ -1794,7 +1794,7 @@
  {
  "code":"TJ257",
  "name":"MUDASSIR AHAMMED. M ULLANAM",
- "dars":"DARUL HIDAYA DARS ULLANAM",
+ "darsname":"DARUL HIDAYA DARS ULLANAM",
  "darsplace":"ULLANAM MUNDIYANKAVU",
  "zone":"TIRURANGADI",
  "slug":"darul-hidaya-dars-ullanam",
@@ -1806,7 +1806,7 @@
  {
  "code":"TJ258",
  "name":"MUHAMMED RABEEUE. K TIRUR",
- "dars":"DARUL HIDAYA DARS ULLANAM",
+ "darsname":"DARUL HIDAYA DARS ULLANAM",
  "darsplace":"ULLANAM MUNDIYANKAVU",
  "zone":"TIRURANGADI",
  "slug":"darul-hidaya-dars-ullanam",
@@ -1816,7 +1816,7 @@
  {
  "code":"TJ259",
  "name":"MUHAMMED NIHAL K. T ULLANAM",
- "dars":"DARUL HIDAYA DARS ULLANAM",
+ "darsname":"DARUL HIDAYA DARS ULLANAM",
  "darsplace":"ULLANAM MUNDIYANKAVU",
  "zone":"TIRURANGADI",
  "slug":"darul-hidaya-dars-ullanam",
@@ -1828,7 +1828,7 @@
  {
  "code":"TJ260",
  "name":"MUHAMMED SINAN K. T ULLANAM",
- "dars":"DARUL HIDAYA DARS ULLANAM",
+ "darsname":"DARUL HIDAYA DARS ULLANAM",
  "darsplace":"ULLANAM MUNDIYANKAVU",
  "zone":"TIRURANGADI",
  "slug":"darul-hidaya-dars-ullanam",
@@ -1838,7 +1838,7 @@
  {
  "code":"TJ261",
  "name":"MUHAMMED ADIL. C VETTUKAD",
- "dars":"DARUL HIDAYA DARS ULLANAM",
+ "darsname":"DARUL HIDAYA DARS ULLANAM",
  "darsplace":"ULLANAM MUNDIYANKAVU",
  "zone":"TIRURANGADI",
  "slug":"darul-hidaya-dars-ullanam",
@@ -1850,7 +1850,7 @@
  {
  "code":"TJ262",
  "name":"MUHAMMED BISHR M. V ULLANAM",
- "dars":"DARUL HIDAYA DARS ULLANAM",
+ "darsname":"DARUL HIDAYA DARS ULLANAM",
  "darsplace":"ULLANAM MUNDIYANKAVU",
  "zone":"TIRURANGADI",
  "slug":"darul-hidaya-dars-ullanam",
@@ -1861,7 +1861,7 @@
  {
  "code":"TJ263",
  "name":"ABDUL HASEEB M. V ULLANAM",
- "dars":"DARUL HIDAYA DARS ULLANAM",
+ "darsname":"DARUL HIDAYA DARS ULLANAM",
  "darsplace":"ULLANAM MUNDIYANKAVU",
  "zone":"TIRURANGADI",
  "slug":"darul-hidaya-dars-ullanam",
@@ -1875,7 +1875,7 @@
  {
  "code":"TJ264",
  "name":"MUHAMMED AFSAL KALAD",
- "dars":"DARUL ULOOM DARS KORAD",
+ "darsname":"DARUL ULOOM DARS KORAD",
  "darsplace":"KORAD",
  "zone":"TIRURANGADI",
  "slug":"darul-uloom-dars-korad",
@@ -1885,7 +1885,7 @@
  {
  "code":"TJ265",
  "name":"MUHAMMED SIDHAN M KALAD",
- "dars":"DARUL ULOOM DARS KORAD",
+ "darsname":"DARUL ULOOM DARS KORAD",
  "darsplace":"KORAD",
  "zone":"TIRURANGADI",
  "slug":"darul-uloom-dars-korad",
@@ -1897,7 +1897,7 @@
  {
  "code":"TJ266",
  "name":"MUHAMMED NASHID K KALAD",
- "dars":"DARUL ULOOM DARS KORAD",
+ "darsname":"DARUL ULOOM DARS KORAD",
  "darsplace":"KORAD",
  "zone":"TIRURANGADI",
  "slug":"darul-uloom-dars-korad",
@@ -1910,7 +1910,7 @@
  {
  "code":"TJ267",
  "name":"SABITH",
- "dars":"DARUL ULOOM DARS KORAD",
+ "darsname":"DARUL ULOOM DARS KORAD",
  "darsplace":"KORAD",
  "zone":"TIRURANGADI",
  "slug":"darul-uloom-dars-korad",
@@ -1922,7 +1922,7 @@
  {
  "code":"TJ268",
  "name":"UMAR SHAFIN CM KALAD",
- "dars":"DARUL ULOOM DARS KORAD",
+ "darsname":"DARUL ULOOM DARS KORAD",
  "darsplace":"KORAD",
  "zone":"TIRURANGADI",
  "slug":"darul-uloom-dars-korad",
@@ -1933,7 +1933,7 @@
  {
  "code":"TJ269",
  "name":"ABDUL BARI T KARINGAPPARA",
- "dars":"DARUL ULOOM DARS KORAD",
+ "darsname":"DARUL ULOOM DARS KORAD",
  "darsplace":"KORAD",
  "zone":"TIRURANGADI",
  "slug":"darul-uloom-dars-korad",
@@ -1947,7 +1947,7 @@
  {
  "code":"TJ270",
  "name":"AHMMED ABDUL KHADAR -T. KARINGAPPARA",
- "dars":"DARUL ULOOM DARS KORAD",
+ "darsname":"DARUL ULOOM DARS KORAD",
  "darsplace":"KORAD",
  "zone":"TIRURANGADI",
  "slug":"darul-uloom-dars-korad",
@@ -1960,7 +1960,7 @@
  {
  "code":"TJ271",
  "name":"MUHAMMED ABDUL KHADER CK OMACHAPPUZHA",
- "dars":"DARUL ULOOM DARS KORAD",
+ "darsname":"DARUL ULOOM DARS KORAD",
  "darsplace":"KORAD",
  "zone":"TIRURANGADI",
  "slug":"darul-uloom-dars-korad",
@@ -1970,7 +1970,7 @@
  {
  "code":"TJ272",
  "name":"MUHAMMED SHAMIL K KALAD",
- "dars":"DARUL ULOOM DARS KORAD",
+ "darsname":"DARUL ULOOM DARS KORAD",
  "darsplace":"KORAD",
  "zone":"TIRURANGADI",
  "slug":"darul-uloom-dars-korad",
@@ -1980,7 +1980,7 @@
  {
  "code":"TJ273",
  "name":"AHMMED ABDUL KADAR T KARINGAPPARA",
- "dars":"DARUL ULOOM DARS KORAD",
+ "darsname":"DARUL ULOOM DARS KORAD",
  "darsplace":"KORAD",
  "zone":"TIRURANGADI",
  "slug":"darul-uloom-dars-korad",
@@ -1993,7 +1993,7 @@
  {
  "code":"TJ274",
  "name":"AHAMMED SINAN.K KARINGAPPARA",
- "dars":"DARUL ULOOM DARS KORAD",
+ "darsname":"DARUL ULOOM DARS KORAD",
  "darsplace":"KORAD",
  "zone":"TIRURANGADI",
  "slug":"darul-uloom-dars-korad",
@@ -2005,7 +2005,7 @@
  {
  "code":"TJ275",
  "name":"Nihal",
- "dars":"DARUTHANVEER DARS KOOMANNA",
+ "darsname":"DARUTHANVEER DARS KOOMANNA",
  "darsplace":"KOOMANNA CHENAKKAL",
  "zone":"TIRURANGADI",
  "slug":"daruthanveer-dars-koomanna",
@@ -2019,7 +2019,7 @@
  {
  "code":"TJ276",
  "name":"NIHAL N",
- "dars":"DARUTHANVEER DARS KOOMANNA",
+ "darsname":"DARUTHANVEER DARS KOOMANNA",
  "darsplace":"KOOMANNA CHENAKKAL",
  "zone":"TIRURANGADI",
  "slug":"daruthanveer-dars-koomanna",
@@ -2032,7 +2032,7 @@
  {
  "code":"TJ277",
  "name":"MUHAMMED ANSHID",
- "dars":"DARUTHANVEER DARS KOOMANNA",
+ "darsname":"DARUTHANVEER DARS KOOMANNA",
  "darsplace":"KOOMANNA CHENAKKAL",
  "zone":"TIRURANGADI",
  "slug":"daruthanveer-dars-koomanna",
@@ -2042,7 +2042,7 @@
  {
  "code":"TJ278",
  "name":"Mohammed farshid",
- "dars":"DARUTHANVEER DARS KOOMANNA",
+ "darsname":"DARUTHANVEER DARS KOOMANNA",
  "darsplace":"KOOMANNA CHENAKKAL",
  "zone":"TIRURANGADI",
  "slug":"daruthanveer-dars-koomanna",
@@ -2054,7 +2054,7 @@
  {
  "code":"TJ279",
  "name":"Muhammed Adnan",
- "dars":"DARUTHANVEER DARS KOOMANNA",
+ "darsname":"DARUTHANVEER DARS KOOMANNA",
  "darsplace":"KOOMANNA CHENAKKAL",
  "zone":"TIRURANGADI",
  "slug":"daruthanveer-dars-koomanna",
@@ -2065,7 +2065,7 @@
  {
  "code":"TJ280",
  "name":"Muhammed shahabas",
- "dars":"DARUTHANVEER DARS KOOMANNA",
+ "darsname":"DARUTHANVEER DARS KOOMANNA",
  "darsplace":"KOOMANNA CHENAKKAL",
  "zone":"TIRURANGADI",
  "slug":"daruthanveer-dars-koomanna",
@@ -2078,7 +2078,7 @@
  {
  "code":"TJ281",
  "name":"Muhammed safnas",
- "dars":"DARUTHANVEER DARS KOOMANNA",
+ "darsname":"DARUTHANVEER DARS KOOMANNA",
  "darsplace":"KOOMANNA CHENAKKAL",
  "zone":"TIRURANGADI",
  "slug":"daruthanveer-dars-koomanna",
@@ -2088,7 +2088,7 @@
  {
  "code":"TJ282",
  "name":"Muhammed sabith",
- "dars":"DARUTHANVEER DARS KOOMANNA",
+ "darsname":"DARUTHANVEER DARS KOOMANNA",
  "darsplace":"KOOMANNA CHENAKKAL",
  "zone":"TIRURANGADI",
  "slug":"daruthanveer-dars-koomanna",
@@ -2099,7 +2099,7 @@
  {
  "code":"TJ283",
  "name":"MUHAMMED SHIYAS",
- "dars":"DARUTHANVEER DARS KOOMANNA",
+ "darsname":"DARUTHANVEER DARS KOOMANNA",
  "darsplace":"KOOMANNA CHENAKKAL",
  "zone":"TIRURANGADI",
  "slug":"daruthanveer-dars-koomanna",
@@ -2109,7 +2109,7 @@
  {
  "code":"TJ284",
  "name":"Yahya",
- "dars":"DARUTHANVEER DARS KOOMANNA",
+ "darsname":"DARUTHANVEER DARS KOOMANNA",
  "darsplace":"KOOMANNA CHENAKKAL",
  "zone":"TIRURANGADI",
  "slug":"daruthanveer-dars-koomanna",
@@ -2119,7 +2119,7 @@
  {
  "code":"TJ285",
  "name":"MUHAMMED SALIH T.K",
- "dars":"INARATHUL HUDA DARS CHELARI",
+ "darsname":"INARATHUL HUDA DARS CHELARI",
  "darsplace":"CHENAKKALANGADI",
  "zone":"TIRURANGADI",
  "slug":"inarathul-huda-dars-chelari",
@@ -2134,7 +2134,7 @@
  {
  "code":"TJ286",
  "name":"ANSHIF CHELARI",
- "dars":"INARATHUL HUDA DARS CHELARI",
+ "darsname":"INARATHUL HUDA DARS CHELARI",
  "darsplace":"CHENAKKALANGADI",
  "zone":"TIRURANGADI",
  "slug":"inarathul-huda-dars-chelari",
@@ -2150,7 +2150,7 @@
  {
  "code":"TJ287",
  "name":"ABDUL RASHEED T APPLA",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -2160,7 +2160,7 @@
  {
  "code":"TJ288",
  "name":"MUHAMMAD ALTHAF CHALIYAM",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -2171,7 +2171,7 @@
  {
  "code":"TJ289",
  "name":"MUHAMMAD ASLAM PALATHINGAL",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -2181,7 +2181,7 @@
  {
  "code":"TJ290",
  "name":"MUHAMMAD SAFAD KUNNUMPURAM",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -2192,7 +2192,7 @@
  {
  "code":"TJ291",
  "name":"FALLULUL ABID KAKKAD",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -2209,7 +2209,7 @@
  {
  "code":"TJ292",
  "name":"MUHAMMAD SHADIL KODINHI",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -2220,7 +2220,7 @@
  {
  "code":"TJ293",
  "name":"MUHAMMAD SHAMEEM APPLA",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -2232,7 +2232,7 @@
  {
  "code":"TJ294",
  "name":"MUHAMMAD FAVAS PUKKYOOR",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -2247,7 +2247,7 @@
  {
  "code":"TJ295",
  "name":"MUHAMMAD HISHAM KUNDOOR",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -2258,7 +2258,7 @@
  {
  "code":"TJ296",
  "name":"ABUDU RAHOOF CHAMMAD",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -2268,7 +2268,7 @@
  {
  "code":"TJ297",
  "name":"MUHAMMED BINSHAD PATTAMBI",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -2278,7 +2278,7 @@
  {
  "code":"TJ298",
  "name":"MUHAMMED MUZAMMIL PAKARA",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -2288,7 +2288,7 @@
  {
  "code":"TJ299",
  "name":"ZAINUL ABID KARINKAPARA",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -2298,7 +2298,7 @@
  {
  "code":"TJ300",
  "name":"RUMAIS AYYAYA",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -2310,7 +2310,7 @@
  {
  "code":"TJ301",
  "name":"MUHAMMED SHUHAIB PT VK PADI",
- "dars":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
+ "darsname":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
  "darsplace":"PUTHUPPARAMBA",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-dars-puthupparamba",
@@ -2320,7 +2320,7 @@
  {
  "code":"TJ302",
  "name":"AJMAL AMEEN P PUTHUPPARAMBA",
- "dars":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
+ "darsname":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
  "darsplace":"PUTHUPPARAMBA",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-dars-puthupparamba",
@@ -2330,7 +2330,7 @@
  {
  "code":"TJ303",
  "name":"MUHAMMED HUNAIS MC PUTHUPPARAMBA",
- "dars":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
+ "darsname":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
  "darsplace":"PUTHUPPARAMBA",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-dars-puthupparamba",
@@ -2340,7 +2340,7 @@
  {
  "code":"TJ304",
  "name":"MUNAWWAR K PULAMANTHOL",
- "dars":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
+ "darsname":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
  "darsplace":"PUTHUPPARAMBA",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-dars-puthupparamba",
@@ -2350,7 +2350,7 @@
  {
  "code":"TJ305",
  "name":"MUHAMMED ADIL P PUTHUPPARAMBA",
- "dars":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
+ "darsname":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
  "darsplace":"PUTHUPPARAMBA",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-dars-puthupparamba",
@@ -2362,7 +2362,7 @@
  {
  "code":"TJ306",
  "name":"MUHAMMED SHANIF PP PUTHUPPARAMBA",
- "dars":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
+ "darsname":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
  "darsplace":"PUTHUPPARAMBA",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-dars-puthupparamba",
@@ -2374,7 +2374,7 @@
  {
  "code":"TJ307",
  "name":"MUHAMMED FAIZ AV CHEMMAD",
- "dars":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
+ "darsname":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
  "darsplace":"PUTHUPPARAMBA",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-dars-puthupparamba",
@@ -2386,7 +2386,7 @@
  {
  "code":"TJ308",
  "name":"MUHAMMED ZIYAD K CHOONUR",
- "dars":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
+ "darsname":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
  "darsplace":"PUTHUPPARAMBA",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-dars-puthupparamba",
@@ -2403,7 +2403,7 @@
  {
  "code":"TJ309",
  "name":"MOHAMED RASID M KURUMBATHUR",
- "dars":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
+ "darsname":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
  "darsplace":"PUTHUPPARAMBA",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-dars-puthupparamba",
@@ -2417,7 +2417,7 @@
  {
  "code":"TJ310",
  "name":"MUHAMMED RISHAL VK PUTHANANGADI",
- "dars":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
+ "darsname":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
  "darsplace":"PUTHUPPARAMBA",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-dars-puthupparamba",
@@ -2429,7 +2429,7 @@
  {
  "code":"TJ311",
  "name":"MUHAMMED SALIH VP KUNNATHPARAMB",
- "dars":"MANSHAUL ULOOM KUNNATHPARAMB",
+ "darsname":"MANSHAUL ULOOM KUNNATHPARAMB",
  "darsplace":"KUNNATHPARAMB",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-kunnathparamb",
@@ -2439,7 +2439,7 @@
  {
  "code":"TJ312",
  "name":"FALLELUL ABID C SUPER BAZAR",
- "dars":"MANSHAUL ULOOM KUNNATHPARAMB",
+ "darsname":"MANSHAUL ULOOM KUNNATHPARAMB",
  "darsplace":"KUNNATHPARAMB",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-kunnathparamb",
@@ -2454,7 +2454,7 @@
  {
  "code":"TJ313",
  "name":"MUHAMMAD ZAIN TC PADIKKAL",
- "dars":"MANSHAUL ULOOM KUNNATHPARAMB",
+ "darsname":"MANSHAUL ULOOM KUNNATHPARAMB",
  "darsplace":"KUNNATHPARAMB",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-kunnathparamb",
@@ -2464,7 +2464,7 @@
  {
  "code":"TJ314",
  "name":"MUHAMMED SINAN P KUNNATHPARAMB",
- "dars":"MANSHAUL ULOOM KUNNATHPARAMB",
+ "darsname":"MANSHAUL ULOOM KUNNATHPARAMB",
  "darsplace":"KUNNATHPARAMB",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-kunnathparamb",
@@ -2476,7 +2476,7 @@
  {
  "code":"TJ315",
  "name":"MUHAMMAD AJNAS K SUPER BAZAR",
- "dars":"MANSHAUL ULOOM KUNNATHPARAMB",
+ "darsname":"MANSHAUL ULOOM KUNNATHPARAMB",
  "darsplace":"KUNNATHPARAMB",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-kunnathparamb",
@@ -2488,7 +2488,7 @@
  {
  "code":"TJ316",
  "name":"MUHAMMED RAMSHAD P SUPER BAZAR",
- "dars":"MANSHAUL ULOOM KUNNATHPARAMB",
+ "darsname":"MANSHAUL ULOOM KUNNATHPARAMB",
  "darsplace":"KUNNATHPARAMB",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-kunnathparamb",
@@ -2498,7 +2498,7 @@
  {
  "code":"TJ317",
  "name":"AHAMMED MUHIYUDEEN V PALAKKAL",
- "dars":"MANSHAUL ULOOM KUNNATHPARAMB",
+ "darsname":"MANSHAUL ULOOM KUNNATHPARAMB",
  "darsplace":"KUNNATHPARAMB",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-kunnathparamb",
@@ -2511,7 +2511,7 @@
  {
  "code":"TJ318",
  "name":"YAHYA P SUPER BAZAR",
- "dars":"MANSHAUL ULOOM KUNNATHPARAMB",
+ "darsname":"MANSHAUL ULOOM KUNNATHPARAMB",
  "darsplace":"KUNNATHPARAMB",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-kunnathparamb",
@@ -2521,7 +2521,7 @@
  {
  "code":"TJ319",
  "name":"MUHAMMED NIHAL P KUNNATHPARAMB",
- "dars":"MANSHAUL ULOOM KUNNATHPARAMB",
+ "darsname":"MANSHAUL ULOOM KUNNATHPARAMB",
  "darsplace":"KUNNATHPARAMB",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-kunnathparamb",
@@ -2531,7 +2531,7 @@
  {
  "code":"TJ320",
  "name":"MAJID K VELIMUKKU",
- "dars":"MANSHAUL ULOOM KUNNATHPARAMB",
+ "darsname":"MANSHAUL ULOOM KUNNATHPARAMB",
  "darsplace":"KUNNATHPARAMB",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-kunnathparamb",
@@ -2543,7 +2543,7 @@
  {
  "code":"TJ321",
  "name":"MUHAMMED ASLAH EK IRUMBCHOLA",
- "dars":"MANSHAUL ULOOM KUNNATHPARAMB",
+ "darsname":"MANSHAUL ULOOM KUNNATHPARAMB",
  "darsplace":"KUNNATHPARAMB",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-kunnathparamb",
@@ -2553,7 +2553,7 @@
  {
  "code":"TJ322",
  "name":"SALAHUDEEN AYYOOBI C SUPER BAZAR",
- "dars":"MANSHAUL ULOOM KUNNATHPARAMB",
+ "darsname":"MANSHAUL ULOOM KUNNATHPARAMB",
  "darsplace":"KUNNATHPARAMB",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-kunnathparamb",
@@ -2563,7 +2563,7 @@
  {
  "code":"TJ323",
  "name":"SALMAN FARISE TK TANALUR",
- "dars":"MARKAZUL ULAMA DARS APLA",
+ "darsname":"MARKAZUL ULAMA DARS APLA",
  "darsplace":"POOKKIPARAMBA APLA",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-apla",
@@ -2575,7 +2575,7 @@
  {
  "code":"TJ324",
  "name":"MUHAMMED SINAN",
- "dars":"MARKAZUL ULAMA DARS APLA",
+ "darsname":"MARKAZUL ULAMA DARS APLA",
  "darsplace":"POOKKIPARAMBA APLA",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-apla",
@@ -2585,7 +2585,7 @@
  {
  "code":"TJ325",
  "name":"ABDUL BARI PK",
- "dars":"MARKAZUL ULAMA DARS APLA",
+ "darsname":"MARKAZUL ULAMA DARS APLA",
  "darsplace":"POOKKIPARAMBA APLA",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-apla",
@@ -2598,7 +2598,7 @@
  {
  "code":"TJ326",
  "name":"MOHAMMED SINAN P CHATTIPARAMBA",
- "dars":"MARKAZUL ULAMA DARS APLA",
+ "darsname":"MARKAZUL ULAMA DARS APLA",
  "darsplace":"POOKKIPARAMBA APLA",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-apla",
@@ -2610,7 +2610,7 @@
  {
  "code":"TJ327",
  "name":"ADHIL MUBARACK FAROOQ",
- "dars":"MARKAZUL ULAMA DARS FAROOKABAD",
+ "darsname":"MARKAZUL ULAMA DARS FAROOKABAD",
  "darsplace":"KAKKATHADAM",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-farookabad",
@@ -2625,7 +2625,7 @@
  {
  "code":"TJ328",
  "name":"MUHAMMAD NIHAL",
- "dars":"MARKAZUL ULAMA DARS FAROOKABAD",
+ "darsname":"MARKAZUL ULAMA DARS FAROOKABAD",
  "darsplace":"KAKKATHADAM",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-farookabad",
@@ -2635,7 +2635,7 @@
  {
  "code":"TJ329",
  "name":"MISHAB VALLIKKUNNU",
- "dars":"MARKAZUL ULAMA DARS FAROOKABAD",
+ "darsname":"MARKAZUL ULAMA DARS FAROOKABAD",
  "darsplace":"KAKKATHADAM",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-farookabad",
@@ -2646,7 +2646,7 @@
  {
  "code":"TJ330",
  "name":"MUHAMMAD SINAN CK MONGAM",
- "dars":"MARKAZUL ULAMA DARS FAROOKABAD",
+ "darsname":"MARKAZUL ULAMA DARS FAROOKABAD",
  "darsplace":"KAKKATHADAM",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-farookabad",
@@ -2660,7 +2660,7 @@
  {
  "code":"TJ331",
  "name":"ARSHUL FAHAD K AIKKARAPADI",
- "dars":"MARKAZUL ULAMA DARS FAROOKABAD",
+ "darsname":"MARKAZUL ULAMA DARS FAROOKABAD",
  "darsplace":"KAKKATHADAM",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-farookabad",
@@ -2673,7 +2673,7 @@
  {
  "code":"TJ332",
  "name":"MUHAMMAD HISHAM MUSLIYAR ANGADI",
- "dars":"MARKAZUL ULAMA DARS FAROOKABAD",
+ "darsname":"MARKAZUL ULAMA DARS FAROOKABAD",
  "darsplace":"KAKKATHADAM",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-farookabad",
@@ -2685,7 +2685,7 @@
  {
  "code":"TJ333",
  "name":"MUSTHAFA. KARIVANKALLE",
- "dars":"MARKAZUL ULAMA DARS FAROOKABAD",
+ "darsname":"MARKAZUL ULAMA DARS FAROOKABAD",
  "darsplace":"KAKKATHADAM",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-farookabad",
@@ -2698,7 +2698,7 @@
  {
  "code":"TJ334",
  "name":"ADIL MUBARCK. BEPPUR",
- "dars":"MARKAZUL ULAMA DARS FAROOKABAD",
+ "darsname":"MARKAZUL ULAMA DARS FAROOKABAD",
  "darsplace":"KAKKATHADAM",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-farookabad",
@@ -2714,7 +2714,7 @@
  {
  "code":"TJ335",
  "name":"IHSANUL HAQ KAKKAD",
- "dars":"MARKAZUL ULAMA DARS PALATHINGAL",
+ "darsname":"MARKAZUL ULAMA DARS PALATHINGAL",
  "darsplace":"PALATHINGAL",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-palathingal",
@@ -2725,7 +2725,7 @@
  {
  "code":"TJ336",
  "name":"Ok",
- "dars":"MARKAZUL ULAMA DARS PALATHINGAL",
+ "darsname":"MARKAZUL ULAMA DARS PALATHINGAL",
  "darsplace":"PALATHINGAL",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-palathingal",
@@ -2735,7 +2735,7 @@
  {
  "code":"TJ337",
  "name":"Muhammad RUHAIL ck mambaram",
- "dars":"MARKAZUL ULAMA DARS PALATHINGAL",
+ "darsname":"MARKAZUL ULAMA DARS PALATHINGAL",
  "darsplace":"PALATHINGAL",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-palathingal",
@@ -2745,7 +2745,7 @@
  {
  "code":"TJ338",
  "name":"MUHAMMAD ANSHAD PP",
- "dars":"MARKAZUL ULAMA DARS PALATHINGAL",
+ "darsname":"MARKAZUL ULAMA DARS PALATHINGAL",
  "darsplace":"PALATHINGAL",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-palathingal",
@@ -2756,7 +2756,7 @@
  {
  "code":"TJ339",
  "name":"MUHAMMAD RASHID PK",
- "dars":"MARKAZUL ULAMA DARS PALATHINGAL",
+ "darsname":"MARKAZUL ULAMA DARS PALATHINGAL",
  "darsplace":"PALATHINGAL",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-palathingal",
@@ -2766,7 +2766,7 @@
  {
  "code":"TJ340",
  "name":"YAHKOOB PALATHINGAL",
- "dars":"MARKAZUL ULAMA DARS PALATHINGAL",
+ "darsname":"MARKAZUL ULAMA DARS PALATHINGAL",
  "darsplace":"PALATHINGAL",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-palathingal",
@@ -2776,7 +2776,7 @@
  {
  "code":"TJ341",
  "name":"MUHAMMED SAHAL P",
- "dars":"MARKAZUL ULAMA DARS PALATHINGAL",
+ "darsname":"MARKAZUL ULAMA DARS PALATHINGAL",
  "darsplace":"PALATHINGAL",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-palathingal",
@@ -2790,7 +2790,7 @@
  {
  "code":"TJ342",
  "name":"MUHAMMED ZIYAN HARIZ",
- "dars":"MARKAZUL ULAMA DARS PALATHINGAL",
+ "darsname":"MARKAZUL ULAMA DARS PALATHINGAL",
  "darsplace":"PALATHINGAL",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-palathingal",
@@ -2803,7 +2803,7 @@
  {
  "code":"TJ343",
  "name":"ABU SINAN. K",
- "dars":"MARKAZUL ULAMA DARS PALATHINGAL",
+ "darsname":"MARKAZUL ULAMA DARS PALATHINGAL",
  "darsplace":"PALATHINGAL",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-palathingal",
@@ -2813,7 +2813,7 @@
  {
  "code":"TJ344",
  "name":"ABDUL JABBAR TPM",
- "dars":"MARKAZUL ULAMA DARS PALATHINGAL",
+ "darsname":"MARKAZUL ULAMA DARS PALATHINGAL",
  "darsplace":"PALATHINGAL",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-palathingal",
@@ -2823,7 +2823,7 @@
  {
  "code":"TJ345",
  "name":"MUHAMMAD NAJAD PK",
- "dars":"MARKAZUL ULAMA DARS PALATHINGAL",
+ "darsname":"MARKAZUL ULAMA DARS PALATHINGAL",
  "darsplace":"PALATHINGAL",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-palathingal",
@@ -2835,7 +2835,7 @@
  {
  "code":"TJ346",
  "name":"MUHAMMED NISHAD",
- "dars":"MARKAZUL ULAMA DARS PALATHINGAL",
+ "darsname":"MARKAZUL ULAMA DARS PALATHINGAL",
  "darsplace":"PALATHINGAL",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-palathingal",
@@ -2845,7 +2845,7 @@
  {
  "code":"TJ347",
  "name":"MUHAMMAD ASHIQ",
- "dars":"MARKAZUL ULAMA DARS PALATHINGAL",
+ "darsname":"MARKAZUL ULAMA DARS PALATHINGAL",
  "darsplace":"PALATHINGAL",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-palathingal",
@@ -2855,7 +2855,7 @@
  {
  "code":"TJ348",
  "name":"MUHAMMED IRFAN. PP",
- "dars":"MARKAZUL ULAMA DARS PALATHINGAL",
+ "darsname":"MARKAZUL ULAMA DARS PALATHINGAL",
  "darsplace":"PALATHINGAL",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-palathingal",
@@ -2865,7 +2865,7 @@
  {
  "code":"TJ349",
  "name":"ABDUL JABBAR. TPM",
- "dars":"MARKAZUL ULAMA DARS PALATHINGAL",
+ "darsname":"MARKAZUL ULAMA DARS PALATHINGAL",
  "darsplace":"PALATHINGAL",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-palathingal",
@@ -2875,7 +2875,7 @@
  {
  "code":"TJ350",
  "name":"FARIS CHATHRATHODI",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -2887,7 +2887,7 @@
  {
  "code":"TJ351",
  "name":"AASHIR KANOOR",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -2899,7 +2899,7 @@
  {
  "code":"TJ352",
  "name":"RINSHAD OZHUKOOR",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -2909,7 +2909,7 @@
  {
  "code":"TJ353",
  "name":"JASIL MOONIYOOR",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -2922,7 +2922,7 @@
  {
  "code":"TJ354",
  "name":"SINAN KOTTAKKAL",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -2932,7 +2932,7 @@
  {
  "code":"TJ355",
  "name":"SHAMIL MOONIYOOR",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -2942,7 +2942,7 @@
  {
  "code":"TJ356",
  "name":"ADHNAN OOMANOOR",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -2954,7 +2954,7 @@
  {
  "code":"TJ357",
  "name":"RASIQ KODINHI",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -2968,7 +2968,7 @@
  {
  "code":"TJ358",
  "name":"NAJMUL AARIF KARIPOOR",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -2979,7 +2979,7 @@
  {
  "code":"TJ359",
  "name":"SHEBIN OZHUKOOR",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -2990,7 +2990,7 @@
  {
  "code":"TJ360",
  "name":"AADHIL OZHUKOOR",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -3001,7 +3001,7 @@
  {
  "code":"TJ361",
  "name":"BASITH MOONIYOOR",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -3011,7 +3011,7 @@
  {
  "code":"TJ362",
  "name":"RINSHAD CHERPULASHERI",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -3021,7 +3021,7 @@
  {
  "code":"TJ363",
  "name":"NIHAL OOMANOOR",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -3032,7 +3032,7 @@
  {
  "code":"TJ364",
  "name":"ASHFAQ PALLIKAL BASAR",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -3042,7 +3042,7 @@
  {
  "code":"TJ365",
  "name":"RINSHAD VAYANAD",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -3052,7 +3052,7 @@
  {
  "code":"TJ366",
  "name":"MUFLIH THANOOR",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -3062,7 +3062,7 @@
  {
  "code":"TJ367",
  "name":"MUHAMMAD NIYAS C.K",
- "dars":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
+ "darsname":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
  "darsplace":"CHERUSHOLA",
  "zone":"TIRURANGADI",
  "slug":"munavvirul-islam-dars-cherushola",
@@ -3073,7 +3073,7 @@
  {
  "code":"TJ368",
  "name":"ASLAM.P",
- "dars":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
+ "darsname":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
  "darsplace":"CHERUSHOLA",
  "zone":"TIRURANGADI",
  "slug":"munavvirul-islam-dars-cherushola",
@@ -3084,7 +3084,7 @@
  {
  "code":"TJ369",
  "name":"ASLAM .P",
- "dars":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
+ "darsname":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
  "darsplace":"CHERUSHOLA",
  "zone":"TIRURANGADI",
  "slug":"munavvirul-islam-dars-cherushola",
@@ -3095,7 +3095,7 @@
  {
  "code":"TJ370",
  "name":"ANSHIF..k",
- "dars":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
+ "darsname":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
  "darsplace":"CHERUSHOLA",
  "zone":"TIRURANGADI",
  "slug":"munavvirul-islam-dars-cherushola",
@@ -3106,7 +3106,7 @@
  {
  "code":"TJ371",
  "name":"SUFYAN.VK",
- "dars":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
+ "darsname":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
  "darsplace":"CHERUSHOLA",
  "zone":"TIRURANGADI",
  "slug":"munavvirul-islam-dars-cherushola",
@@ -3117,7 +3117,7 @@
  {
  "code":"TJ372",
  "name":"SUFAID.VK",
- "dars":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
+ "darsname":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
  "darsplace":"CHERUSHOLA",
  "zone":"TIRURANGADI",
  "slug":"munavvirul-islam-dars-cherushola",
@@ -3128,7 +3128,7 @@
  {
  "code":"TJ373",
  "name":"MUHAMMAD HISHAM",
- "dars":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
+ "darsname":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
  "darsplace":"CHERUSHOLA",
  "zone":"TIRURANGADI",
  "slug":"munavvirul-islam-dars-cherushola",
@@ -3140,7 +3140,7 @@
  {
  "code":"TJ374",
  "name":"MINHAJ.K",
- "dars":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
+ "darsname":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
  "darsplace":"CHERUSHOLA",
  "zone":"TIRURANGADI",
  "slug":"munavvirul-islam-dars-cherushola",
@@ -3150,7 +3150,7 @@
  {
  "code":"TJ375",
  "name":"MUHAMMED SHIBIL. T",
- "dars":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
+ "darsname":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
  "darsplace":"CHERUSHOLA",
  "zone":"TIRURANGADI",
  "slug":"munavvirul-islam-dars-cherushola",
@@ -3165,7 +3165,7 @@
  {
  "code":"TJ376",
  "name":"MUHAMMAD NIYAS .P",
- "dars":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
+ "darsname":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
  "darsplace":"CHERUSHOLA",
  "zone":"TIRURANGADI",
  "slug":"munavvirul-islam-dars-cherushola",
@@ -3176,7 +3176,7 @@
  {
  "code":"TJ377",
  "name":"MUHAMMAD IRFANV.A",
- "dars":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
+ "darsname":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
  "darsplace":"CHERUSHOLA",
  "zone":"TIRURANGADI",
  "slug":"munavvirul-islam-dars-cherushola",
@@ -3187,7 +3187,7 @@
  {
  "code":"TJ378",
  "name":"ASHIQ .C",
- "dars":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
+ "darsname":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
  "darsplace":"CHERUSHOLA",
  "zone":"TIRURANGADI",
  "slug":"munavvirul-islam-dars-cherushola",
@@ -3199,7 +3199,7 @@
  {
  "code":"TJ379",
  "name":"MUHAMMAD ANFAS .K",
- "dars":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
+ "darsname":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
  "darsplace":"CHERUSHOLA",
  "zone":"TIRURANGADI",
  "slug":"munavvirul-islam-dars-cherushola",
@@ -3210,7 +3210,7 @@
  {
  "code":"TJ380",
  "name":"MUHAMMAD SHAHAL .V",
- "dars":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
+ "darsname":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
  "darsplace":"CHERUSHOLA",
  "zone":"TIRURANGADI",
  "slug":"munavvirul-islam-dars-cherushola",
@@ -3221,7 +3221,7 @@
  {
  "code":"TJ381",
  "name":"MUHAMMAD SHAFI",
- "dars":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
+ "darsname":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
  "darsplace":"CHERUSHOLA",
  "zone":"TIRURANGADI",
  "slug":"munavvirul-islam-dars-cherushola",
@@ -3231,7 +3231,7 @@
  {
  "code":"TJ382",
  "name":"MIDLAJ.C",
- "dars":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
+ "darsname":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
  "darsplace":"CHERUSHOLA",
  "zone":"TIRURANGADI",
  "slug":"munavvirul-islam-dars-cherushola",
@@ -3241,7 +3241,7 @@
  {
  "code":"TJ383",
  "name":"SHIBIL.T",
- "dars":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
+ "darsname":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
  "darsplace":"CHERUSHOLA",
  "zone":"TIRURANGADI",
  "slug":"munavvirul-islam-dars-cherushola",
@@ -3255,7 +3255,7 @@
  {
  "code":"TJ384",
  "name":"MUHAMMED SHAHAL .V",
- "dars":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
+ "darsname":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
  "darsplace":"CHERUSHOLA",
  "zone":"TIRURANGADI",
  "slug":"munavvirul-islam-dars-cherushola",
@@ -3267,7 +3267,7 @@
  {
  "code":"TJ385",
  "name":"FALULUL RAHMAN .M",
- "dars":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
+ "darsname":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
  "darsplace":"CHERUSHOLA",
  "zone":"TIRURANGADI",
  "slug":"munavvirul-islam-dars-cherushola",
@@ -3277,7 +3277,7 @@
  {
  "code":"TJ386",
  "name":"AFTHAB KP TIRUR",
- "dars":"NOORU THWALABA DARS EDARIKODE",
+ "darsname":"NOORU THWALABA DARS EDARIKODE",
  "darsplace":"EDARIKDOE",
  "zone":"TIRURANGADI",
  "slug":"nooru-thwalaba-dars-edarikode",
@@ -3291,7 +3291,7 @@
  {
  "code":"TJ387",
  "name":"ANSHIF ALI KP TIRUR",
- "dars":"NOORU THWALABA DARS EDARIKODE",
+ "darsname":"NOORU THWALABA DARS EDARIKODE",
  "darsplace":"EDARIKODE",
  "zone":"TIRURANGADI",
  "slug":"nooru-thwalaba-dars-edarikode",
@@ -3301,7 +3301,7 @@
  {
  "code":"TJ388",
  "name":"MUHAMMED AFLAH. CHAKIRIPPARA",
- "dars":"NOORU THWALABA DARS EDARIKODE",
+ "darsname":"NOORU THWALABA DARS EDARIKODE",
  "darsplace":"EDARIKODE",
  "zone":"TIRURANGADI",
  "slug":"nooru-thwalaba-dars-edarikode",
@@ -3314,7 +3314,7 @@
  {
  "code":"TJ389",
  "name":"MUHAMMED ADIL. C",
- "dars":"NOORU THWALABA DARS EDARIKODE",
+ "darsname":"NOORU THWALABA DARS EDARIKODE",
  "darsplace":"EDARIKODE",
  "zone":"TIRURANGADI",
  "slug":"nooru-thwalaba-dars-edarikode",
@@ -3326,7 +3326,7 @@
  {
  "code":"TJ390",
  "name":"MUHAMMED AFLAH T CHAKIRIPPARA",
- "dars":"NOORU THWALABA DARS EDARIKODE",
+ "darsname":"NOORU THWALABA DARS EDARIKODE",
  "darsplace":"EDARIKODE",
  "zone":"TIRURANGADI",
  "slug":"nooru-thwalaba-dars-edarikode",
@@ -3336,7 +3336,7 @@
  {
  "code":"TJ391",
  "name":"ADNAN M",
- "dars":"NOORU THWALABA DARS EDARIKODE",
+ "darsname":"NOORU THWALABA DARS EDARIKODE",
  "darsplace":"EDARIKODE",
  "zone":"TIRURANGADI",
  "slug":"nooru-thwalaba-dars-edarikode",
@@ -3346,7 +3346,7 @@
  {
  "code":"TJ392",
  "name":"MOHAMMED ANSIF A KUTTIPPALA",
- "dars":"NOORU THWALABA DARS EDARIKODE",
+ "darsname":"NOORU THWALABA DARS EDARIKODE",
  "darsplace":"EDARIKODE",
  "zone":"TIRURANGADI",
  "slug":"nooru-thwalaba-dars-edarikode",
@@ -3357,7 +3357,7 @@
  {
  "code":"TJ393",
  "name":"HADI ABOOBACKER KODANGAD",
- "dars":"NOORU THWALABA DARS EDARIKODE",
+ "darsname":"NOORU THWALABA DARS EDARIKODE",
  "darsplace":"EDARIKODE",
  "zone":"TIRURANGADI",
  "slug":"nooru-thwalaba-dars-edarikode",
@@ -3367,7 +3367,7 @@
  {
  "code":"TJ394",
  "name":"Muhammad shahabas",
- "dars":"NOORU THWALABA DARS EDARIKODE",
+ "darsname":"NOORU THWALABA DARS EDARIKODE",
  "darsplace":"EDARIKODE",
  "zone":"TIRURANGADI",
  "slug":"nooru-thwalaba-dars-edarikode",
@@ -3378,7 +3378,7 @@
  {
  "code":"TJ395",
  "name":"MUHAMMED SHAMIL VP CHELUR",
- "dars":"NOORU THWALABA DARS EDARIKODE",
+ "darsname":"NOORU THWALABA DARS EDARIKODE",
  "darsplace":"EDARIKODE",
  "zone":"TIRURANGADI",
  "slug":"nooru-thwalaba-dars-edarikode",
@@ -3393,7 +3393,7 @@
  {
  "code":"TJ396",
  "name":"Ansil kutipala",
- "dars":"NOORU THWALABA DARS EDARIKODE",
+ "darsname":"NOORU THWALABA DARS EDARIKODE",
  "darsplace":"EDARIKODE",
  "zone":"TIRURANGADI",
  "slug":"nooru-thwalaba-dars-edarikode",
@@ -3403,7 +3403,7 @@
  {
  "code":"TJ397",
  "name":"MUHAMMAD ANSIL EADAVANNAPPARA",
- "dars":"NOORU THWALABA DARS EDARIKODE",
+ "darsname":"NOORU THWALABA DARS EDARIKODE",
  "darsplace":"EDARIKODE",
  "zone":"TIRURANGADI",
  "slug":"nooru-thwalaba-dars-edarikode",
@@ -3415,7 +3415,7 @@
  {
  "code":"TJ398",
  "name":"MUHAMMED FASIL C P KOLAMBALAM",
- "dars":"NOORU THWALABA DARS EDARIKODE",
+ "darsname":"NOORU THWALABA DARS EDARIKODE",
  "darsplace":"EDARIKODE",
  "zone":"TIRURANGADI",
  "slug":"nooru-thwalaba-dars-edarikode",
@@ -3428,7 +3428,7 @@
  {
  "code":"TJ399",
  "name":"SALMANUL FARIS K",
- "dars":"SUBULUSSALAM DARS KOZHIPPURAM",
+ "darsname":"SUBULUSSALAM DARS KOZHIPPURAM",
  "darsplace":"KOZHIPPURAM",
  "zone":"TIRURANGADI",
  "slug":"subulussalam-dars-kozhippuram",
@@ -3442,7 +3442,7 @@
  {
  "code":"TJ400",
  "name":"MUHAMMED RISHAN KM",
- "dars":"SUBULUSSALAM DARS KOZHIPPURAM",
+ "darsname":"SUBULUSSALAM DARS KOZHIPPURAM",
  "darsplace":"KOZHIPPURAM",
  "zone":"TIRURANGADI",
  "slug":"subulussalam-dars-kozhippuram",
@@ -3455,7 +3455,7 @@
  {
  "code":"TJ401",
  "name":"MOHAMMED DHANISH T",
- "dars":"SUBULUSSALAM DARS KOZHIPPURAM",
+ "darsname":"SUBULUSSALAM DARS KOZHIPPURAM",
  "darsplace":"KOZHIPPURAM",
  "zone":"TIRURANGADI",
  "slug":"subulussalam-dars-kozhippuram",
@@ -3470,7 +3470,7 @@
  {
  "code":"TJ402",
  "name":"MUHAMMED SUHAIL K",
- "dars":"SUBULUSSALAM DARS KOZHIPPURAM",
+ "darsname":"SUBULUSSALAM DARS KOZHIPPURAM",
  "darsplace":"KOZHIPPURAM",
  "zone":"TIRURANGADI",
  "slug":"subulussalam-dars-kozhippuram",
@@ -3483,7 +3483,7 @@
  {
  "code":"TJ403",
  "name":"MUHAMMED SHAFEEQ P",
- "dars":"SUBULUSSALAM DARS KOZHIPPURAM",
+ "darsname":"SUBULUSSALAM DARS KOZHIPPURAM",
  "darsplace":"KOZHIPPURAM",
  "zone":"TIRURANGADI",
  "slug":"subulussalam-dars-kozhippuram",
@@ -3493,7 +3493,7 @@
  {
  "code":"TJ404",
  "name":"SUBAIR EK",
- "dars":"SUBULUSSALAM DARS KOZHIPPURAM",
+ "darsname":"SUBULUSSALAM DARS KOZHIPPURAM",
  "darsplace":"KOZHIPPURAM",
  "zone":"TIRURANGADI",
  "slug":"subulussalam-dars-kozhippuram",
@@ -3505,7 +3505,7 @@
  {
  "code":"TJ405",
  "name":"AHAMMED KABEER KK",
- "dars":"SUBULUSSALAM DARS KOZHIPPURAM",
+ "darsname":"SUBULUSSALAM DARS KOZHIPPURAM",
  "darsplace":"KOZHIPPURAM",
  "zone":"TIRURANGADI",
  "slug":"subulussalam-dars-kozhippuram",
@@ -3515,7 +3515,7 @@
  {
  "code":"TJ406",
  "name":"MUHAMMED SINAN VP",
- "dars":"SUBULUSSALAM DARS KOZHIPPURAM",
+ "darsname":"SUBULUSSALAM DARS KOZHIPPURAM",
  "darsplace":"KOZHIPPURAM",
  "zone":"TIRURANGADI",
  "slug":"subulussalam-dars-kozhippuram",
@@ -3525,7 +3525,7 @@
  {
  "code":"TJ407",
  "name":"MUHAMMED SINAN VT",
- "dars":"SUBULUSSALAM DARS KOZHIPPURAM",
+ "darsname":"SUBULUSSALAM DARS KOZHIPPURAM",
  "darsplace":"KOZHIPPURAM",
  "zone":"TIRURANGADI",
  "slug":"subulussalam-dars-kozhippuram",
@@ -3535,7 +3535,7 @@
  {
  "code":"TJ408",
  "name":"MUHAMMED FARHAN VP",
- "dars":"SUBULUSSALAM DARS KOZHIPPURAM",
+ "darsname":"SUBULUSSALAM DARS KOZHIPPURAM",
  "darsplace":"KOZHIPPURAM",
  "zone":"TIRURANGADI",
  "slug":"subulussalam-dars-kozhippuram",
@@ -3546,7 +3546,7 @@
  {
  "code":"TJ409",
  "name":"MUHAMMED SHAMIL VK",
- "dars":"SUBULUSSALAM DARS KOZHIPPURAM",
+ "darsname":"SUBULUSSALAM DARS KOZHIPPURAM",
  "darsplace":"KOZHIPPURAM",
  "zone":"TIRURANGADI",
  "slug":"subulussalam-dars-kozhippuram",
@@ -3558,7 +3558,7 @@
  {
  "code":"TJ410",
  "name":"MUHAMMED ARSALAN CP",
- "dars":"SUBULUSSALAM DARS KOZHIPPURAM",
+ "darsname":"SUBULUSSALAM DARS KOZHIPPURAM",
  "darsplace":"KOZHIPPURAM",
  "zone":"TIRURANGADI",
  "slug":"subulussalam-dars-kozhippuram",
@@ -3568,7 +3568,7 @@
  {
  "code":"TJ411",
  "name":"MUHAMMED MUBTHASIM KT",
- "dars":"SUBULUSSALAM DARS KOZHIPPURAM",
+ "darsname":"SUBULUSSALAM DARS KOZHIPPURAM",
  "darsplace":"KOZHIPPURAM",
  "zone":"TIRURANGADI",
  "slug":"subulussalam-dars-kozhippuram",
@@ -3579,7 +3579,7 @@
  {
  "code":"TJ412",
  "name":"MUHAMMED NASWIH PK",
- "dars":"SUBULUSSALAM DARS KOZHIPPURAM",
+ "darsname":"SUBULUSSALAM DARS KOZHIPPURAM",
  "darsplace":"KOZHIPPURAM",
  "zone":"TIRURANGADI",
  "slug":"subulussalam-dars-kozhippuram",
@@ -3589,7 +3589,7 @@
  {
  "code":"TJ413",
  "name":"MUHAMMED SHAMIL K",
- "dars":"SUBULUSSALAM DARS KOZHIPPURAM",
+ "darsname":"SUBULUSSALAM DARS KOZHIPPURAM",
  "darsplace":"KOZHIPPURAM",
  "zone":"TIRURANGADI",
  "slug":"subulussalam-dars-kozhippuram",
@@ -3599,7 +3599,7 @@
  {
  "code":"TJ414",
  "name":"MUHAMMED SHIRAZ T",
- "dars":"SUBULUSSALAM DARS KOZHIPPURAM",
+ "darsname":"SUBULUSSALAM DARS KOZHIPPURAM",
  "darsplace":"KOZHIPPURAM",
  "zone":"TIRURANGADI",
  "slug":"subulussalam-dars-kozhippuram",
@@ -3609,7 +3609,7 @@
  {
  "code":"TJ415",
  "name":"MUHAMMED ANFAS MA",
- "dars":"SUBULUSSALAM DARS KOZHIPPURAM",
+ "darsname":"SUBULUSSALAM DARS KOZHIPPURAM",
  "darsplace":"KOZHIPPURAM",
  "zone":"TIRURANGADI",
  "slug":"subulussalam-dars-kozhippuram",
@@ -3619,7 +3619,7 @@
  {
  "code":"TJ416",
  "name":"MUHAMMAD SHAMEEM PV ANAKKARA",
- "dars":"THAMREENU THWALABA ANANTHAVOOR",
+ "darsname":"THAMREENU THWALABA ANANTHAVOOR",
  "darsplace":"ANANTHAVOOR",
  "zone":"TIRURANGADI",
  "slug":"thamreenu-thwalaba-ananthavoor",
@@ -3635,7 +3635,7 @@
  {
  "code":"TJ417",
  "name":"MUHAMMAD MUZAMMIL TP PANDIKASHALA",
- "dars":"THAMREENU THWALABA ANANTHAVOOR",
+ "darsname":"THAMREENU THWALABA ANANTHAVOOR",
  "darsplace":"ANANTHAVOOR",
  "zone":"TIRURANGADI",
  "slug":"thamreenu-thwalaba-ananthavoor",
@@ -3651,7 +3651,7 @@
  {
  "code":"TJ418",
  "name":"JIFAD VT KURUMBATHUR",
- "dars":"THAMREENU THWALABA ANANTHAVOOR",
+ "darsname":"THAMREENU THWALABA ANANTHAVOOR",
  "darsplace":"ANANTHAVOOR",
  "zone":"TIRURANGADI",
  "slug":"thamreenu-thwalaba-ananthavoor",
@@ -3663,7 +3663,7 @@
  {
  "code":"TJ419",
  "name":"ADIL SALMAN VK KAREKKAD",
- "dars":"THAMREENU THWALABA ANANTHAVOOR",
+ "darsname":"THAMREENU THWALABA ANANTHAVOOR",
  "darsplace":"ANANTHAVOOR",
  "zone":"TIRURANGADI",
  "slug":"thamreenu-thwalaba-ananthavoor",
@@ -3680,7 +3680,7 @@
  {
  "code":"TJ420",
  "name":"MUHAMMED SHIHAJ P. PUDHIYANGADI",
- "dars":"TTSS KUNDUKULAM",
+ "darsname":"TTSS KUNDUKULAM",
  "darsplace":"KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"ttss-kundukulam",
@@ -3691,7 +3691,7 @@
  {
  "code":"TJ421",
  "name":"AMAN JUMAN. C",
- "dars":"TTSS KUNDUKULAM",
+ "darsname":"TTSS KUNDUKULAM",
  "darsplace":"KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"ttss-kundukulam",
@@ -3704,7 +3704,7 @@
  {
  "code":"TJ422",
  "name":"HASSAN AT KUNDUKULAM",
- "dars":"TTSS KUNDUKULAM",
+ "darsname":"TTSS KUNDUKULAM",
  "darsplace":"KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"ttss-kundukulam",
@@ -3718,7 +3718,7 @@
  {
  "code":"TJ423",
  "name":"MUHAMMED AFNAN CT",
- "dars":"TTSS KUNDUKULAM",
+ "darsname":"TTSS KUNDUKULAM",
  "darsplace":"KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"ttss-kundukulam",
@@ -3733,7 +3733,7 @@
  {
  "code":"TJ424",
  "name":"HUSSAIN AT",
- "dars":"TTSS KUNDUKULAM",
+ "darsname":"TTSS KUNDUKULAM",
  "darsplace":"KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"ttss-kundukulam",
@@ -3746,7 +3746,7 @@
  {
  "code":"TJ425",
  "name":"MUHAMMED MUNAWIR KT",
- "dars":"TTSS KUNDUKULAM",
+ "darsname":"TTSS KUNDUKULAM",
  "darsplace":"KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"ttss-kundukulam",
@@ -3757,7 +3757,7 @@
  {
  "code":"TJ426",
  "name":"MUHAMMED RAYYAN",
- "dars":"TTSS KUNDUKULAM",
+ "darsname":"TTSS KUNDUKULAM",
  "darsplace":"KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"ttss-kundukulam",
@@ -3767,7 +3767,7 @@
  {
  "code":"TJ427",
  "name":"MUHAMMED THANVEER",
- "dars":"TTSS KUNDUKULAM",
+ "darsname":"TTSS KUNDUKULAM",
  "darsplace":"KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"ttss-kundukulam",
@@ -3782,7 +3782,7 @@
  {
  "code":"TJ428",
  "name":"SALMANUL FARIS, ATHALOOR",
- "dars":"VASILIYAH DARS, KUNDUKULAM",
+ "darsname":"VASILIYAH DARS, KUNDUKULAM",
  "darsplace":"MMQJ KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"vasiliyah-dars-kundukulam",
@@ -3794,7 +3794,7 @@
  {
  "code":"TJ429",
  "name":"MUHAMMED MUSTHAFA",
- "dars":"VASILIYAH DARS, KUNDUKULAM",
+ "darsname":"VASILIYAH DARS, KUNDUKULAM",
  "darsplace":"MMQJ KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"vasiliyah-dars-kundukulam",
@@ -3808,7 +3808,7 @@
  {
  "code":"TJ430",
  "name":"SAMEEN MUHAMMED, VALIYAKUNNU",
- "dars":"VASILIYAH DARS, KUNDUKULAM",
+ "darsname":"VASILIYAH DARS, KUNDUKULAM",
  "darsplace":"MMQJ KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"vasiliyah-dars-kundukulam",
@@ -3820,7 +3820,7 @@
  {
  "code":"TJ431",
  "name":"MUHAMMED RABEEH",
- "dars":"VASILIYAH DARS, KUNDUKULAM",
+ "darsname":"VASILIYAH DARS, KUNDUKULAM",
  "darsplace":"MMQJ KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"vasiliyah-dars-kundukulam",
@@ -3834,7 +3834,7 @@
  {
  "code":"TJ432",
  "name":"MUHAMMED MIFTHAZ RAZA, KODAKU",
- "dars":"VASILIYAH DARS, KUNDUKULAM",
+ "darsname":"VASILIYAH DARS, KUNDUKULAM",
  "darsplace":"MMQJ KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"vasiliyah-dars-kundukulam",
@@ -3847,7 +3847,7 @@
  {
  "code":"TJ433",
  "name":"MUHAMMED MIDHLAJ, KODUMUNDA",
- "dars":"VASILIYAH DARS, KUNDUKULAM",
+ "darsname":"VASILIYAH DARS, KUNDUKULAM",
  "darsplace":"MMQJ KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"vasiliyah-dars-kundukulam",
@@ -3857,7 +3857,7 @@
  {
  "code":"TJ434",
  "name":"IMRAN ASMIL, VENGARA",
- "dars":"VASILIYAH DARS, KUNDUKULAM",
+ "darsname":"VASILIYAH DARS, KUNDUKULAM",
  "darsplace":"MMQJ KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"vasiliyah-dars-kundukulam",
@@ -3869,7 +3869,7 @@
  {
  "code":"TJ435",
  "name":"MOHAMMED NIHAL, ATHALOOR",
- "dars":"VASILIYAH DARS, KUNDUKULAM",
+ "darsname":"VASILIYAH DARS, KUNDUKULAM",
  "darsplace":"MMQJ KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"vasiliyah-dars-kundukulam",
@@ -3879,7 +3879,7 @@
  {
  "code":"TJ436",
  "name":"MUHAMMED SHAHIN,KODUMUDI",
- "dars":"VASILIYAH DARS, KUNDUKULAM",
+ "darsname":"VASILIYAH DARS, KUNDUKULAM",
  "darsplace":"MMQJ KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"vasiliyah-dars-kundukulam",
@@ -3892,7 +3892,7 @@
  {
  "code":"TS501",
  "name":"MUHAMMED MUFTHIL P.P",
- "dars":"AL ANWAR DARS KURUKA",
+ "darsname":"AL ANWAR DARS KURUKA",
  "darsplace":"KOTTAKKAL,KURUKA",
  "zone":"TIRURANGADI",
  "slug":"al-anwar-dars-kuruka",
@@ -3908,7 +3908,7 @@
  {
  "code":"TS502",
  "name":"MUHAMMED ALI K",
- "dars":"AL ANWAR DARS KURUKA",
+ "darsname":"AL ANWAR DARS KURUKA",
  "darsplace":"KOTTAKKAL,KURUKA",
  "zone":"TIRURANGADI",
  "slug":"al-anwar-dars-kuruka",
@@ -3923,7 +3923,7 @@
  {
  "code":"TS503",
  "name":"IRSHAD CHERUMUKKU",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -3936,7 +3936,7 @@
  {
  "code":"TS504",
  "name":"MUHAMMED ASHIQUE P",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -3947,7 +3947,7 @@
  {
  "code":"TS505",
  "name":"HARIS.PV",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -3964,7 +3964,7 @@
  {
  "code":"TS506",
  "name":"SHAMNAD MA PERUMBALAM",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -3978,7 +3978,7 @@
  {
  "code":"TS507",
  "name":"MUHAMMED SHIBIL THEYYALA",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -3988,7 +3988,7 @@
  {
  "code":"TS508",
  "name":"MOHAMMED SHANID CHERUMUKKU",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -3999,7 +3999,7 @@
  {
  "code":"TS509",
  "name":"ALTHAMEESH KOZHICHENA",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -4011,7 +4011,7 @@
  {
  "code":"TS510",
  "name":"THAMJEED RAHMAN KM PONNANI",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -4023,7 +4023,7 @@
  {
  "code":"TS511",
  "name":"MUHAMMAD FADHIL",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -4037,7 +4037,7 @@
  {
  "code":"TS512",
  "name":"MOHAMED BILAL. NK",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -4047,7 +4047,7 @@
  {
  "code":"TS513",
  "name":"MUHAMMAED THANSEEH.TT",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -4057,7 +4057,7 @@
  {
  "code":"TS514",
  "name":"MMUHAMMED FADHIL",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -4072,7 +4072,7 @@
  {
  "code":"TS515",
  "name":"MUHAMMAD ANAS K",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -4083,7 +4083,7 @@
  {
  "code":"TS516",
  "name":"AHAMMED FARHAN.A",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -4093,7 +4093,7 @@
  {
  "code":"TS517",
  "name":"ALTHAMEESH KOZICHENA",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -4105,7 +4105,7 @@
  {
  "code":"TS518",
  "name":"MIDLAJ PATTAMBAD",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -4115,7 +4115,7 @@
  {
  "code":"TS519",
  "name":"ANAS PUTHAN THERU",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -4128,7 +4128,7 @@
  {
  "code":"TS520",
  "name":"FASALU RAHMAN TANALUR",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -4139,7 +4139,7 @@
  {
  "code":"TS521",
  "name":"MUHAMMED RASHID TENNALA",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -4153,7 +4153,7 @@
  {
  "code":"TS522",
  "name":"MUHAMMED RIFWAN",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -4165,7 +4165,7 @@
  {
  "code":"TS523",
  "name":"SALAHUDEEN PERUMBALAM",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -4175,7 +4175,7 @@
  {
  "code":"TS524",
  "name":"MUHAMMED ANAS KUNDUR",
- "dars":"AL EAQALU DARS CHEMBRA",
+ "darsname":"AL EAQALU DARS CHEMBRA",
  "darsplace":"TIRUR CHEMBRA",
  "zone":"TIRURANGADI",
  "slug":"al-eaqalu-dars-chembra",
@@ -4186,7 +4186,7 @@
  {
  "code":"TS525",
  "name":"Saheer devathiyal",
- "dars":"AL IMDAD PATHAMBAD",
+ "darsname":"AL IMDAD PATHAMBAD",
  "darsplace":"PATHAMBAD",
  "zone":"TIRURANGADI",
  "slug":"al-imdad-pathambad",
@@ -4199,7 +4199,7 @@
  {
  "code":"TS526",
  "name":"JUNAID PULLUR",
- "dars":"AL IMDAD PATHAMBAD",
+ "darsname":"AL IMDAD PATHAMBAD",
  "darsplace":"PATHAMBAD",
  "zone":"TIRURANGADI",
  "slug":"al-imdad-pathambad",
@@ -4212,7 +4212,7 @@
  {
  "code":"TS527",
  "name":"ASRAFIL Kanchipura",
- "dars":"AL IMDAD PATHAMBAD",
+ "darsname":"AL IMDAD PATHAMBAD",
  "darsplace":"PATHAMBAD",
  "zone":"TIRURANGADI",
  "slug":"al-imdad-pathambad",
@@ -4223,7 +4223,7 @@
  {
  "code":"TS528",
  "name":"MIDLAJ Manjeri",
- "dars":"AL IMDAD PATHAMBAD",
+ "darsname":"AL IMDAD PATHAMBAD",
  "darsplace":"PATHAMBAD",
  "zone":"TIRURANGADI",
  "slug":"al-imdad-pathambad",
@@ -4234,7 +4234,7 @@
  {
  "code":"TS529",
  "name":"Muhammed midlajT",
- "dars":"AL IMDAD PATHAMBAD",
+ "darsname":"AL IMDAD PATHAMBAD",
  "darsplace":"PATHAMBAD",
  "zone":"TIRURANGADI",
  "slug":"al-imdad-pathambad",
@@ -4245,7 +4245,7 @@
  {
  "code":"TS530",
  "name":"SALMAN A",
- "dars":"AL MASWALIH STUDENTS ASSOCIATION VALIYAPARAPPUR",
+ "darsname":"AL MASWALIH STUDENTS ASSOCIATION VALIYAPARAPPUR",
  "darsplace":"VALIYAPARAPPUR",
  "zone":"TIRURANGADI",
  "slug":"al-maswalih-students-association-valiyaparappur",
@@ -4263,7 +4263,7 @@
  {
  "code":"TS531",
  "name":"MUHAMMED SABITH N",
- "dars":"AL MASWALIH STUDENTS ASSOCIATION VALIYAPARAPPUR",
+ "darsname":"AL MASWALIH STUDENTS ASSOCIATION VALIYAPARAPPUR",
  "darsplace":"VALIYAPARAPPUR",
  "zone":"TIRURANGADI",
  "slug":"al-maswalih-students-association-valiyaparappur",
@@ -4281,7 +4281,7 @@
  {
  "code":"TS532",
  "name":"ABDU SAHAD T",
- "dars":"AL MASWALIH STUDENTS ASSOCIATION VALIYAPARAPPUR",
+ "darsname":"AL MASWALIH STUDENTS ASSOCIATION VALIYAPARAPPUR",
  "darsplace":"VALIYAPARAPPUR",
  "zone":"TIRURANGADI",
  "slug":"al-maswalih-students-association-valiyaparappur",
@@ -4299,7 +4299,7 @@
  {
  "code":"TS533",
  "name":"SALMAN FARIS EKKAPARAMBA",
- "dars":"BADRUL HUDA DARS KOOMANNA",
+ "darsname":"BADRUL HUDA DARS KOOMANNA",
  "darsplace":"KOOMANNA",
  "zone":"TIRURANGADI",
  "slug":"badrul-huda-dars-koomanna",
@@ -4309,7 +4309,7 @@
  {
  "code":"TS534",
  "name":"MUHAMMAD SUHAIL KAVANOOR",
- "dars":"BADRUL HUDA DARS KOOMANNA",
+ "darsname":"BADRUL HUDA DARS KOOMANNA",
  "darsplace":"KOOMANNA",
  "zone":"TIRURANGADI",
  "slug":"badrul-huda-dars-koomanna",
@@ -4320,7 +4320,7 @@
  {
  "code":"TS535",
  "name":"ASIF THAMARASSERI",
- "dars":"BADRUL HUDA DARS KOOMANNA",
+ "darsname":"BADRUL HUDA DARS KOOMANNA",
  "darsplace":"KOOMANNA",
  "zone":"TIRURANGADI",
  "slug":"badrul-huda-dars-koomanna",
@@ -4332,7 +4332,7 @@
  {
  "code":"TS536",
  "name":"MUHAMMAD SINAN THIRUR",
- "dars":"BADRUL HUDA DARS KOOMANNA",
+ "darsname":"BADRUL HUDA DARS KOOMANNA",
  "darsplace":"KOOMANNA",
  "zone":"TIRURANGADI",
  "slug":"badrul-huda-dars-koomanna",
@@ -4343,7 +4343,7 @@
  {
  "code":"TS537",
  "name":"MUHAMMAD YAHYA CHULLIKODE",
- "dars":"BADRUL HUDA DARS KOOMANNA",
+ "darsname":"BADRUL HUDA DARS KOOMANNA",
  "darsplace":"KOOMANNA",
  "zone":"TIRURANGADI",
  "slug":"badrul-huda-dars-koomanna",
@@ -4354,7 +4354,7 @@
  {
  "code":"TS538",
  "name":"MUHAMMAD ZAKKIY POOKKOTUR",
- "dars":"BADRUL HUDA DARS KOOMANNA",
+ "darsname":"BADRUL HUDA DARS KOOMANNA",
  "darsplace":"KOOMANNA",
  "zone":"TIRURANGADI",
  "slug":"badrul-huda-dars-koomanna",
@@ -4365,7 +4365,7 @@
  {
  "code":"TS539",
  "name":"SHAMSEER PONNANI",
- "dars":"BADRUL HUDA DARS KOOMANNA",
+ "darsname":"BADRUL HUDA DARS KOOMANNA",
  "darsplace":"KOOMANNA",
  "zone":"TIRURANGADI",
  "slug":"badrul-huda-dars-koomanna",
@@ -4375,7 +4375,7 @@
  {
  "code":"TS540",
  "name":"MUHAMMAD RAFI PAZHAYANNUR",
- "dars":"BAHJATHUL HIKAM DARS KARATHUR",
+ "darsname":"BAHJATHUL HIKAM DARS KARATHUR",
  "darsplace":"KARATHUR, TIRUR",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-hikam-dars-karathur",
@@ -4390,7 +4390,7 @@
  {
  "code":"TS541",
  "name":"MUHAMMAD ADIL KARATHUR",
- "dars":"BAHJATHUL HIKAM DARS KARATHUR",
+ "darsname":"BAHJATHUL HIKAM DARS KARATHUR",
  "darsplace":"KARATHUR, TIRUR",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-hikam-dars-karathur",
@@ -4404,7 +4404,7 @@
  {
  "code":"TS542",
  "name":"BADARUDHEEN ATHAVANADU",
- "dars":"BAHJATHUL HIKAM DARS KARATHUR",
+ "darsname":"BAHJATHUL HIKAM DARS KARATHUR",
  "darsplace":"KARATHUR, TIRUR",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-hikam-dars-karathur",
@@ -4418,7 +4418,7 @@
  {
  "code":"TS543",
  "name":"MUHAMMED MUBASHIR ATHAVANADU",
- "dars":"BAHJATHUL HIKAM DARS KARATHUR",
+ "darsname":"BAHJATHUL HIKAM DARS KARATHUR",
  "darsplace":"KARATHUR, TIRUR",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-hikam-dars-karathur",
@@ -4434,7 +4434,7 @@
  {
  "code":"TS544",
  "name":"ADNAN PONNANI",
- "dars":"BAHJATHUL HIKAM DARS KARATHUR",
+ "darsname":"BAHJATHUL HIKAM DARS KARATHUR",
  "darsplace":"KARATHUR, TIRUR",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-hikam-dars-karathur",
@@ -4450,7 +4450,7 @@
  {
  "code":"TS545",
  "name":"ABDUL NASEER PAZHAYANNUR",
- "dars":"BAHJATHUL HIKAM DARS KARATHUR",
+ "darsname":"BAHJATHUL HIKAM DARS KARATHUR",
  "darsplace":"KARATHUR, TIRUR",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-hikam-dars-karathur",
@@ -4465,7 +4465,7 @@
  {
  "code":"TS546",
  "name":"MUHAMMED SINAN VARAVOOR",
- "dars":"BAHJATHUL HIKAM DARS KARATHUR",
+ "darsname":"BAHJATHUL HIKAM DARS KARATHUR",
  "darsplace":"KARATHUR, TIRUR",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-hikam-dars-karathur",
@@ -4478,7 +4478,7 @@
  {
  "code":"TS547",
  "name":"RAHEES PUTHANATHANI",
- "dars":"BAHJATHUL HUDA DARAS EDAKKULAM",
+ "darsname":"BAHJATHUL HUDA DARAS EDAKKULAM",
  "darsplace":"EDAKKULAM,THIRUNAVAYA",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-huda-daras-edakkulam",
@@ -4494,7 +4494,7 @@
  {
  "code":"TS548",
  "name":"SHAHID MUNEER.K S CHIRAMENAGAD",
- "dars":"BAHJATHUL HUDA DARAS EDAKKULAM",
+ "darsname":"BAHJATHUL HUDA DARAS EDAKKULAM",
  "darsplace":"EDAKKULAM,THIRUNAVAYA",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-huda-daras-edakkulam",
@@ -4507,7 +4507,7 @@
  {
  "code":"TS549",
  "name":"AJMAL K.A CHIAMANANGAD",
- "dars":"BAHJATHUL HUDA DARAS EDAKKULAM",
+ "darsname":"BAHJATHUL HUDA DARAS EDAKKULAM",
  "darsplace":"EDAKKULAM,THIRUNAVAYA",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-huda-daras-edakkulam",
@@ -4524,7 +4524,7 @@
  {
  "code":"TS550",
  "name":"MURSHID K.M MANNARA PARAMPU",
- "dars":"BAHJATHUL HUDA DARAS EDAKKULAM",
+ "darsname":"BAHJATHUL HUDA DARAS EDAKKULAM",
  "darsplace":"EDAKKULAM,THIRUNAVAYA",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-huda-daras-edakkulam",
@@ -4539,7 +4539,7 @@
  {
  "code":"TS551",
  "name":"MOHAMMED SHAHDHEEN MANGALAPURAM",
- "dars":"BAHJATHUL HUDA DARAS EDAKKULAM",
+ "darsname":"BAHJATHUL HUDA DARAS EDAKKULAM",
  "darsplace":"EDAKKULAM,THIRUNAVAYA",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-huda-daras-edakkulam",
@@ -4550,7 +4550,7 @@
  {
  "code":"TS552",
  "name":"MUHAMMED QASIM M.I KOZHIKKARA",
- "dars":"BAHJATHUL HUDA DARAS EDAKKULAM",
+ "darsname":"BAHJATHUL HUDA DARAS EDAKKULAM",
  "darsplace":"EDAKKULAM,THIRUNAVAYA",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-huda-daras-edakkulam",
@@ -4564,7 +4564,7 @@
  {
  "code":"TS553",
  "name":"MASHHOOD A PONNANI",
- "dars":"BAHJATHUL HUDA DARAS EDAKKULAM",
+ "darsname":"BAHJATHUL HUDA DARAS EDAKKULAM",
  "darsplace":"EDAKKULAM,THIRUNAVAYA",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-huda-daras-edakkulam",
@@ -4578,7 +4578,7 @@
  {
  "code":"TS554",
  "name":"HAFIZ MUHAMMED NABEEH .M PURANG",
- "dars":"BAHJATHUL HUDA DARAS EDAKKULAM",
+ "darsname":"BAHJATHUL HUDA DARAS EDAKKULAM",
  "darsplace":"EDAKKULAM,THIRUNAVAYA",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-huda-daras-edakkulam",
@@ -4589,7 +4589,7 @@
  {
  "code":"TS555",
  "name":"MUHAMMED",
- "dars":"BAHJATHUL HUDA DARAS EDAKKULAM",
+ "darsname":"BAHJATHUL HUDA DARAS EDAKKULAM",
  "darsplace":"EDAKKULAM,THIRUNAVAYA",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-huda-daras-edakkulam",
@@ -4600,7 +4600,7 @@
  {
  "code":"TS556",
  "name":"MUHAMMED SAHLU .M.T CHIRAPPALAM",
- "dars":"BAHJATHUL HUDA DARAS EDAKKULAM",
+ "darsname":"BAHJATHUL HUDA DARAS EDAKKULAM",
  "darsplace":"EDAKKULAM,THIRUNAVAYA",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-huda-daras-edakkulam",
@@ -4616,7 +4616,7 @@
  {
  "code":"TS557",
  "name":"MUHAMMAD MUZZAMMIL .MANGALAPURAM",
- "dars":"BAHJATHUL HUDA DARAS EDAKKULAM",
+ "darsname":"BAHJATHUL HUDA DARAS EDAKKULAM",
  "darsplace":"EDAKKULAM,THIRUNAVAYA",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-huda-daras-edakkulam",
@@ -4627,7 +4627,7 @@
  {
  "code":"TS558",
  "name":"MUHAMMED IHSAN.M C PAKARANELLOOR",
- "dars":"BAHJATHUL HUDA DARAS EDAKKULAM",
+ "darsname":"BAHJATHUL HUDA DARAS EDAKKULAM",
  "darsplace":"EDAKKULAM,THIRUNAVAYA",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-huda-daras-edakkulam",
@@ -4639,7 +4639,7 @@
  {
  "code":"TS559",
  "name":"SHABEEB.T PONNANI",
- "dars":"BAHJATHUL HUDA DARAS EDAKKULAM",
+ "darsname":"BAHJATHUL HUDA DARAS EDAKKULAM",
  "darsplace":"EDAKKULAM,THIRUNAVAYA",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-huda-daras-edakkulam",
@@ -4650,7 +4650,7 @@
  {
  "code":"TS560",
  "name":"MOHAMMED JUSAIL. K CHIRAVELLUR",
- "dars":"BAHJATHUL HUDA DARAS EDAKKULAM",
+ "darsname":"BAHJATHUL HUDA DARAS EDAKKULAM",
  "darsplace":"EDAKKULAM,THIRUNAVAYA",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-huda-daras-edakkulam",
@@ -4660,7 +4660,7 @@
  {
  "code":"TS561",
  "name":"SHAHID MUNEER. CHIRAMANANGAD",
- "dars":"BAHJATHUL HUDA DARAS EDAKKULAM",
+ "darsname":"BAHJATHUL HUDA DARAS EDAKKULAM",
  "darsplace":"EDAKKULAM,THIRUNAVAYA",
  "zone":"TIRURANGADI",
  "slug":"bahjathul-huda-daras-edakkulam",
@@ -4670,7 +4670,7 @@
  {
  "code":"TS562",
  "name":"Abdul Basith Wayanad",
- "dars":"BAYANUL ULOOM DARS KODINHI",
+ "darsname":"BAYANUL ULOOM DARS KODINHI",
  "darsplace":"KODINHI",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-kodinhi",
@@ -4683,7 +4683,7 @@
  {
  "code":"TS563",
  "name":"Shameer Babu Vettathur",
- "dars":"BAYANUL ULOOM DARS KODINHI",
+ "darsname":"BAYANUL ULOOM DARS KODINHI",
  "darsplace":"KODINHI",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-kodinhi",
@@ -4699,7 +4699,7 @@
  {
  "code":"TS564",
  "name":"Muhammed BADUSHA THAMARASSERY",
- "dars":"BAYANUL ULOOM DARS KODINHI",
+ "darsname":"BAYANUL ULOOM DARS KODINHI",
  "darsplace":"KODINHI",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-kodinhi",
@@ -4712,7 +4712,7 @@
  {
  "code":"TS565",
  "name":"Muhammed Suhail Vettathur",
- "dars":"BAYANUL ULOOM DARS KODINHI",
+ "darsname":"BAYANUL ULOOM DARS KODINHI",
  "darsplace":"KODINHI",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-kodinhi",
@@ -4726,7 +4726,7 @@
  {
  "code":"TS566",
  "name":"Muhammed Nafih Cherpulassery",
- "dars":"BAYANUL ULOOM DARS KODINHI",
+ "darsname":"BAYANUL ULOOM DARS KODINHI",
  "darsplace":"KODINHI",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-kodinhi",
@@ -4738,7 +4738,7 @@
  {
  "code":"TS567",
  "name":"Muhammed Shanoob Vettathur",
- "dars":"BAYANUL ULOOM DARS KODINHI",
+ "darsname":"BAYANUL ULOOM DARS KODINHI",
  "darsplace":"KODINHI",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-kodinhi",
@@ -4754,7 +4754,7 @@
  {
  "code":"TS568",
  "name":"Muhammed Musammil Odungakkad",
- "dars":"BAYANUL ULOOM DARS KODINHI",
+ "darsname":"BAYANUL ULOOM DARS KODINHI",
  "darsplace":"KODINHI",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-kodinhi",
@@ -4767,7 +4767,7 @@
  {
  "code":"TS569",
  "name":"Salman Thamarassery",
- "dars":"BAYANUL ULOOM DARS KODINHI",
+ "darsname":"BAYANUL ULOOM DARS KODINHI",
  "darsplace":"KODINHI",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-kodinhi",
@@ -4780,7 +4780,7 @@
  {
  "code":"TS570",
  "name":"Aboobakker Sidhique Bheemanadu",
- "dars":"BAYANUL ULOOM DARS KODINHI",
+ "darsname":"BAYANUL ULOOM DARS KODINHI",
  "darsplace":"KODINHI",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-kodinhi",
@@ -4790,7 +4790,7 @@
  {
  "code":"TS571",
  "name":"Hamzath Haris Vettathur",
- "dars":"BAYANUL ULOOM DARS KODINHI",
+ "darsname":"BAYANUL ULOOM DARS KODINHI",
  "darsplace":"KODINHI",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-kodinhi",
@@ -4805,7 +4805,7 @@
  {
  "code":"TS572",
  "name":"Muhammed Anshid Thiruviyamkunnu",
- "dars":"BAYANUL ULOOM DARS KODINHI",
+ "darsname":"BAYANUL ULOOM DARS KODINHI",
  "darsplace":"KODINHI",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-kodinhi",
@@ -4815,7 +4815,7 @@
  {
  "code":"TS573",
  "name":"Ahammed Bujair Anagadippuram",
- "dars":"BAYANUL ULOOM DARS KODINHI",
+ "darsname":"BAYANUL ULOOM DARS KODINHI",
  "darsplace":"KODINHI",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-kodinhi",
@@ -4829,7 +4829,7 @@
  {
  "code":"TS574",
  "name":"Ajmal Calicut",
- "dars":"BAYANUL ULOOM DARS KODINHI",
+ "darsname":"BAYANUL ULOOM DARS KODINHI",
  "darsplace":"KODINHI",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-kodinhi",
@@ -4839,7 +4839,7 @@
  {
  "code":"TS575",
  "name":"SAYYID SAFWAN SAQAF",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -4850,7 +4850,7 @@
  {
  "code":"TS576",
  "name":"AJMAL C",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -4862,7 +4862,7 @@
  {
  "code":"TS577",
  "name":"JABIR V",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -4876,7 +4876,7 @@
  {
  "code":"TS578",
  "name":"ABDUL MAJID P",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -4887,7 +4887,7 @@
  {
  "code":"TS579",
  "name":"SHAMEEM P",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -4897,7 +4897,7 @@
  {
  "code":"TS580",
  "name":"SHANAVAS",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -4909,7 +4909,7 @@
  {
  "code":"TS581",
  "name":"HASHIM SHAN PK",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -4920,7 +4920,7 @@
  {
  "code":"TS582",
  "name":"MUHAMMED NABEEL",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -4930,7 +4930,7 @@
  {
  "code":"TS583",
  "name":"RISWAN YASIL M",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -4946,7 +4946,7 @@
  {
  "code":"TS584",
  "name":"MAHMOOD P",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -4956,7 +4956,7 @@
  {
  "code":"TS585",
  "name":"ZAINUL ABID",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -4969,7 +4969,7 @@
  {
  "code":"TS586",
  "name":"ABDULLA UVAIS P",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -4979,7 +4979,7 @@
  {
  "code":"TS587",
  "name":"MUHAMMED RASHIQ P",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -4994,7 +4994,7 @@
  {
  "code":"TS588",
  "name":"MUHAMMED SHAN N",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -5010,7 +5010,7 @@
  {
  "code":"TS589",
  "name":"MIDLAJ CP",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -5020,7 +5020,7 @@
  {
  "code":"TS590",
  "name":"NUFAIH C",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -5030,7 +5030,7 @@
  {
  "code":"TS591",
  "name":"MUHAMMED RASHID E",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -5045,7 +5045,7 @@
  {
  "code":"TS592",
  "name":"UVAIS PC",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -5055,7 +5055,7 @@
  {
  "code":"TS593",
  "name":"MIDLAJ K",
- "dars":"BAYANUL ULOOM DARS MUTTICHIRA",
+ "darsname":"BAYANUL ULOOM DARS MUTTICHIRA",
  "darsplace":"MUTTICHIRA, THALAPPARA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-muttichira",
@@ -5066,7 +5066,7 @@
  {
  "code":"TS594",
  "name":"AJMAL VV POOKKOTTUR",
- "dars":"BAYANUL ULOOM DARS OMACHAPPUZHA",
+ "darsname":"BAYANUL ULOOM DARS OMACHAPPUZHA",
  "darsplace":"OMACHAPPUZHA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-omachappuzha",
@@ -5084,7 +5084,7 @@
  {
  "code":"TS595",
  "name":"MUHAMMAD ASHIF TP KUNDOOR",
- "dars":"BAYANUL ULOOM DARS OMACHAPPUZHA",
+ "darsname":"BAYANUL ULOOM DARS OMACHAPPUZHA",
  "darsplace":"OMACHAPPUZHA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-omachappuzha",
@@ -5095,7 +5095,7 @@
  {
  "code":"TS596",
  "name":"MUHAMMAD SHABEEB PP POOKKOTTUR",
- "dars":"BAYANUL ULOOM DARS OMACHAPPUZHA",
+ "darsname":"BAYANUL ULOOM DARS OMACHAPPUZHA",
  "darsplace":"OMACHAPPUZHA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-omachappuzha",
@@ -5105,7 +5105,7 @@
  {
  "code":"TS597",
  "name":"MOHAMMED YASIR M POOKKOTTUR",
- "dars":"BAYANUL ULOOM DARS OMACHAPPUZHA",
+ "darsname":"BAYANUL ULOOM DARS OMACHAPPUZHA",
  "darsplace":"OMACHAPPUZHA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-omachappuzha",
@@ -5120,7 +5120,7 @@
  {
  "code":"TS598",
  "name":"MUHAMMAD IRFAN M MANJERI",
- "dars":"BAYANUL ULOOM DARS OMACHAPPUZHA",
+ "darsname":"BAYANUL ULOOM DARS OMACHAPPUZHA",
  "darsplace":"OMACHAPPUZHA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-omachappuzha",
@@ -5132,7 +5132,7 @@
  {
  "code":"TS599",
  "name":"IBRAHIM BATHISHA T KUNDOOR",
- "dars":"BAYANUL ULOOM DARS OMACHAPPUZHA",
+ "darsname":"BAYANUL ULOOM DARS OMACHAPPUZHA",
  "darsplace":"OMACHAPPUZHA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-omachappuzha",
@@ -5142,7 +5142,7 @@
  {
  "code":"TS600",
  "name":"MUHAMMAD SINAN AT KODAMBUZHA",
- "dars":"BAYANUL ULOOM DARS OMACHAPPUZHA",
+ "darsname":"BAYANUL ULOOM DARS OMACHAPPUZHA",
  "darsplace":"OMACHAPPUZHA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-omachappuzha",
@@ -5152,7 +5152,7 @@
  {
  "code":"TS601",
  "name":"MUHAMMAD SHEBIL C KODAMBUZHA",
- "dars":"BAYANUL ULOOM DARS OMACHAPPUZHA",
+ "darsname":"BAYANUL ULOOM DARS OMACHAPPUZHA",
  "darsplace":"OMACHAPPUZHA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-omachappuzha",
@@ -5162,7 +5162,7 @@
  {
  "code":"TS602",
  "name":"MUHAMMED FAYIZ P CHELARI",
- "dars":"BAYANUL ULOOM DARS OMACHAPPUZHA",
+ "darsname":"BAYANUL ULOOM DARS OMACHAPPUZHA",
  "darsplace":"OMACHAPPUZHA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-omachappuzha",
@@ -5174,7 +5174,7 @@
  {
  "code":"TS603",
  "name":"IBRAHIM KUTTY K PONMUNDAM",
- "dars":"BAYANUL ULOOM DARS OMACHAPPUZHA",
+ "darsname":"BAYANUL ULOOM DARS OMACHAPPUZHA",
  "darsplace":"OMACHAPPUZHA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-omachappuzha",
@@ -5190,7 +5190,7 @@
  {
  "code":"TS604",
  "name":"MUBASSHIR K MANJERI",
- "dars":"BAYANUL ULOOM DARS OMACHAPPUZHA",
+ "darsname":"BAYANUL ULOOM DARS OMACHAPPUZHA",
  "darsplace":"OMACHAPPUZHA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-omachappuzha",
@@ -5204,7 +5204,7 @@
  {
  "code":"TS605",
  "name":"AHAMMED HIBATHULLA K POOKKOTTUR",
- "dars":"BAYANUL ULOOM DARS OMACHAPPUZHA",
+ "darsname":"BAYANUL ULOOM DARS OMACHAPPUZHA",
  "darsplace":"OMACHAPPUZHA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-omachappuzha",
@@ -5216,7 +5216,7 @@
  {
  "code":"TS606",
  "name":"MUHAMMED ASHHAD T KUNDOOR",
- "dars":"BAYANUL ULOOM DARS OMACHAPPUZHA",
+ "darsname":"BAYANUL ULOOM DARS OMACHAPPUZHA",
  "darsplace":"OMACHAPPUZHA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-omachappuzha",
@@ -5229,7 +5229,7 @@
  {
  "code":"TS607",
  "name":"MUBASHIR T VISAPPADI",
- "dars":"BAYANUL ULOOM DARS OMACHAPPUZHA",
+ "darsname":"BAYANUL ULOOM DARS OMACHAPPUZHA",
  "darsplace":"OMACHAPPUZHA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-omachappuzha",
@@ -5240,7 +5240,7 @@
  {
  "code":"TS608",
  "name":"MOHAMMED NABEEL V VELLIYAMPURAM",
- "dars":"BAYANUL ULOOM DARS OMACHAPPUZHA",
+ "darsname":"BAYANUL ULOOM DARS OMACHAPPUZHA",
  "darsplace":"OMACHAPPUZHA",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-omachappuzha",
@@ -5252,7 +5252,7 @@
  {
  "code":"TS609",
  "name":"Muhammad Nabhan , Ponnani",
- "dars":"BAYANUL ULOOM DARS PUTHANTHERU",
+ "darsname":"BAYANUL ULOOM DARS PUTHANTHERU",
  "darsplace":"PUTHANTHERU",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-puthantheru",
@@ -5266,7 +5266,7 @@
  {
  "code":"TS610",
  "name":"Muhammed safvan v v ponnani",
- "dars":"BAYANUL ULOOM DARS PUTHANTHERU",
+ "darsname":"BAYANUL ULOOM DARS PUTHANTHERU",
  "darsplace":"PUTHANTHERU",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-puthantheru",
@@ -5280,7 +5280,7 @@
  {
  "code":"TS611",
  "name":"Muhammad rafi p k ponnani",
- "dars":"BAYANUL ULOOM DARS PUTHANTHERU",
+ "darsname":"BAYANUL ULOOM DARS PUTHANTHERU",
  "darsplace":"PUTHANTHERU",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-puthantheru",
@@ -5291,7 +5291,7 @@
  {
  "code":"TS612",
  "name":"Mohammed ansil k v ponnani",
- "dars":"BAYANUL ULOOM DARS PUTHANTHERU",
+ "darsname":"BAYANUL ULOOM DARS PUTHANTHERU",
  "darsplace":"PUTHANTHERU",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-puthantheru",
@@ -5302,7 +5302,7 @@
  {
  "code":"TS613",
  "name":"Shameemudheen t kuttipuram",
- "dars":"BAYANUL ULOOM DARS PUTHANTHERU",
+ "darsname":"BAYANUL ULOOM DARS PUTHANTHERU",
  "darsplace":"PUTHANTHERU",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-puthantheru",
@@ -5316,7 +5316,7 @@
  {
  "code":"TS614",
  "name":"Mohamed muhlar e ponnani",
- "dars":"BAYANUL ULOOM DARS PUTHANTHERU",
+ "darsname":"BAYANUL ULOOM DARS PUTHANTHERU",
  "darsplace":"PUTHANTHERU",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-puthantheru",
@@ -5326,7 +5326,7 @@
  {
  "code":"TS615",
  "name":"Ahmad Labeeb, Manoor",
- "dars":"BAYANUL ULOOM DARS PUTHANTHERU",
+ "darsname":"BAYANUL ULOOM DARS PUTHANTHERU",
  "darsplace":"PUTHANTHERU",
  "zone":"TIRURANGADI",
  "slug":"bayanul-uloom-dars-puthantheru",
@@ -5338,7 +5338,7 @@
  {
  "code":"TS616",
  "name":"MUHAMMAD.A.P KANNUR",
- "dars":"DARUL HIDAYA DARS ULLANAM",
+ "darsname":"DARUL HIDAYA DARS ULLANAM",
  "darsplace":"ULLANAM MUNDIYANKAVU",
  "zone":"TIRURANGADI",
  "slug":"darul-hidaya-dars-ullanam",
@@ -5349,7 +5349,7 @@
  {
  "code":"TS617",
  "name":"ABOOBACKER SIDHEEQ KP MANALIPPUZA",
- "dars":"DARUL ULOOM DARS KORAD",
+ "darsname":"DARUL ULOOM DARS KORAD",
  "darsplace":"KORAD",
  "zone":"TIRURANGADI",
  "slug":"darul-uloom-dars-korad",
@@ -5360,7 +5360,7 @@
  {
  "code":"TS618",
  "name":"MUHAMMED ASLAM EK KORAD",
- "dars":"DARUL ULOOM DARS KORAD",
+ "darsname":"DARUL ULOOM DARS KORAD",
  "darsplace":"KORAD",
  "zone":"TIRURANGADI",
  "slug":"darul-uloom-dars-korad",
@@ -5370,7 +5370,7 @@
  {
  "code":"TS619",
  "name":"MUHAMMED AJLAN T",
- "dars":"DARUL ULOOM DARS KORAD",
+ "darsname":"DARUL ULOOM DARS KORAD",
  "darsplace":"KORAD",
  "zone":"TIRURANGADI",
  "slug":"darul-uloom-dars-korad",
@@ -5381,7 +5381,7 @@
  {
  "code":"TS620",
  "name":"MUHAMMED SWALIH V KANJIRAKKOL",
- "dars":"DARUL ULOOM DARS KORAD",
+ "darsname":"DARUL ULOOM DARS KORAD",
  "darsplace":"KORAD",
  "zone":"TIRURANGADI",
  "slug":"darul-uloom-dars-korad",
@@ -5393,7 +5393,7 @@
  {
  "code":"TS621",
  "name":"MUHAMMED SHAFEEQ PT MANALIPPUZA",
- "dars":"DARUL ULOOM DARS KORAD",
+ "darsname":"DARUL ULOOM DARS KORAD",
  "darsplace":"KORAD",
  "zone":"TIRURANGADI",
  "slug":"darul-uloom-dars-korad",
@@ -5404,7 +5404,7 @@
  {
  "code":"TS622",
  "name":"MUHAMMED FAIZAL E ALINGAL",
- "dars":"DARUL ULOOM DARS KORAD",
+ "darsname":"DARUL ULOOM DARS KORAD",
  "darsplace":"KORAD",
  "zone":"TIRURANGADI",
  "slug":"darul-uloom-dars-korad",
@@ -5414,7 +5414,7 @@
  {
  "code":"TS623",
  "name":"MUHAMMED ABDULLAH LLYAFIH T KARINGAPPARA",
- "dars":"DARUL ULOOM DARS KORAD",
+ "darsname":"DARUL ULOOM DARS KORAD",
  "darsplace":"KORAD",
  "zone":"TIRURANGADI",
  "slug":"darul-uloom-dars-korad",
@@ -5428,7 +5428,7 @@
  {
  "code":"TS624",
  "name":"MUHAMMED ASLAM CK MANNARKKAD",
- "dars":"DARUL ULOOM DARS KORAD",
+ "darsname":"DARUL ULOOM DARS KORAD",
  "darsplace":"KORAD",
  "zone":"TIRURANGADI",
  "slug":"darul-uloom-dars-korad",
@@ -5439,7 +5439,7 @@
  {
  "code":"TS625",
  "name":"MUHAMMED DHILSHAD MP TIRUR",
- "dars":"DARUL ULOOM DARS KORAD",
+ "darsname":"DARUL ULOOM DARS KORAD",
  "darsplace":"KORAD",
  "zone":"TIRURANGADI",
  "slug":"darul-uloom-dars-korad",
@@ -5451,7 +5451,7 @@
  {
  "code":"TS626",
  "name":"MUHAMMED ABDULLAH ILYAFIH T KARINGAPPARA",
- "dars":"DARUL ULOOM DARS KORAD",
+ "darsname":"DARUL ULOOM DARS KORAD",
  "darsplace":"KORAD",
  "zone":"TIRURANGADI",
  "slug":"darul-uloom-dars-korad",
@@ -5467,7 +5467,7 @@
  {
  "code":"TS627",
  "name":"MUHAMMED AJLAN T KARINGAPPARA",
- "dars":"DARUL ULOOM DARS KORAD",
+ "darsname":"DARUL ULOOM DARS KORAD",
  "darsplace":"KORAD",
  "zone":"TIRURANGADI",
  "slug":"darul-uloom-dars-korad",
@@ -5479,7 +5479,7 @@
  {
  "code":"TS628",
  "name":"ASHFAQ AHAMMED T KALAD",
- "dars":"DARUL ULOOM DARS KORAD",
+ "darsname":"DARUL ULOOM DARS KORAD",
  "darsplace":"KORAD",
  "zone":"TIRURANGADI",
  "slug":"darul-uloom-dars-korad",
@@ -5491,7 +5491,7 @@
  {
  "code":"TS629",
  "name":"MUHAMMED ADNAN OLAPEEDIKA",
- "dars":"DARUL ULOOM DARS KORAD",
+ "darsname":"DARUL ULOOM DARS KORAD",
  "darsplace":"KORAD",
  "zone":"TIRURANGADI",
  "slug":"darul-uloom-dars-korad",
@@ -5502,7 +5502,7 @@
  {
  "code":"TS630",
  "name":"ADHIL ALI",
- "dars":"DARUTHANVEER DARS KOOMANNA",
+ "darsname":"DARUTHANVEER DARS KOOMANNA",
  "darsplace":"KOOMANNA CHENAKKAL",
  "zone":"TIRURANGADI",
  "slug":"daruthanveer-dars-koomanna",
@@ -5515,7 +5515,7 @@
  {
  "code":"TS631",
  "name":"MUHAMMED ASHFACK",
- "dars":"DARUTHANVEER DARS KOOMANNA",
+ "darsname":"DARUTHANVEER DARS KOOMANNA",
  "darsplace":"KOOMANNA CHENAKKAL",
  "zone":"TIRURANGADI",
  "slug":"daruthanveer-dars-koomanna",
@@ -5528,7 +5528,7 @@
  {
  "code":"TS632",
  "name":"Muhammed sinan",
- "dars":"DARUTHANVEER DARS KOOMANNA",
+ "darsname":"DARUTHANVEER DARS KOOMANNA",
  "darsplace":"KOOMANNA CHENAKKAL",
  "zone":"TIRURANGADI",
  "slug":"daruthanveer-dars-koomanna",
@@ -5540,7 +5540,7 @@
  {
  "code":"TS633",
  "name":"MUHAMMED VAHAB.K.P AZHINJHILAM",
- "dars":"INARATHUL HUDA DARS CHELARI",
+ "darsname":"INARATHUL HUDA DARS CHELARI",
  "darsplace":"CHENAKKALANGADI",
  "zone":"TIRURANGADI",
  "slug":"inarathul-huda-dars-chelari",
@@ -5557,7 +5557,7 @@
  {
  "code":"TS634",
  "name":"RIMSHID",
- "dars":"INARATHUL HUDA DARS CHELARI",
+ "darsname":"INARATHUL HUDA DARS CHELARI",
  "darsplace":"CHENAKKALANGADI",
  "zone":"TIRURANGADI",
  "slug":"inarathul-huda-dars-chelari",
@@ -5569,7 +5569,7 @@
  {
  "code":"TS635",
  "name":"MUHAMMED FAZIL.CHERAMBADI",
- "dars":"INARATHUL ISLAM DARS.VELIMUKK TOWN",
+ "darsname":"INARATHUL ISLAM DARS.VELIMUKK TOWN",
  "darsplace":"VELIMUKK TOWN",
  "zone":"TIRURANGADI",
  "slug":"inarathul-islam-dars.velimukk-town",
@@ -5585,7 +5585,7 @@
  {
  "code":"TS636",
  "name":"SHABEEB RAHMAN KODINHI",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -5601,7 +5601,7 @@
  {
  "code":"TS637",
  "name":"NABIL RAHMAN KALLATHANI",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -5615,7 +5615,7 @@
  {
  "code":"TS638",
  "name":"MUHAMMED UNAIS MORYA",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -5630,7 +5630,7 @@
  {
  "code":"TS639",
  "name":"MUHAMMED HAFSAL APPLA",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -5644,7 +5644,7 @@
  {
  "code":"TS640",
  "name":"MUHAMMED SAFVAN APPLA",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -5655,7 +5655,7 @@
  {
  "code":"TS641",
  "name":"MUHAMMED SWANIF VELLIYAMPURAM",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -5665,7 +5665,7 @@
  {
  "code":"TS642",
  "name":"SIRAJUDEEN KODAKKALLU",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -5675,7 +5675,7 @@
  {
  "code":"TS643",
  "name":"MUHAMMED RISHAN VENNIYOOR",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -5688,7 +5688,7 @@
  {
  "code":"TS644",
  "name":"YASAR ARAFATH FAROK COLLEGE",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -5702,7 +5702,7 @@
  {
  "code":"TS645",
  "name":"JASHID AMEEN RAMANATUKARA",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -5714,7 +5714,7 @@
  {
  "code":"TS646",
  "name":"MUHAMMAD RISHAD KODINHI",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -5724,7 +5724,7 @@
  {
  "code":"TS647",
  "name":"MUHAMMAD ADHIL KUTTIPURAM",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -5735,7 +5735,7 @@
  {
  "code":"TS648",
  "name":"MUHAMMAD ANFAS KODNHI",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -5746,7 +5746,7 @@
  {
  "code":"TS649",
  "name":"MUHAMMED ANSHID VELLCHAL",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -5756,7 +5756,7 @@
  {
  "code":"TS650",
  "name":"MUHAMMED ADHIL OLAPEEDIKA",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -5766,7 +5766,7 @@
  {
  "code":"TS651",
  "name":"MUHAMMED SHAFEEQ KODINHI",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -5777,7 +5777,7 @@
  {
  "code":"TS652",
  "name":"MUHAMMED SWALIH KUNNUMPURAM",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -5788,7 +5788,7 @@
  {
  "code":"TS653",
  "name":"MUHAMMED SALMAN THAVANOOR",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -5798,7 +5798,7 @@
  {
  "code":"TS654",
  "name":"MUHAMMED SAFVAN KODINHI",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -5808,7 +5808,7 @@
  {
  "code":"TS655",
  "name":"ABUDUL VAHID PADIKKAL",
- "dars":"JAMALULLAIL DARS AYYAYA",
+ "darsname":"JAMALULLAIL DARS AYYAYA",
  "darsplace":"AYYAYA",
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
@@ -5818,7 +5818,7 @@
  {
  "code":"TS656",
  "name":"MUHAMMED ASLAM VK",
- "dars":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
+ "darsname":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
  "darsplace":"PUTHUPPARAMBA",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-dars-puthupparamba",
@@ -5829,7 +5829,7 @@
  {
  "code":"TS657",
  "name":"SAHLUDHEEN KM POTTIPPARA",
- "dars":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
+ "darsname":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
  "darsplace":"PUTHUPPARAMBA",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-dars-puthupparamba",
@@ -5840,7 +5840,7 @@
  {
  "code":"TS658",
  "name":"DULKIFILE PK PUTHUPPARAMBA",
- "dars":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
+ "darsname":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
  "darsplace":"PUTHUPPARAMBA",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-dars-puthupparamba",
@@ -5851,7 +5851,7 @@
  {
  "code":"TS659",
  "name":"ABDUL WAHID VK KODINJI",
- "dars":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
+ "darsname":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
  "darsplace":"PUTHUPPARAMBA",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-dars-puthupparamba",
@@ -5862,7 +5862,7 @@
  {
  "code":"TS660",
  "name":"MUHAMMED THAHIR K",
- "dars":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
+ "darsname":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
  "darsplace":"PUTHUPPARAMBA",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-dars-puthupparamba",
@@ -5877,7 +5877,7 @@
  {
  "code":"TS661",
  "name":"IBRAHIM BADISHA T VK PADI",
- "dars":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
+ "darsname":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
  "darsplace":"PUTHUPPARAMBA",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-dars-puthupparamba",
@@ -5893,7 +5893,7 @@
  {
  "code":"TS662",
  "name":"MUHAMMED ADNAN K MELMURI",
- "dars":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
+ "darsname":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
  "darsplace":"PUTHUPPARAMBA",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-dars-puthupparamba",
@@ -5904,7 +5904,7 @@
  {
  "code":"TS663",
  "name":"MUHAMMED ASLAM VK KODAKKAL",
- "dars":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
+ "darsname":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
  "darsplace":"PUTHUPPARAMBA",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-dars-puthupparamba",
@@ -5915,7 +5915,7 @@
  {
  "code":"TS664",
  "name":"MUHAMMED JASNAN M MALAPPURAM",
- "dars":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
+ "darsname":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
  "darsplace":"PUTHUPPARAMBA",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-dars-puthupparamba",
@@ -5931,7 +5931,7 @@
  {
  "code":"TS665",
  "name":"ARSHAD RAHMAN A PONMALA",
- "dars":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
+ "darsname":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
  "darsplace":"PUTHUPPARAMBA",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-dars-puthupparamba",
@@ -5942,7 +5942,7 @@
  {
  "code":"TS666",
  "name":"MUHAMMED MIDLAJ T PUTHUPPARAMBA",
- "dars":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
+ "darsname":"MANSHAUL ULOOM DARS PUTHUPPARAMBA",
  "darsplace":"PUTHUPPARAMBA",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-dars-puthupparamba",
@@ -5952,7 +5952,7 @@
  {
  "code":"TS667",
  "name":"MUHAMMED SUHAIL PT NALLALAM",
- "dars":"MANSHAUL ULOOM KUNNATHPARAMB",
+ "darsname":"MANSHAUL ULOOM KUNNATHPARAMB",
  "darsplace":"KUNNATHPARAMB",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-kunnathparamb",
@@ -5970,7 +5970,7 @@
  {
  "code":"TS668",
  "name":"MUHAMMED ASKER M VELIMUKKU",
- "dars":"MANSHAUL ULOOM KUNNATHPARAMB",
+ "darsname":"MANSHAUL ULOOM KUNNATHPARAMB",
  "darsplace":"KUNNATHPARAMB",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-kunnathparamb",
@@ -5980,7 +5980,7 @@
  {
  "code":"TS669",
  "name":"ABDURAHMAN K CHELARI",
- "dars":"MANSHAUL ULOOM KUNNATHPARAMB",
+ "darsname":"MANSHAUL ULOOM KUNNATHPARAMB",
  "darsplace":"KUNNATHPARAMB",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-kunnathparamb",
@@ -5994,7 +5994,7 @@
  {
  "code":"TS670",
  "name":"MUHAMMED SALIM K VELIMUKKU",
- "dars":"MANSHAUL ULOOM KUNNATHPARAMB",
+ "darsname":"MANSHAUL ULOOM KUNNATHPARAMB",
  "darsplace":"KUNNATHPARAMB",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-kunnathparamb",
@@ -6010,7 +6010,7 @@
  {
  "code":"TS671",
  "name":"ABDUL BASITH P PALAKKAL",
- "dars":"MANSHAUL ULOOM KUNNATHPARAMB",
+ "darsname":"MANSHAUL ULOOM KUNNATHPARAMB",
  "darsplace":"KUNNATHPARAMB",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-kunnathparamb",
@@ -6029,7 +6029,7 @@
  {
  "code":"TS672",
  "name":"SABITH K VELIMUKKU",
- "dars":"MANSHAUL ULOOM KUNNATHPARAMB",
+ "darsname":"MANSHAUL ULOOM KUNNATHPARAMB",
  "darsplace":"KUNNATHPARAMB",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-kunnathparamb",
@@ -6041,7 +6041,7 @@
  {
  "code":"TS673",
  "name":"FARHAN.T CHELARI",
- "dars":"MANSHAUL ULOOM KUNNATHPARAMB",
+ "darsname":"MANSHAUL ULOOM KUNNATHPARAMB",
  "darsplace":"KUNNATHPARAMB",
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-kunnathparamb",
@@ -6060,7 +6060,7 @@
  {
  "code":"TS674",
  "name":"MUHAMMED THOYYIB P KODUR",
- "dars":"MARKAZUL ULAMA DARS APLA",
+ "darsname":"MARKAZUL ULAMA DARS APLA",
  "darsplace":"POOKKIPARAMBA APLA",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-apla",
@@ -6073,7 +6073,7 @@
  {
  "code":"TS675",
  "name":"SHAMNAD P KIDUR",
- "dars":"MARKAZUL ULAMA DARS APLA",
+ "darsname":"MARKAZUL ULAMA DARS APLA",
  "darsplace":"POOKKIPARAMBA APLA",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-apla",
@@ -6084,7 +6084,7 @@
  {
  "code":"TS676",
  "name":"MOHAMMED RAHEES P CHATTIPPARAMBA",
- "dars":"MARKAZUL ULAMA DARS APLA",
+ "darsname":"MARKAZUL ULAMA DARS APLA",
  "darsplace":"POOKKIPARAMBA APLA",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-apla",
@@ -6097,7 +6097,7 @@
  {
  "code":"TS677",
  "name":"SALMAN FARIS P MUSLIYAR ANGADI",
- "dars":"MARKAZUL ULAMA DARS FAROOKABAD",
+ "darsname":"MARKAZUL ULAMA DARS FAROOKABAD",
  "darsplace":"KAKKATHADAM",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-farookabad",
@@ -6109,7 +6109,7 @@
  {
  "code":"TS678",
  "name":"MUHAMMAD SHAMIL VALLIKKUNNU",
- "dars":"MARKAZUL ULAMA DARS FAROOKABAD",
+ "darsname":"MARKAZUL ULAMA DARS FAROOKABAD",
  "darsplace":"KAKKATHADAM",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-farookabad",
@@ -6120,7 +6120,7 @@
  {
  "code":"TS679",
  "name":"MUHAMMAD SAFWAN KM CHEROPPA",
- "dars":"MARKAZUL ULAMA DARS FAROOKABAD",
+ "darsname":"MARKAZUL ULAMA DARS FAROOKABAD",
  "darsplace":"KAKKATHADAM",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-farookabad",
@@ -6133,7 +6133,7 @@
  {
  "code":"TS680",
  "name":"FAHAD RAHMAN CP VALLIKKUNNU",
- "dars":"MARKAZUL ULAMA DARS FAROOKABAD",
+ "darsname":"MARKAZUL ULAMA DARS FAROOKABAD",
  "darsplace":"KAKKATHADAM",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-farookabad",
@@ -6146,7 +6146,7 @@
  {
  "code":"TS681",
  "name":"MUHAMMED SARJAD VALLIKUNNU",
- "dars":"MARKAZUL ULAMA DARS FAROOKABAD",
+ "darsname":"MARKAZUL ULAMA DARS FAROOKABAD",
  "darsplace":"KAKKATHADAM",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-farookabad",
@@ -6162,7 +6162,7 @@
  {
  "code":"TS682",
  "name":"FAHAD RAHMAN CP. VALLIKUNNU",
- "dars":"MARKAZUL ULAMA DARS FAROOKABAD",
+ "darsname":"MARKAZUL ULAMA DARS FAROOKABAD",
  "darsplace":"KAKKATHADAM",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-farookabad",
@@ -6178,7 +6178,7 @@
  {
  "code":"TS683",
  "name":"SINAN K. KUMMANNA",
- "dars":"MARKAZUL ULAMA DARS FAROOKABAD",
+ "darsname":"MARKAZUL ULAMA DARS FAROOKABAD",
  "darsplace":"KAKKATHADAM",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-farookabad",
@@ -6190,7 +6190,7 @@
  {
  "code":"TS684",
  "name":"ASLAMC KOLLAMCHINNA",
- "dars":"MARKAZUL ULAMA DARS FAROOKABAD",
+ "darsname":"MARKAZUL ULAMA DARS FAROOKABAD",
  "darsplace":"KAKKATHADAM",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-farookabad",
@@ -6203,7 +6203,7 @@
  {
  "code":"TS685",
  "name":"SHAMIL KP",
- "dars":"MARKAZUL ULAMA DARS PALATHINGAL",
+ "darsname":"MARKAZUL ULAMA DARS PALATHINGAL",
  "darsplace":"PALATHINGAL",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-palathingal",
@@ -6213,7 +6213,7 @@
  {
  "code":"TS686",
  "name":"MUHAMMED MISHAB , THALIPARAMBA",
- "dars":"MARKAZUL ULAMA DARS PALATHINGAL",
+ "darsname":"MARKAZUL ULAMA DARS PALATHINGAL",
  "darsplace":"PALATHINGAL",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-palathingal",
@@ -6224,7 +6224,7 @@
  {
  "code":"TS687",
  "name":"ANVAR SADHIQ",
- "dars":"MARKAZUL ULAMA DARS PALATHINGAL",
+ "darsname":"MARKAZUL ULAMA DARS PALATHINGAL",
  "darsplace":"PALATHINGAL",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-palathingal",
@@ -6237,7 +6237,7 @@
  {
  "code":"TS688",
  "name":"MUHAMMAD MIDLAJ, PARAPPUR",
- "dars":"MARKAZUL ULAMA DARS PALATHINGAL",
+ "darsname":"MARKAZUL ULAMA DARS PALATHINGAL",
  "darsplace":"PALATHINGAL",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-palathingal",
@@ -6251,7 +6251,7 @@
  {
  "code":"TS689",
  "name":"MUHAMMED ADIL. P",
- "dars":"MARKAZUL ULAMA DARS PALATHINGAL",
+ "darsname":"MARKAZUL ULAMA DARS PALATHINGAL",
  "darsplace":"PALATHINGAL",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-palathingal",
@@ -6267,7 +6267,7 @@
  {
  "code":"TS690",
  "name":"MUHAMMED SHAMSHEER PK",
- "dars":"MARKAZUL ULAMA DARS PALATHINGAL",
+ "darsname":"MARKAZUL ULAMA DARS PALATHINGAL",
  "darsplace":"PALATHINGAL",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-palathingal",
@@ -6281,7 +6281,7 @@
  {
  "code":"TS691",
  "name":"FAISAL PV",
- "dars":"MARKAZUL ULAMA DARS PALATHINGAL",
+ "darsname":"MARKAZUL ULAMA DARS PALATHINGAL",
  "darsplace":"PALATHINGAL",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-palathingal",
@@ -6295,7 +6295,7 @@
  {
  "code":"TS692",
  "name":"JAMALUDHEEN",
- "dars":"MARKAZUL ULAMA DARS PALATHINGAL",
+ "darsname":"MARKAZUL ULAMA DARS PALATHINGAL",
  "darsplace":"PALATHINGAL",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-palathingal",
@@ -6305,7 +6305,7 @@
  {
  "code":"TS693",
  "name":"FAYIS",
- "dars":"MARKAZUL ULAMA DARS PALATHINGAL",
+ "darsname":"MARKAZUL ULAMA DARS PALATHINGAL",
  "darsplace":"PALATHINGAL",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-palathingal",
@@ -6317,7 +6317,7 @@
  {
  "code":"TS694",
  "name":"MUHAMMAD ABOOBACKER SIDDIQ KP",
- "dars":"MARKAZUL ULAMA DARS PALATHINGAL",
+ "darsname":"MARKAZUL ULAMA DARS PALATHINGAL",
  "darsplace":"PALATHINGAL",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-palathingal",
@@ -6327,7 +6327,7 @@
  {
  "code":"TS695",
  "name":"RINSHAD MANJERI",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -6339,7 +6339,7 @@
  {
  "code":"TS696",
  "name":"MUHSIN KOTTAKKAL",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -6354,7 +6354,7 @@
  {
  "code":"TS697",
  "name":"ABDUL GHANI",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -6366,7 +6366,7 @@
  {
  "code":"TS698",
  "name":"SUHAIL KOTTAKKAL",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -6381,7 +6381,7 @@
  {
  "code":"TS699",
  "name":"MAHSHOOQ KOTTAKKAL",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -6394,7 +6394,7 @@
  {
  "code":"TS700",
  "name":"RAFI DEVATHIYAL",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -6405,7 +6405,7 @@
  {
  "code":"TS701",
  "name":"ABID MANNARKKAD",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -6415,7 +6415,7 @@
  {
  "code":"TS702",
  "name":"SHAHIL KOOMANNA",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -6426,7 +6426,7 @@
  {
  "code":"TS703",
  "name":"MAHMOOD VILAKKATHRAMADU",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -6438,7 +6438,7 @@
  {
  "code":"TS704",
  "name":"RABEEH ALUNGAL",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -6451,7 +6451,7 @@
  {
  "code":"TS705",
  "name":"UVAIS OLAVATTUR",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -6461,7 +6461,7 @@
  {
  "code":"TS706",
  "name":"ABDURAHAMAN KOZHIKODE",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -6471,7 +6471,7 @@
  {
  "code":"TS707",
  "name":"NIHAD PATTAMBI",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -6482,7 +6482,7 @@
  {
  "code":"TS708",
  "name":"ARSHAD KOTTAKKAL",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -6492,7 +6492,7 @@
  {
  "code":"TS709",
  "name":"SINAN KIZHISSERY",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -6503,7 +6503,7 @@
  {
  "code":"TS710",
  "name":"MUHAMMED KANNUR",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -6513,7 +6513,7 @@
  {
  "code":"TS711",
  "name":"THAMEEM SABITH CHEMMAD",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -6523,7 +6523,7 @@
  {
  "code":"TS712",
  "name":"RINSHAD CHELARI",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -6533,7 +6533,7 @@
  {
  "code":"TS713",
  "name":"NAFIH OZHUKUR",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -6543,7 +6543,7 @@
  {
  "code":"TS714",
  "name":"SINAN VEGARA",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -6553,7 +6553,7 @@
  {
  "code":"TS715",
  "name":"SHAMEEM VALANCHERI",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -6563,7 +6563,7 @@
  {
  "code":"TS716",
  "name":"MUSTHAFA KOZHIKODE",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -6573,7 +6573,7 @@
  {
  "code":"TS717",
  "name":"SUHAIL KADUNGALLUR",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -6583,7 +6583,7 @@
  {
  "code":"TS718",
  "name":"SABIQ PANAMBRA",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -6593,7 +6593,7 @@
  {
  "code":"TS719",
  "name":"Solih pandikad",
- "dars":"MARKAZUL ULAMA DARS PANAMBRA",
+ "darsname":"MARKAZUL ULAMA DARS PANAMBRA",
  "darsplace":"PANAMBRA, CHELARI",
  "zone":"TIRURANGADI",
  "slug":"markazul-ulama-dars-panambra",
@@ -6604,7 +6604,7 @@
  {
  "code":"TS720",
  "name":"SAJEER AK",
- "dars":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
+ "darsname":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
  "darsplace":"CHERUSHOLA",
  "zone":"TIRURANGADI",
  "slug":"munavvirul-islam-dars-cherushola",
@@ -6616,7 +6616,7 @@
  {
  "code":"TS721",
  "name":"MUHAMMED ANSIL .PP",
- "dars":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
+ "darsname":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
  "darsplace":"CHERUSHOLA",
  "zone":"TIRURANGADI",
  "slug":"munavvirul-islam-dars-cherushola",
@@ -6627,7 +6627,7 @@
  {
  "code":"TS722",
  "name":"FASLU RAHMAN .P",
- "dars":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
+ "darsname":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
  "darsplace":"CHERUSHOLA",
  "zone":"TIRURANGADI",
  "slug":"munavvirul-islam-dars-cherushola",
@@ -6639,7 +6639,7 @@
  {
  "code":"TS723",
  "name":"AFLAH M.K",
- "dars":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
+ "darsname":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
  "darsplace":"CHERUSHOLA",
  "zone":"TIRURANGADI",
  "slug":"munavvirul-islam-dars-cherushola",
@@ -6650,7 +6650,7 @@
  {
  "code":"TS724",
  "name":"MUHAMMAD SAJEER AK",
- "dars":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
+ "darsname":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
  "darsplace":"CHERUSHOLA",
  "zone":"TIRURANGADI",
  "slug":"munavvirul-islam-dars-cherushola",
@@ -6664,7 +6664,7 @@
  {
  "code":"TS725",
  "name":"MUHAMMED NISHAD.K",
- "dars":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
+ "darsname":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
  "darsplace":"CHERUSHOLA",
  "zone":"TIRURANGADI",
  "slug":"munavvirul-islam-dars-cherushola",
@@ -6679,7 +6679,7 @@
  {
  "code":"TS726",
  "name":"AFLAH M. K",
- "dars":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
+ "darsname":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
  "darsplace":"CHERUSHOLA",
  "zone":"TIRURANGADI",
  "slug":"munavvirul-islam-dars-cherushola",
@@ -6690,7 +6690,7 @@
  {
  "code":"TS727",
  "name":"ANSIL.P",
- "dars":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
+ "darsname":"MUNAVVIRUL ISLAM DARS CHERUSHOLA",
  "darsplace":"CHERUSHOLA",
  "zone":"TIRURANGADI",
  "slug":"munavvirul-islam-dars-cherushola",
@@ -6702,7 +6702,7 @@
  {
  "code":"TS728",
  "name":"MOHAMMED JUNAID MUDIKKODE",
- "dars":"NOORU THWALABA DARS EDARIKODE",
+ "darsname":"NOORU THWALABA DARS EDARIKODE",
  "darsplace":"EDARIKODE",
  "zone":"TIRURANGADI",
  "slug":"nooru-thwalaba-dars-edarikode",
@@ -6721,7 +6721,7 @@
  {
  "code":"TS729",
  "name":"MUHAMMAD ASHAL",
- "dars":"NOORU THWALABA DARS EDARIKODE",
+ "darsname":"NOORU THWALABA DARS EDARIKODE",
  "darsplace":"EDARIKODE",
  "zone":"TIRURANGADI",
  "slug":"nooru-thwalaba-dars-edarikode",
@@ -6737,7 +6737,7 @@
  {
  "code":"TS730",
  "name":"HAIMIN VATAKARA",
- "dars":"NOORU THWALABA DARS EDARIKODE",
+ "darsname":"NOORU THWALABA DARS EDARIKODE",
  "darsplace":"EDARIKODE",
  "zone":"TIRURANGADI",
  "slug":"nooru-thwalaba-dars-edarikode",
@@ -6756,7 +6756,7 @@
  {
  "code":"TS731",
  "name":"ABDUL VAHAB KOLAMPALAM",
- "dars":"NOORU THWALABA DARS EDARIKODE",
+ "darsname":"NOORU THWALABA DARS EDARIKODE",
  "darsplace":"EDARIKODE",
  "zone":"TIRURANGADI",
  "slug":"nooru-thwalaba-dars-edarikode",
@@ -6775,7 +6775,7 @@
  {
  "code":"TS732",
  "name":"SALMANUL FARIS OMANOOR",
- "dars":"NOORU THWALABA DARS EDARIKODE",
+ "darsname":"NOORU THWALABA DARS EDARIKODE",
  "darsplace":"EDARIKODE",
  "zone":"TIRURANGADI",
  "slug":"nooru-thwalaba-dars-edarikode",
@@ -6788,7 +6788,7 @@
  {
  "code":"TS733",
  "name":"BINSHAD C",
- "dars":"SUBULUSSALAM DARS KOZHIPPURAM",
+ "darsname":"SUBULUSSALAM DARS KOZHIPPURAM",
  "darsplace":"KOZHIPPURAM",
  "zone":"TIRURANGADI",
  "slug":"subulussalam-dars-kozhippuram",
@@ -6800,7 +6800,7 @@
  {
  "code":"TS734",
  "name":"SALMANUL FARIS KK",
- "dars":"SUBULUSSALAM DARS KOZHIPPURAM",
+ "darsname":"SUBULUSSALAM DARS KOZHIPPURAM",
  "darsplace":"KOZHIPPURAM",
  "zone":"TIRURANGADI",
  "slug":"subulussalam-dars-kozhippuram",
@@ -6816,7 +6816,7 @@
  {
  "code":"TS735",
  "name":"MOHAMMED SHAFEEL KK",
- "dars":"SUBULUSSALAM DARS KOZHIPPURAM",
+ "darsname":"SUBULUSSALAM DARS KOZHIPPURAM",
  "darsplace":"KOZHIPPURAM",
  "zone":"TIRURANGADI",
  "slug":"subulussalam-dars-kozhippuram",
@@ -6835,7 +6835,7 @@
  {
  "code":"TS736",
  "name":"SAYYID SAINUL ABIDEEN",
- "dars":"SUBULUSSALAM DARS KOZHIPPURAM",
+ "darsname":"SUBULUSSALAM DARS KOZHIPPURAM",
  "darsplace":"KOZHIPPURAM",
  "zone":"TIRURANGADI",
  "slug":"subulussalam-dars-kozhippuram",
@@ -6846,7 +6846,7 @@
  {
  "code":"TS737",
  "name":"MOHAMMED RASHID K",
- "dars":"SUBULUSSALAM DARS KOZHIPPURAM",
+ "darsname":"SUBULUSSALAM DARS KOZHIPPURAM",
  "darsplace":"KOZHIPPURAM",
  "zone":"TIRURANGADI",
  "slug":"subulussalam-dars-kozhippuram",
@@ -6856,7 +6856,7 @@
  {
  "code":"TS738",
  "name":"SHAHID M",
- "dars":"SUBULUSSALAM DARS KOZHIPPURAM",
+ "darsname":"SUBULUSSALAM DARS KOZHIPPURAM",
  "darsplace":"KOZHIPPURAM",
  "zone":"TIRURANGADI",
  "slug":"subulussalam-dars-kozhippuram",
@@ -6869,7 +6869,7 @@
  {
  "code":"TS739",
  "name":"MUHAMMED ANEES PK",
- "dars":"SUBULUSSALAM DARS KOZHIPPURAM",
+ "darsname":"SUBULUSSALAM DARS KOZHIPPURAM",
  "darsplace":"KOZHIPPURAM",
  "zone":"TIRURANGADI",
  "slug":"subulussalam-dars-kozhippuram",
@@ -6884,7 +6884,7 @@
  {
  "code":"TS740",
  "name":"MOHAMMED ASHIF MA",
- "dars":"SUBULUSSALAM DARS KOZHIPPURAM",
+ "darsname":"SUBULUSSALAM DARS KOZHIPPURAM",
  "darsplace":"KOZHIPPURAM",
  "zone":"TIRURANGADI",
  "slug":"subulussalam-dars-kozhippuram",
@@ -6900,7 +6900,7 @@
  {
  "code":"TS741",
  "name":"MUHAMMED SABITH M C",
- "dars":"SUBULUSSALAM DARS KOZHIPPURAM",
+ "darsname":"SUBULUSSALAM DARS KOZHIPPURAM",
  "darsplace":"KOZHIPPURAM",
  "zone":"TIRURANGADI",
  "slug":"subulussalam-dars-kozhippuram",
@@ -6913,7 +6913,7 @@
  {
  "code":"TS742",
  "name":"MUHAMMED RAFI K",
- "dars":"SUBULUSSALAM DARS KOZHIPPURAM",
+ "darsname":"SUBULUSSALAM DARS KOZHIPPURAM",
  "darsplace":"KOZHIPPURAM",
  "zone":"TIRURANGADI",
  "slug":"subulussalam-dars-kozhippuram",
@@ -6926,7 +6926,7 @@
  {
  "code":"TS743",
  "name":"JUNAID",
- "dars":"SUBULUSSALAM DARS KOZHIPPURAM",
+ "darsname":"SUBULUSSALAM DARS KOZHIPPURAM",
  "darsplace":"KOZHIPPURAM",
  "zone":"TIRURANGADI",
  "slug":"subulussalam-dars-kozhippuram",
@@ -6937,7 +6937,7 @@
  {
  "code":"TS744",
  "name":"MUHAMMED SAJAD C",
- "dars":"SUBULUSSALAM DARS KOZHIPPURAM",
+ "darsname":"SUBULUSSALAM DARS KOZHIPPURAM",
  "darsplace":"KOZHIPPURAM",
  "zone":"TIRURANGADI",
  "slug":"subulussalam-dars-kozhippuram",
@@ -6949,7 +6949,7 @@
  {
  "code":"TS745",
  "name":"RASHID M T",
- "dars":"SUBULUSSALAM DARS KOZHIPPURAM",
+ "darsname":"SUBULUSSALAM DARS KOZHIPPURAM",
  "darsplace":"KOZHIPPURAM",
  "zone":"TIRURANGADI",
  "slug":"subulussalam-dars-kozhippuram",
@@ -6960,7 +6960,7 @@
  {
  "code":"TS746",
  "name":"NAJEEB AP CHERURAL",
- "dars":"THAMREENU THWALABA ANANTHAVOOR",
+ "darsname":"THAMREENU THWALABA ANANTHAVOOR",
  "darsplace":"ANANTHAVOOR",
  "zone":"TIRURANGADI",
  "slug":"thamreenu-thwalaba-ananthavoor",
@@ -6975,7 +6975,7 @@
  {
  "code":"TS747",
  "name":"ABDUL KAREEM PUTHANATHANI",
- "dars":"THAMREENU THWALABA ANANTHAVOOR",
+ "darsname":"THAMREENU THWALABA ANANTHAVOOR",
  "darsplace":"ANANTHAVOOR",
  "zone":"TIRURANGADI",
  "slug":"thamreenu-thwalaba-ananthavoor",
@@ -6988,7 +6988,7 @@
  {
  "code":"TS748",
  "name":"MOHAMMED RASHIQ E MALAPPURAM",
- "dars":"THAMREENU THWALABA ANANTHAVOOR",
+ "darsname":"THAMREENU THWALABA ANANTHAVOOR",
  "darsplace":"ANANTHAVOOR",
  "zone":"TIRURANGADI",
  "slug":"thamreenu-thwalaba-ananthavoor",
@@ -7004,7 +7004,7 @@
  {
  "code":"TS749",
  "name":"MOHAMMED SHABEER KT KAREKKAD",
- "dars":"THAMREENU THWALABA ANANTHAVOOR",
+ "darsname":"THAMREENU THWALABA ANANTHAVOOR",
  "darsplace":"ANANTHAVOOR",
  "zone":"TIRURANGADI",
  "slug":"thamreenu-thwalaba-ananthavoor",
@@ -7017,7 +7017,7 @@
  {
  "code":"TS750",
  "name":"RIZVAN U",
- "dars":"THAMREENU THWALABA ANANTHAVOOR",
+ "darsname":"THAMREENU THWALABA ANANTHAVOOR",
  "darsplace":"ANANTHAVOOR",
  "zone":"TIRURANGADI",
  "slug":"thamreenu-thwalaba-ananthavoor",
@@ -7028,7 +7028,7 @@
  {
  "code":"TS751",
  "name":"RIZVAN U KAREKKAD",
- "dars":"THAMREENU THWALABA ANANTHAVOOR",
+ "darsname":"THAMREENU THWALABA ANANTHAVOOR",
  "darsplace":"ANANTHAVOOR",
  "zone":"TIRURANGADI",
  "slug":"thamreenu-thwalaba-ananthavoor",
@@ -7040,7 +7040,7 @@
  {
  "code":"TS752",
  "name":"MOHAMMED RABEEL MT CK PARA",
- "dars":"THAMREENU THWALABA ANANTHAVOOR",
+ "darsname":"THAMREENU THWALABA ANANTHAVOOR",
  "darsplace":"ANANTHAVOOR",
  "zone":"TIRURANGADI",
  "slug":"thamreenu-thwalaba-ananthavoor",
@@ -7052,7 +7052,7 @@
  {
  "code":"TS753",
  "name":"MUHAMMAD UNAIS KP PURAMANNUR",
- "dars":"THAMREENU THWALABA ANANTHAVOOR",
+ "darsname":"THAMREENU THWALABA ANANTHAVOOR",
  "darsplace":"ANANTHAVOOR",
  "zone":"TIRURANGADI",
  "slug":"thamreenu-thwalaba-ananthavoor",
@@ -7067,7 +7067,7 @@
  {
  "code":"TS754",
  "name":"MUHAMMAD UMAIR MP KAREKKAD",
- "dars":"THAMREENU THWALABA ANANTHAVOOR",
+ "darsname":"THAMREENU THWALABA ANANTHAVOOR",
  "darsplace":"ANANTHAVOOR",
  "zone":"TIRURANGADI",
  "slug":"thamreenu-thwalaba-ananthavoor",
@@ -7083,7 +7083,7 @@
  {
  "code":"TS755",
  "name":"YAHKOOB KP KUTTIPPURAM",
- "dars":"THAMREENU THWALABA ANANTHAVOOR",
+ "darsname":"THAMREENU THWALABA ANANTHAVOOR",
  "darsplace":"ANANTHAVOOR",
  "zone":"TIRURANGADI",
  "slug":"thamreenu-thwalaba-ananthavoor",
@@ -7095,7 +7095,7 @@
  {
  "code":"TS756",
  "name":"MOHAMMED ASHIKH T CK PARA",
- "dars":"THAMREENU THWALABA ANANTHAVOOR",
+ "darsname":"THAMREENU THWALABA ANANTHAVOOR",
  "darsplace":"ANANTHAVOOR",
  "zone":"TIRURANGADI",
  "slug":"thamreenu-thwalaba-ananthavoor",
@@ -7111,7 +7111,7 @@
  {
  "code":"TS757",
  "name":"MUHAMMAD SAJAD T CK PARA",
- "dars":"THAMREENU THWALABA ANANTHAVOOR",
+ "darsname":"THAMREENU THWALABA ANANTHAVOOR",
  "darsplace":"ANANTHAVOOR",
  "zone":"TIRURANGADI",
  "slug":"thamreenu-thwalaba-ananthavoor",
@@ -7127,7 +7127,7 @@
  {
  "code":"TS758",
  "name":"FASALURAHMAN C KAREKKAD",
- "dars":"THAMREENU THWALABA ANANTHAVOOR",
+ "darsname":"THAMREENU THWALABA ANANTHAVOOR",
  "darsplace":"ANANTHAVOOR",
  "zone":"TIRURANGADI",
  "slug":"thamreenu-thwalaba-ananthavoor",
@@ -7142,7 +7142,7 @@
  {
  "code":"TS759",
  "name":"MUHAMMED MUHSIN CP",
- "dars":"TTSS KUNDUKULAM",
+ "darsname":"TTSS KUNDUKULAM",
  "darsplace":"KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"ttss-kundukulam",
@@ -7161,7 +7161,7 @@
  {
  "code":"TS760",
  "name":"MOHAMED ANSIL ALI T",
- "dars":"TTSS KUNDUKULAM",
+ "darsname":"TTSS KUNDUKULAM",
  "darsplace":"KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"ttss-kundukulam",
@@ -7180,7 +7180,7 @@
  {
  "code":"TS761",
  "name":"AJMAL SHA PM",
- "dars":"TTSS KUNDUKULAM",
+ "darsname":"TTSS KUNDUKULAM",
  "darsplace":"KUNDUKULAN",
  "zone":"TIRURANGADI",
  "slug":"ttss-kundukulam",
@@ -7199,7 +7199,7 @@
  {
  "code":"TS762",
  "name":"Sidhique",
- "dars":"TTSS KUNDUKULAM",
+ "darsname":"TTSS KUNDUKULAM",
  "darsplace":"KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"ttss-kundukulam",
@@ -7214,7 +7214,7 @@
  {
  "code":"TS763",
  "name":"UMMER FAROOK, MANGALAPURAM",
- "dars":"VASILIYAH DARS, KUNDUKULAM",
+ "darsname":"VASILIYAH DARS, KUNDUKULAM",
  "darsplace":"MMQJ KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"vasiliyah-dars-kundukulam",
@@ -7227,7 +7227,7 @@
  {
  "code":"TS764",
  "name":"MUHAMMED RISWAN, SWAGATHAMAD",
- "dars":"VASILIYAH DARS, KUNDUKULAM",
+ "darsname":"VASILIYAH DARS, KUNDUKULAM",
  "darsplace":"MMQJ KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"vasiliyah-dars-kundukulam",
@@ -7241,7 +7241,7 @@
  {
  "code":"TS765",
  "name":"MUHAMMAD SHIBIL SHAH,CHEMBRA",
- "dars":"VASILIYAH DARS, KUNDUKULAM",
+ "darsname":"VASILIYAH DARS, KUNDUKULAM",
  "darsplace":"MMQJ KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"vasiliyah-dars-kundukulam",
@@ -7254,7 +7254,7 @@
  {
  "code":"TS766",
  "name":"MUHAMMED RABIN",
- "dars":"VASILIYAH DARS, KUNDUKULAM",
+ "darsname":"VASILIYAH DARS, KUNDUKULAM",
  "darsplace":"MMQJ KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"vasiliyah-dars-kundukulam",
@@ -7265,7 +7265,7 @@
  {
  "code":"TS767",
  "name":"MUHAMMAD SHIRFAN, CHEMBRA",
- "dars":"VASILIYAH DARS, KUNDUKULAM",
+ "darsname":"VASILIYAH DARS, KUNDUKULAM",
  "darsplace":"MMQJ KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"vasiliyah-dars-kundukulam",
@@ -7275,7 +7275,7 @@
  {
  "code":"TS768",
  "name":"SAEED MUHAMMED",
- "dars":"VASILIYAH DARS, KUNDUKULAM",
+ "darsname":"VASILIYAH DARS, KUNDUKULAM",
  "darsplace":"MMQJ KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"vasiliyah-dars-kundukulam",
@@ -7287,7 +7287,7 @@
  {
  "code":"TS769",
  "name":"MUHAMMED IRFAN,KODUMUDI",
- "dars":"VASILIYAH DARS, KUNDUKULAM",
+ "darsname":"VASILIYAH DARS, KUNDUKULAM",
  "darsplace":"MMQJ KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"vasiliyah-dars-kundukulam",
@@ -7303,7 +7303,7 @@
  {
  "code":"TS770",
  "name":"MUHAMMED RIYAS,VAILATHOOR",
- "dars":"VASILIYAH DARS, KUNDUKULAM",
+ "darsname":"VASILIYAH DARS, KUNDUKULAM",
  "darsplace":"MMQJ KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"vasiliyah-dars-kundukulam",
@@ -7317,7 +7317,7 @@
  {
  "code":"TS771",
  "name":"MUHAMMED SHIBILI ,KOZHICHENA",
- "dars":"VASILIYAH DARS, KUNDUKULAM",
+ "darsname":"VASILIYAH DARS, KUNDUKULAM",
  "darsplace":"MMQJ KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"vasiliyah-dars-kundukulam",
@@ -7329,7 +7329,7 @@
  {
  "code":"TS772",
  "name":"SAYYID SHAHUL HAMEED,KOZHICHENA Y",
- "dars":"VASILIYAH DARS, KUNDUKULAM",
+ "darsname":"VASILIYAH DARS, KUNDUKULAM",
  "darsplace":"MMQJ KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"vasiliyah-dars-kundukulam",
@@ -7339,7 +7339,7 @@
  {
  "code":"TS773",
  "name":"SAYYID ALI AKBAR,ATHALOOR",
- "dars":"VASILIYAH DARS, KUNDUKULAM",
+ "darsname":"VASILIYAH DARS, KUNDUKULAM",
  "darsplace":"MMQJ KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"vasiliyah-dars-kundukulam",
@@ -7349,7 +7349,7 @@
  {
  "code":"TS774",
  "name":"SAYYID MUHAMMED RASIK. ATHALOOR",
- "dars":"VASILIYAH DARS, KUNDUKULAM",
+ "darsname":"VASILIYAH DARS, KUNDUKULAM",
  "darsplace":"MMQJ KUNDUKULAM",
  "zone":"TIRURANGADI",
  "slug":"vasiliyah-dars-kundukulam",
