@@ -20,7 +20,7 @@
  "slug":"al-anwar-dars-kuruka",
  "category":"JUNIOR",
  "stage1":"12. ഗാനം ഉറുദു",
- "stae2":"10. മാപ്പിളപ്പാട്ട്",
+ "stage2":"10. മാപ്പിളപ്പാട്ട്",
  "stage3":"03. വാങ്ക്",
  "groupstage1":"19. അറബി സംഘഗാനം",
  "groupstage2":"20. മലയാള സമൂഹ ഗാനം"
@@ -34,7 +34,7 @@
  "slug":"al-anwar-dars-kuruka",
  "category":"JUNIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"09. ഗാനം അറബി",
+ "stage2":"09. ഗാനം അറബി",
  "stage3":"18. മദ്ഹുന്നബി",
  "offstage1":"25. കേട്ടെഴുത്ത് ",
  "groupstage1":"19. അറബി സംഘഗാനം",
@@ -49,7 +49,7 @@
  "slug":"al-anwar-dars-kuruka",
  "category":"JUNIOR",
  "stage1":"11. മാലപ്പാട്ട്",
- "stae2":"14. ഗദ്യവായന മലയാളം",
+ "stage2":"14. ഗദ്യവായന മലയാളം",
  "offstage1":"21. ചിത്രരചന ",
  "offstage2":"26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
  "offstage3":"24. ഖത്തുന്നസ്ഖ്",
@@ -85,7 +85,7 @@
  "slug":"al-eaqalu-dars-chembra",
  "category":"JUNIOR",
  "stage1":"06. പ്രസംഗം ഉറുദു",
- "stae2":"07. പ്രസംഗം ഇംഗ്ലീഷ്"
+ "stage2":"07. പ്രസംഗം ഇംഗ്ലീഷ്"
  },
  {
  "code":"TJ108",
@@ -96,7 +96,7 @@
  "slug":"al-eaqalu-dars-chembra",
  "category":"JUNIOR",
  "stage1":"12. ഗാനം ഉറുദു",
- "stae2":"13. കഥ പറച്ചില്‍",
+ "stage2":"13. കഥ പറച്ചില്‍",
  "groupstage1":"19. അറബി സംഘഗാനം",
  "groupstage2":"20. മലയാള സമൂഹ ഗാനം"
  },
@@ -109,7 +109,7 @@
  "slug":"al-eaqalu-dars-chembra",
  "category":"JUNIOR",
  "stage1":"03. വാങ്ക്",
- "stae2":"09. ഗാനം അറബി",
+ "stage2":"09. ഗാനം അറബി",
  "stage3":"10. മാപ്പിളപ്പാട്ട്",
  "offstage1":"27. നിഘണ്ടു നിര്‍മ്മാണം",
  "groupstage1":"19. അറബി സംഘഗാനം",
@@ -124,7 +124,7 @@
  "slug":"al-eaqalu-dars-chembra",
  "category":"JUNIOR",
  "stage1":"04. പ്രസംഗം അറബി",
- "stae2":"11. മാലപ്പാട്ട്",
+ "stage2":"11. മാലപ്പാട്ട്",
  "offstage1":"26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
  "offstage2":"29. മലയാള പ്രബന്ധം",
  "groupstage1":"19. അറബി സംഘഗാനം",
@@ -139,7 +139,7 @@
  "slug":"al-eaqalu-dars-chembra",
  "category":"JUNIOR",
  "stage1":"16. പദപ്പയറ്റ് അറബി",
- "stae2":"15. മുശാഅറ",
+ "stage2":"15. മുശാഅറ",
  "offstage1":"24. ഖത്തുന്നസ്ഖ്",
  "offstage2":"22. സുഡോക്കു"
  },
@@ -152,7 +152,7 @@
  "slug":"al-eaqalu-dars-chembra",
  "category":"JUNIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"02. ഹിഫ്‌ള്"
+ "stage2":"02. ഹിഫ്‌ള്"
  },
  {
  "code":"TJ113",
@@ -216,7 +216,7 @@
  "slug":"al-eaqalu-dars-kaloor",
  "category":"JUNIOR",
  "stage1":"06. പ്രസംഗം ഉറുദു",
- "stae2":"12. ഗാനം ഉറുദു",
+ "stage2":"12. ഗാനം ഉറുദു",
  "stage3":"08. ഗ്രന്ഥവായന",
  "offstage1":"23. മെമ്മറി ടെസ്റ്റ്",
  "offstage2":"24. ഖത്തുന്നസ്ഖ്",
@@ -232,7 +232,7 @@
  "slug":"al-eaqalu-dars-kaloor",
  "category":"JUNIOR",
  "stage1":"09. ഗാനം അറബി",
- "stae2":"10. മാപ്പിളപ്പാട്ട്",
+ "stage2":"10. മാപ്പിളപ്പാട്ട്",
  "stage3":"18. മദ്ഹുന്നബി",
  "offstage1":"26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
  "groupstage1":"19. അറബി സംഘഗാനം",
@@ -278,7 +278,7 @@
  "slug":"al-eaqalu-dars-kaloor",
  "category":"JUNIOR",
  "stage1":"03. വാങ്ക്",
- "stae2":"14. ഗദ്യവായന മലയാളം",
+ "stage2":"14. ഗദ്യവായന മലയാളം",
  "groupstage1":"20. മലയാള സമൂഹ ഗാനം"
  },
  {
@@ -300,7 +300,7 @@
  "slug":"al-eaqalu-dars-kaloor",
  "category":"JUNIOR",
  "stage1":"04. പ്രസംഗം അറബി",
- "stae2":"16. പദപ്പയറ്റ് അറബി",
+ "stage2":"16. പദപ്പയറ്റ് അറബി",
  "offstage1":"27. നിഘണ്ടു നിര്‍മ്മാണം"
  },
  {
@@ -322,7 +322,7 @@
  "slug":"al-eaqalu-dars-kaloor",
  "category":"JUNIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"15. മുശാഅറ",
+ "stage2":"15. മുശാഅറ",
  "stage3":"11. മാലപ്പാട്ട്",
  "offstage1":"28. തശ്കീല്‍",
  "offstage2":"28. തശ്കീല്‍",
@@ -337,7 +337,7 @@
  "slug":"al-eaqalu-dars-kaloor",
  "category":"JUNIOR",
  "stage1":"07. പ്രസംഗം ഇംഗ്ലീഷ്",
- "stae2":"17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
+ "stage2":"17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
  "offstage1":"25. കേട്ടെഴുത്ത് "
  },
  {
@@ -349,7 +349,7 @@
  "slug":"al-eaqalu-durs-kott",
  "category":"JUNIOR",
  "stage1":"03. വാങ്ക്",
- "stae2":"17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
+ "stage2":"17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
  "stage3":"09. ഗാനം അറബി",
  "offstage1":"21. ചിത്രരചന "
  },
@@ -362,7 +362,7 @@
  "slug":"al-eaqalu-durs-kott",
  "category":"JUNIOR",
  "stage1":"02. ഹിഫ്‌ള്",
- "stae2":"05. പ്രസംഗം മലയാളം"
+ "stage2":"05. പ്രസംഗം മലയാളം"
  },
  {
  "code":"TJ131",
@@ -373,7 +373,7 @@
  "slug":"al-eaqalu-durs-kott",
  "category":"JUNIOR",
  "stage1":"03. വാങ്ക്",
- "stae2":"17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
+ "stage2":"17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
  "stage3":"09. ഗാനം അറബി",
  "offstage2":"21. ചിത്രരചന "
  },
@@ -417,7 +417,7 @@
  "slug":"al-eaqalu-durs-kott",
  "category":"JUNIOR",
  "stage1":"10. മാപ്പിളപ്പാട്ട്",
- "stae2":"14. ഗദ്യവായന മലയാളം"
+ "stage2":"14. ഗദ്യവായന മലയാളം"
  },
  {
  "code":"TJ136",
@@ -439,7 +439,7 @@
  "slug":"al-imdad-pathambad",
  "category":"JUNIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"03. വാങ്ക്",
+ "stage2":"03. വാങ്ക്",
  "offstage1":"25. കേട്ടെഴുത്ത് "
  },
  {
@@ -512,7 +512,7 @@
  "slug":"al-maswalih-students-association-valiyaparappur",
  "category":"JUNIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"03. വാങ്ക്",
+ "stage2":"03. വാങ്ക്",
  "stage3":"17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
  "offstage1":"28. തശ്കീല്‍",
  "offstage2":"27. നിഘണ്ടു നിര്‍മ്മാണം",
@@ -527,7 +527,7 @@
  "slug":"al-maswalih-students-association-valiyaparappur",
  "category":"JUNIOR",
  "stage1":"04. പ്രസംഗം അറബി",
- "stae2":"04. പ്രസംഗം അറബി",
+ "stage2":"04. പ്രസംഗം അറബി",
  "offstage1":"21. ചിത്രരചന ",
  "offstage2":"26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
  },
@@ -540,7 +540,7 @@
  "slug":"al-maswalih-students-association-valiyaparappur",
  "category":"JUNIOR",
  "stage1":"09. ഗാനം അറബി",
- "stae2":"18. മദ്ഹുന്നബി",
+ "stage2":"18. മദ്ഹുന്നബി",
  "offstage1":"30. പ്രശ്‌നോത്തരി",
  "groupstage1":"19. അറബി സംഘഗാനം",
  "groupstage2":"20. മലയാള സമൂഹ ഗാനം"
@@ -554,7 +554,7 @@
  "slug":"al-maswalih-students-association-valiyaparappur",
  "category":"JUNIOR",
  "stage1":"02. ഹിഫ്‌ള്",
- "stae2":"07. പ്രസംഗം ഇംഗ്ലീഷ്",
+ "stage2":"07. പ്രസംഗം ഇംഗ്ലീഷ്",
  "offstage1":"25. കേട്ടെഴുത്ത് "
  },
  {
@@ -566,7 +566,7 @@
  "slug":"al-maswalih-students-association-valiyaparappur",
  "category":"JUNIOR",
  "stage1":"08. ഗ്രന്ഥവായന",
- "stae2":"16. പദപ്പയറ്റ് അറബി",
+ "stage2":"16. പദപ്പയറ്റ് അറബി",
  "offstage1":"23. മെമ്മറി ടെസ്റ്റ്"
  },
  {
@@ -578,7 +578,7 @@
  "slug":"al-maswalih-students-association-valiyaparappur",
  "category":"JUNIOR",
  "stage1":"05. പ്രസംഗം മലയാളം",
- "stae2":"10. മാപ്പിളപ്പാട്ട്",
+ "stage2":"10. മാപ്പിളപ്പാട്ട്",
  "stage3":"14. ഗദ്യവായന മലയാളം",
  "offstage2":"30. പ്രശ്‌നോത്തരി",
  "groupstage1":"20. മലയാള സമൂഹ ഗാനം"
@@ -656,7 +656,7 @@
  "slug":"badrul-huda-dars-koomanna",
  "category":"JUNIOR",
  "stage1":"10. മാപ്പിളപ്പാട്ട്",
- "stae2":"05. പ്രസംഗം മലയാളം",
+ "stage2":"05. പ്രസംഗം മലയാളം",
  "groupstage1":"20. മലയാള സമൂഹ ഗാനം"
  },
  {
@@ -710,7 +710,7 @@
  "slug":"badrul-huda-dars-koomanna",
  "category":"JUNIOR",
  "stage1":"09. ഗാനം അറബി",
- "stae2":"18. മദ്ഹുന്നബി",
+ "stage2":"18. മദ്ഹുന്നബി",
  "offstage1":"24. ഖത്തുന്നസ്ഖ്"
  },
  {
@@ -732,7 +732,7 @@
  "slug":"badrul-huda-dars-koomanna",
  "category":"JUNIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"02. ഹിഫ്‌ള്",
+ "stage2":"02. ഹിഫ്‌ള്",
  "stage3":"03. വാങ്ക്",
  "offstage1":"23. മെമ്മറി ടെസ്റ്റ്",
  "offstage2":"25. കേട്ടെഴുത്ത് "
@@ -818,7 +818,7 @@
  "slug":"bahjathul-hikam-dars-karathur",
  "category":"JUNIOR",
  "stage1":"18. മദ്ഹുന്നബി",
- "stae2":"12. ഗാനം ഉറുദു",
+ "stage2":"12. ഗാനം ഉറുദു",
  "stage3":"17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
  "groupstage1":"19. അറബി സംഘഗാനം",
  "groupstage2":"20. മലയാള സമൂഹ ഗാനം"
@@ -832,7 +832,7 @@
  "slug":"bahjathul-hikam-dars-karathur",
  "category":"JUNIOR",
  "stage1":"14. ഗദ്യവായന മലയാളം",
- "stae2":"10. മാപ്പിളപ്പാട്ട്",
+ "stage2":"10. മാപ്പിളപ്പാട്ട്",
  "groupstage1":"19. അറബി സംഘഗാനം",
  "groupstage2":"20. മലയാള സമൂഹ ഗാനം"
  },
@@ -868,7 +868,7 @@
  "slug":"bahjathul-hikam-dars-karathur",
  "category":"JUNIOR",
  "stage1":"04. പ്രസംഗം അറബി",
- "stae2":"06. പ്രസംഗം ഉറുദു",
+ "stage2":"06. പ്രസംഗം ഉറുദു",
  "offstage1":"27. നിഘണ്ടു നിര്‍മ്മാണം"
  },
  {
@@ -880,7 +880,7 @@
  "slug":"bahjathul-hikam-dars-karathur",
  "category":"JUNIOR",
  "stage1":"08. ഗ്രന്ഥവായന",
- "stae2":"16. പദപ്പയറ്റ് അറബി",
+ "stage2":"16. പദപ്പയറ്റ് അറബി",
  "offstage1":"25. കേട്ടെഴുത്ത് ",
  "offstage2":"28. തശ്കീല്‍"
  },
@@ -893,7 +893,7 @@
  "slug":"bahjathul-hikam-dars-karathur",
  "category":"JUNIOR",
  "stage1":"03. വാങ്ക്",
- "stae2":"11. മാലപ്പാട്ട്",
+ "stage2":"11. മാലപ്പാട്ട്",
  "stage3":"15. മുശാഅറ",
  "offstage1":"30. പ്രശ്‌നോത്തരി"
  },
@@ -927,7 +927,7 @@
  "slug":"bahjathul-huda-daras-edakkulam",
  "category":"JUNIOR",
  "stage1":"14. ഗദ്യവായന മലയാളം",
- "stae2":"17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
+ "stage2":"17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
  "offstage1":"23. മെമ്മറി ടെസ്റ്റ്"
  },
  {
@@ -973,7 +973,7 @@
  "slug":"bahjathul-huda-daras-edakkulam",
  "category":"JUNIOR",
  "stage1":"03. വാങ്ക്",
- "stae2":"09. ഗാനം അറബി",
+ "stage2":"09. ഗാനം അറബി",
  "stage3":"12. ഗാനം ഉറുദു",
  "groupstage1":"19. അറബി സംഘഗാനം",
  "groupstage2":"20. മലയാള സമൂഹ ഗാനം"
@@ -987,7 +987,7 @@
  "slug":"bahjathul-huda-daras-edakkulam",
  "category":"JUNIOR",
  "stage1":"04. പ്രസംഗം അറബി",
- "stae2":"15. മുശാഅറ",
+ "stage2":"15. മുശാഅറ",
  "stage3":"08. ഗ്രന്ഥവായന",
  "offstage1":"28. തശ്കീല്‍",
  "offstage2":"29. മലയാള പ്രബന്ധം",
@@ -1034,7 +1034,7 @@
  "slug":"bahjathul-huda-daras-edakkulam",
  "category":"JUNIOR",
  "stage1":"18. മദ്ഹുന്നബി",
- "stae2":"10. മാപ്പിളപ്പാട്ട്",
+ "stage2":"10. മാപ്പിളപ്പാട്ട്",
  "groupstage1":"19. അറബി സംഘഗാനം"
  },
  {
@@ -1068,7 +1068,7 @@
  "slug":"bayanul-uloom-dars-kodinhi",
  "category":"JUNIOR",
  "stage1":"08. ഗ്രന്ഥവായന",
- "stae2":"14. ഗദ്യവായന മലയാളം"
+ "stage2":"14. ഗദ്യവായന മലയാളം"
  },
  {
  "code":"TJ193",
@@ -1079,7 +1079,7 @@
  "slug":"bayanul-uloom-dars-kodinhi",
  "category":"JUNIOR",
  "stage1":"15. മുശാഅറ",
- "stae2":"18. മദ്ഹുന്നബി",
+ "stage2":"18. മദ്ഹുന്നബി",
  "groupstage1":"19. അറബി സംഘഗാനം",
  "groupstage2":"20. മലയാള സമൂഹ ഗാനം"
  },
@@ -1197,7 +1197,7 @@
  "slug":"bayanul-uloom-dars-kodinhi",
  "category":"JUNIOR",
  "stage1":"12. ഗാനം ഉറുദു",
- "stae2":"03. വാങ്ക്",
+ "stage2":"03. വാങ്ക്",
  "stage3":"01. ഖിറാഅത്ത്",
  "offstage1":"30. പ്രശ്‌നോത്തരി",
  "offstage2":"28. തശ്കീല്‍",
@@ -1214,7 +1214,7 @@
  "slug":"bayanul-uloom-dars-kodinhi",
  "category":"JUNIOR",
  "stage1":"07. പ്രസംഗം ഇംഗ്ലീഷ്",
- "stae2":"04. പ്രസംഗം അറബി",
+ "stage2":"04. പ്രസംഗം അറബി",
  "stage3":"17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
  "offstage1":"25. കേട്ടെഴുത്ത് ",
  "offstage2":"24. ഖത്തുന്നസ്ഖ്",
@@ -1250,7 +1250,7 @@
  "slug":"bayanul-uloom-dars-muttichira",
  "category":"JUNIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"03. വാങ്ക്",
+ "stage2":"03. വാങ്ക്",
  "offstage1":"27. നിഘണ്ടു നിര്‍മ്മാണം",
  "groupstage1":"19. അറബി സംഘഗാനം"
  },
@@ -1297,7 +1297,7 @@
  "slug":"bayanul-uloom-dars-muttichira",
  "category":"JUNIOR",
  "stage1":"04. പ്രസംഗം അറബി",
- "stae2":"10. മാപ്പിളപ്പാട്ട്",
+ "stage2":"10. മാപ്പിളപ്പാട്ട്",
  "stage3":"11. മാലപ്പാട്ട്",
  "groupstage1":"19. അറബി സംഘഗാനം",
  "groupstage2":"20. മലയാള സമൂഹ ഗാനം"
@@ -1321,7 +1321,7 @@
  "slug":"bayanul-uloom-dars-muttichira",
  "category":"JUNIOR",
  "stage1":"15. മുശാഅറ",
- "stae2":"06. പ്രസംഗം ഉറുദു"
+ "stage2":"06. പ്രസംഗം ഉറുദു"
  },
  {
  "code":"TJ215",
@@ -1342,7 +1342,7 @@
  "slug":"bayanul-uloom-dars-muttichira",
  "category":"JUNIOR",
  "stage1":"09. ഗാനം അറബി",
- "stae2":"12. ഗാനം ഉറുദു",
+ "stage2":"12. ഗാനം ഉറുദു",
  "stage3":"18. മദ്ഹുന്നബി",
  "groupstage1":"19. അറബി സംഘഗാനം",
  "groupstage2":"20. മലയാള സമൂഹ ഗാനം"
@@ -1417,7 +1417,7 @@
  "slug":"bayanul-uloom-dars-omachappuzha",
  "category":"JUNIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"12. ഗാനം ഉറുദു",
+ "stage2":"12. ഗാനം ഉറുദു",
  "stage3":"13. കഥ പറച്ചില്‍"
  },
  {
@@ -1439,7 +1439,7 @@
  "slug":"bayanul-uloom-dars-omachappuzha",
  "category":"JUNIOR",
  "stage1":"10. മാപ്പിളപ്പാട്ട്",
- "stae2":"11. മാലപ്പാട്ട്",
+ "stage2":"11. മാലപ്പാട്ട്",
  "stage3":"18. മദ്ഹുന്നബി",
  "groupstage1":"19. അറബി സംഘഗാനം",
  "groupstage2":"20. മലയാള സമൂഹ ഗാനം"
@@ -1484,7 +1484,7 @@
  "slug":"bayanul-uloom-dars-omachappuzha",
  "category":"JUNIOR",
  "stage1":"05. പ്രസംഗം മലയാളം",
- "stae2":"06. പ്രസംഗം ഉറുദു",
+ "stage2":"06. പ്രസംഗം ഉറുദു",
  "stage3":"15. മുശാഅറ",
  "offstage1":"30. പ്രശ്‌നോത്തരി",
  "offstage2":"29. മലയാള പ്രബന്ധം"
@@ -1518,7 +1518,7 @@
  "slug":"bayanul-uloom-dars-omachappuzha",
  "category":"JUNIOR",
  "stage1":"02. ഹിഫ്‌ള്",
- "stae2":"03. വാങ്ക്"
+ "stage2":"03. വാങ്ക്"
  },
  {
  "code":"TJ233",
@@ -1529,7 +1529,7 @@
  "slug":"bayanul-uloom-dars-omachappuzha",
  "category":"JUNIOR",
  "stage1":"08. ഗ്രന്ഥവായന",
- "stae2":"14. ഗദ്യവായന മലയാളം",
+ "stage2":"14. ഗദ്യവായന മലയാളം",
  "offstage1":"22. സുഡോക്കു",
  "offstage2":"25. കേട്ടെഴുത്ത് "
  },
@@ -1542,7 +1542,7 @@
  "slug":"bayanul-uloom-dars-omachappuzha",
  "category":"JUNIOR",
  "stage1":"04. പ്രസംഗം അറബി",
- "stae2":"09. ഗാനം അറബി",
+ "stage2":"09. ഗാനം അറബി",
  "stage3":"16. പദപ്പയറ്റ് അറബി",
  "offstage1":"27. നിഘണ്ടു നിര്‍മ്മാണം"
  },
@@ -1595,7 +1595,7 @@
  "slug":"bayanul-uloom-dars-puthantheru",
  "category":"JUNIOR",
  "stage1":"06. പ്രസംഗം ഉറുദു",
- "stae2":"13. കഥ പറച്ചില്‍",
+ "stage2":"13. കഥ പറച്ചില്‍",
  "offstage1":"23. മെമ്മറി ടെസ്റ്റ്",
  "offstage2":"26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
  "offstage3":"21. ചിത്രരചന "
@@ -1609,7 +1609,7 @@
  "slug":"bayanul-uloom-dars-puthantheru",
  "category":"JUNIOR",
  "stage1":"04. പ്രസംഗം അറബി",
- "stae2":"08. ഗ്രന്ഥവായന",
+ "stage2":"08. ഗ്രന്ഥവായന",
  "stage3":"16. പദപ്പയറ്റ് അറബി",
  "offstage1":"27. നിഘണ്ടു നിര്‍മ്മാണം",
  "offstage2":"28. തശ്കീല്‍",
@@ -1635,7 +1635,7 @@
  "slug":"bayanul-uloom-dars-puthantheru",
  "category":"JUNIOR",
  "stage1":"09. ഗാനം അറബി",
- "stae2":"12. ഗാനം ഉറുദു",
+ "stage2":"12. ഗാനം ഉറുദു",
  "stage3":"18. മദ്ഹുന്നബി",
  "groupstage1":"19. അറബി സംഘഗാനം"
  },
@@ -1648,7 +1648,7 @@
  "slug":"bayanul-uloom-dars-puthantheru",
  "category":"JUNIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"03. വാങ്ക്",
+ "stage2":"03. വാങ്ക്",
  "stage3":"05. പ്രസംഗം മലയാളം",
  "groupstage1":"20. മലയാള സമൂഹ ഗാനം"
  },
@@ -1775,7 +1775,7 @@
  "slug":"darul-hidaya-dars-ullanam",
  "category":"JUNIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"16. പദപ്പയറ്റ് അറബി",
+ "stage2":"16. പദപ്പയറ്റ് അറബി",
  "stage3":"09. ഗാനം അറബി",
  "groupstage1":"19. അറബി സംഘഗാനം"
  },
@@ -1787,7 +1787,7 @@
  "zone":"TIRURANGADI",
  "slug":"darul-hidaya-dars-ullanam",
  "category":"JUNIOR",
- "stae2":"11. മാലപ്പാട്ട്",
+ "stage2":"11. മാലപ്പാട്ട്",
  "stage3":"18. മദ്ഹുന്നബി",
  "groupstage1":"20. മലയാള സമൂഹ ഗാനം"
  },
@@ -1800,7 +1800,7 @@
  "slug":"darul-hidaya-dars-ullanam",
  "category":"JUNIOR",
  "stage1":"03. വാങ്ക്",
- "stae2":"12. ഗാനം ഉറുദു",
+ "stage2":"12. ഗാനം ഉറുദു",
  "groupstage1":"20. മലയാള സമൂഹ ഗാനം"
  },
  {
@@ -1821,7 +1821,7 @@
  "zone":"TIRURANGADI",
  "slug":"darul-hidaya-dars-ullanam",
  "category":"JUNIOR",
- "stae2":"17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
+ "stage2":"17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
  "stage3":"15. മുശാഅറ",
  "groupstage1":"19. അറബി സംഘഗാനം"
  },
@@ -1867,7 +1867,7 @@
  "slug":"darul-hidaya-dars-ullanam",
  "category":"JUNIOR",
  "stage1":"04. പ്രസംഗം അറബി",
- "stae2":"05. പ്രസംഗം മലയാളം",
+ "stage2":"05. പ്രസംഗം മലയാളം",
  "stage3":"07. പ്രസംഗം ഇംഗ്ലീഷ്",
  "offstage1":"21. ചിത്രരചന ",
  "offstage2":"27. നിഘണ്ടു നിര്‍മ്മാണം"
@@ -1891,7 +1891,7 @@
  "slug":"darul-uloom-dars-korad",
  "category":"JUNIOR",
  "stage1":"05. പ്രസംഗം മലയാളം",
- "stae2":"13. കഥ പറച്ചില്‍",
+ "stage2":"13. കഥ പറച്ചില്‍",
  "stage3":"17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്"
  },
  {
@@ -1927,7 +1927,7 @@
  "zone":"TIRURANGADI",
  "slug":"darul-uloom-dars-korad",
  "category":"JUNIOR",
- "stae2":"11. മാലപ്പാട്ട്",
+ "stage2":"11. മാലപ്പാട്ട്",
  "groupstage1":"20. മലയാള സമൂഹ ഗാനം"
  },
  {
@@ -1939,7 +1939,7 @@
  "slug":"darul-uloom-dars-korad",
  "category":"JUNIOR",
  "stage1":"10. മാപ്പിളപ്പാട്ട്",
- "stae2":"18. മദ്ഹുന്നബി",
+ "stage2":"18. മദ്ഹുന്നബി",
  "offstage2":"23. മെമ്മറി ടെസ്റ്റ്",
  "offstage3":"25. കേട്ടെഴുത്ത് ",
  "groupstage1":"19. അറബി സംഘഗാനം"
@@ -1953,7 +1953,7 @@
  "slug":"darul-uloom-dars-korad",
  "category":"JUNIOR",
  "stage1":"15. മുശാഅറ",
- "stae2":"16. പദപ്പയറ്റ് അറബി",
+ "stage2":"16. പദപ്പയറ്റ് അറബി",
  "offstage1":"29. മലയാള പ്രബന്ധം",
  "offstage3":"29. മലയാള പ്രബന്ധം"
  },
@@ -1986,7 +1986,7 @@
  "slug":"darul-uloom-dars-korad",
  "category":"JUNIOR",
  "stage1":"15. മുശാഅറ",
- "stae2":"16. പദപ്പയറ്റ് അറബി",
+ "stage2":"16. പദപ്പയറ്റ് അറബി",
  "offstage2":"29. മലയാള പ്രബന്ധം",
  "offstage3":"28. തശ്കീല്‍"
  },
@@ -1999,7 +1999,7 @@
  "slug":"darul-uloom-dars-korad",
  "category":"JUNIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"02. ഹിഫ്‌ള്",
+ "stage2":"02. ഹിഫ്‌ള്",
  "stage3":"03. വാങ്ക്"
  },
  {
@@ -2011,7 +2011,7 @@
  "slug":"daruthanveer-dars-koomanna",
  "category":"JUNIOR",
  "stage1":"07. പ്രസംഗം ഇംഗ്ലീഷ്",
- "stae2":"08. ഗ്രന്ഥവായന",
+ "stage2":"08. ഗ്രന്ഥവായന",
  "offstage1":"25. കേട്ടെഴുത്ത് ",
  "offstage2":"27. നിഘണ്ടു നിര്‍മ്മാണം",
  "offstage3":"28. തശ്കീല്‍"
@@ -2048,7 +2048,7 @@
  "slug":"daruthanveer-dars-koomanna",
  "category":"JUNIOR",
  "stage1":"05. പ്രസംഗം മലയാളം",
- "stae2":"18. മദ്ഹുന്നബി",
+ "stage2":"18. മദ്ഹുന്നബി",
  "offstage1":"26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
  },
  {
@@ -2071,7 +2071,7 @@
  "slug":"daruthanveer-dars-koomanna",
  "category":"JUNIOR",
  "stage1":"06. പ്രസംഗം ഉറുദു",
- "stae2":"16. പദപ്പയറ്റ് അറബി",
+ "stage2":"16. പദപ്പയറ്റ് അറബി",
  "offstage1":"23. മെമ്മറി ടെസ്റ്റ്",
  "offstage2":"30. പ്രശ്‌നോത്തരി"
  },
@@ -2094,7 +2094,7 @@
  "slug":"daruthanveer-dars-koomanna",
  "category":"JUNIOR",
  "stage1":"02. ഹിഫ്‌ള്",
- "stae2":"10. മാപ്പിളപ്പാട്ട്"
+ "stage2":"10. മാപ്പിളപ്പാട്ട്"
  },
  {
  "code":"TJ283",
@@ -2125,7 +2125,7 @@
  "slug":"inarathul-huda-dars-chelari",
  "category":"JUNIOR",
  "stage1":"05. പ്രസംഗം മലയാളം",
- "stae2":"01. ഖിറാഅത്ത്",
+ "stage2":"01. ഖിറാഅത്ത്",
  "stage3":"10. മാപ്പിളപ്പാട്ട്",
  "offstage2":"29. മലയാള പ്രബന്ധം",
  "offstage3":"25. കേട്ടെഴുത്ത് ",
@@ -2140,7 +2140,7 @@
  "slug":"inarathul-huda-dars-chelari",
  "category":"JUNIOR",
  "stage1":"10. മാപ്പിളപ്പാട്ട്",
- "stae2":"17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
+ "stage2":"17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
  "stage3":"09. ഗാനം അറബി",
  "offstage1":"23. മെമ്മറി ടെസ്റ്റ്",
  "offstage2":"25. കേട്ടെഴുത്ത് ",
@@ -2166,7 +2166,7 @@
  "slug":"jamalullail-dars-ayyaya",
  "category":"JUNIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"03. വാങ്ക്"
+ "stage2":"03. വാങ്ക്"
  },
  {
  "code":"TJ289",
@@ -2187,7 +2187,7 @@
  "slug":"jamalullail-dars-ayyaya",
  "category":"JUNIOR",
  "stage1":"07. പ്രസംഗം ഇംഗ്ലീഷ്",
- "stae2":"08. ഗ്രന്ഥവായന"
+ "stage2":"08. ഗ്രന്ഥവായന"
  },
  {
  "code":"TJ291",
@@ -2198,7 +2198,7 @@
  "slug":"jamalullail-dars-ayyaya",
  "category":"JUNIOR",
  "stage1":"11. മാലപ്പാട്ട്",
- "stae2":"14. ഗദ്യവായന മലയാളം",
+ "stage2":"14. ഗദ്യവായന മലയാളം",
  "stage3":"17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
  "offstage1":"27. നിഘണ്ടു നിര്‍മ്മാണം",
  "offstage2":"23. മെമ്മറി ടെസ്റ്റ്",
@@ -2226,7 +2226,7 @@
  "slug":"jamalullail-dars-ayyaya",
  "category":"JUNIOR",
  "stage1":"02. ഹിഫ്‌ള്",
- "stae2":"04. പ്രസംഗം അറബി",
+ "stage2":"04. പ്രസംഗം അറബി",
  "stage3":"16. പദപ്പയറ്റ് അറബി"
  },
  {
@@ -2238,7 +2238,7 @@
  "slug":"jamalullail-dars-ayyaya",
  "category":"JUNIOR",
  "stage1":"09. ഗാനം അറബി",
- "stae2":"10. മാപ്പിളപ്പാട്ട്",
+ "stage2":"10. മാപ്പിളപ്പാട്ട്",
  "stage3":"12. ഗാനം ഉറുദു",
  "offstage1":"29. മലയാള പ്രബന്ധം",
  "groupstage1":"19. അറബി സംഘഗാനം",
@@ -2380,7 +2380,7 @@
  "slug":"manshaul-uloom-dars-puthupparamba",
  "category":"JUNIOR",
  "stage1":"02. ഹിഫ്‌ള്",
- "stae2":"14. ഗദ്യവായന മലയാളം",
+ "stage2":"14. ഗദ്യവായന മലയാളം",
  "stage3":"16. പദപ്പയറ്റ് അറബി"
  },
  {
@@ -2392,7 +2392,7 @@
  "slug":"manshaul-uloom-dars-puthupparamba",
  "category":"JUNIOR",
  "stage1":"03. വാങ്ക്",
- "stae2":"09. ഗാനം അറബി",
+ "stage2":"09. ഗാനം അറബി",
  "stage3":"12. ഗാനം ഉറുദു",
  "offstage1":"25. കേട്ടെഴുത്ത് ",
  "offstage2":"26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
@@ -2409,7 +2409,7 @@
  "slug":"manshaul-uloom-dars-puthupparamba",
  "category":"JUNIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"08. ഗ്രന്ഥവായന",
+ "stage2":"08. ഗ്രന്ഥവായന",
  "offstage1":"24. ഖത്തുന്നസ്ഖ്",
  "offstage2":"29. മലയാള പ്രബന്ധം",
  "offstage3":"30. പ്രശ്‌നോത്തരി"
@@ -2445,7 +2445,7 @@
  "slug":"manshaul-uloom-kunnathparamb",
  "category":"JUNIOR",
  "stage1":"13. കഥ പറച്ചില്‍",
- "stae2":"15. മുശാഅറ",
+ "stage2":"15. മുശാഅറ",
  "stage3":"16. പദപ്പയറ്റ് അറബി",
  "offstage1":"22. സുഡോക്കു",
  "offstage2":"28. തശ്കീല്‍",
@@ -2493,7 +2493,7 @@
  "zone":"TIRURANGADI",
  "slug":"manshaul-uloom-kunnathparamb",
  "category":"JUNIOR",
- "stae2":"07. പ്രസംഗം ഇംഗ്ലീഷ്"
+ "stage2":"07. പ്രസംഗം ഇംഗ്ലീഷ്"
  },
  {
  "code":"TJ317",
@@ -2504,7 +2504,7 @@
  "slug":"manshaul-uloom-kunnathparamb",
  "category":"JUNIOR",
  "stage1":"12. ഗാനം ഉറുദു",
- "stae2":"17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
+ "stage2":"17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
  "groupstage1":"19. അറബി സംഘഗാനം",
  "groupstage2":"20. മലയാള സമൂഹ ഗാനം"
  },
@@ -2591,7 +2591,7 @@
  "slug":"markazul-ulama-dars-apla",
  "category":"JUNIOR",
  "stage1":"18. മദ്ഹുന്നബി",
- "stae2":"10. മാപ്പിളപ്പാട്ട്",
+ "stage2":"10. മാപ്പിളപ്പാട്ട്",
  "stage3":"12. ഗാനം ഉറുദു",
  "offstage1":"23. മെമ്മറി ടെസ്റ്റ്"
  },
@@ -2604,7 +2604,7 @@
  "slug":"markazul-ulama-dars-apla",
  "category":"JUNIOR",
  "stage1":"05. പ്രസംഗം മലയാളം",
- "stae2":"03. വാങ്ക്",
+ "stage2":"03. വാങ്ക്",
  "stage3":"13. കഥ പറച്ചില്‍"
  },
  {
@@ -2616,7 +2616,7 @@
  "slug":"markazul-ulama-dars-farookabad",
  "category":"JUNIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"16. പദപ്പയറ്റ് അറബി",
+ "stage2":"16. പദപ്പയറ്റ് അറബി",
  "stage3":"05. പ്രസംഗം മലയാളം",
  "offstage1":"21. ചിത്രരചന ",
  "offstage2":"23. മെമ്മറി ടെസ്റ്റ്",
@@ -2652,7 +2652,7 @@
  "slug":"markazul-ulama-dars-farookabad",
  "category":"JUNIOR",
  "stage1":"09. ഗാനം അറബി",
- "stae2":"08. ഗ്രന്ഥവായന",
+ "stage2":"08. ഗ്രന്ഥവായന",
  "offstage1":"29. മലയാള പ്രബന്ധം",
  "offstage2":"27. നിഘണ്ടു നിര്‍മ്മാണം",
  "offstage3":"25. കേട്ടെഴുത്ത് "
@@ -2679,7 +2679,7 @@
  "slug":"markazul-ulama-dars-farookabad",
  "category":"JUNIOR",
  "stage1":"10. മാപ്പിളപ്പാട്ട്",
- "stae2":"13. കഥ പറച്ചില്‍",
+ "stage2":"13. കഥ പറച്ചില്‍",
  "offstage3":"23. മെമ്മറി ടെസ്റ്റ്"
  },
  {
@@ -2691,7 +2691,7 @@
  "slug":"markazul-ulama-dars-farookabad",
  "category":"JUNIOR",
  "stage1":"13. കഥ പറച്ചില്‍",
- "stae2":"18. മദ്ഹുന്നബി",
+ "stage2":"18. മദ്ഹുന്നബി",
  "offstage1":"23. മെമ്മറി ടെസ്റ്റ്",
  "offstage2":"25. കേട്ടെഴുത്ത് "
  },
@@ -2704,7 +2704,7 @@
  "slug":"markazul-ulama-dars-farookabad",
  "category":"JUNIOR",
  "stage1":"05. പ്രസംഗം മലയാളം",
- "stae2":"16. പദപ്പയറ്റ് അറബി",
+ "stage2":"16. പദപ്പയറ്റ് അറബി",
  "stage3":"03. വാങ്ക്",
  "offstage1":"21. ചിത്രരചന ",
  "offstage2":"23. മെമ്മറി ടെസ്റ്റ്",
@@ -2751,7 +2751,7 @@
  "slug":"markazul-ulama-dars-palathingal",
  "category":"JUNIOR",
  "stage1":"18. മദ്ഹുന്നബി",
- "stae2":"12. ഗാനം ഉറുദു"
+ "stage2":"12. ഗാനം ഉറുദു"
  },
  {
  "code":"TJ339",
@@ -2782,7 +2782,7 @@
  "slug":"markazul-ulama-dars-palathingal",
  "category":"JUNIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"09. ഗാനം അറബി",
+ "stage2":"09. ഗാനം അറബി",
  "stage3":"18. മദ്ഹുന്നബി",
  "groupstage1":"19. അറബി സംഘഗാനം",
  "groupstage2":"20. മലയാള സമൂഹ ഗാനം"
@@ -2796,7 +2796,7 @@
  "slug":"markazul-ulama-dars-palathingal",
  "category":"JUNIOR",
  "stage1":"03. വാങ്ക്",
- "stae2":"13. കഥ പറച്ചില്‍",
+ "stage2":"13. കഥ പറച്ചില്‍",
  "groupstage1":"19. അറബി സംഘഗാനം",
  "groupstage2":"20. മലയാള സമൂഹ ഗാനം"
  },
@@ -2881,7 +2881,7 @@
  "slug":"markazul-ulama-dars-panambra",
  "category":"JUNIOR",
  "stage1":"03. വാങ്ക്",
- "stae2":"18. മദ്ഹുന്നബി",
+ "stage2":"18. മദ്ഹുന്നബി",
  "groupstage1":"20. മലയാള സമൂഹ ഗാനം"
  },
  {
@@ -2893,7 +2893,7 @@
  "slug":"markazul-ulama-dars-panambra",
  "category":"JUNIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"07. പ്രസംഗം ഇംഗ്ലീഷ്",
+ "stage2":"07. പ്രസംഗം ഇംഗ്ലീഷ്",
  "stage3":"04. പ്രസംഗം അറബി"
  },
  {
@@ -2915,7 +2915,7 @@
  "slug":"markazul-ulama-dars-panambra",
  "category":"JUNIOR",
  "stage1":"05. പ്രസംഗം മലയാളം",
- "stae2":"15. മുശാഅറ",
+ "stage2":"15. മുശാഅറ",
  "stage3":"17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
  "offstage1":"23. മെമ്മറി ടെസ്റ്റ്"
  },
@@ -2960,7 +2960,7 @@
  "slug":"markazul-ulama-dars-panambra",
  "category":"JUNIOR",
  "stage1":"10. മാപ്പിളപ്പാട്ട്",
- "stae2":"11. മാലപ്പാട്ട്",
+ "stage2":"11. മാലപ്പാട്ട്",
  "stage3":"12. ഗാനം ഉറുദു",
  "offstage1":"29. മലയാള പ്രബന്ധം",
  "offstage2":"30. പ്രശ്‌നോത്തരി"
@@ -2985,7 +2985,7 @@
  "slug":"markazul-ulama-dars-panambra",
  "category":"JUNIOR",
  "stage1":"16. പദപ്പയറ്റ് അറബി",
- "stae2":"14. ഗദ്യവായന മലയാളം"
+ "stage2":"14. ഗദ്യവായന മലയാളം"
  },
  {
  "code":"TJ360",
@@ -3078,7 +3078,7 @@
  "zone":"TIRURANGADI",
  "slug":"munavvirul-islam-dars-cherushola",
  "category":"JUNIOR",
- "stae2":"08. ഗ്രന്ഥവായന",
+ "stage2":"08. ഗ്രന്ഥവായന",
  "stage3":"14. ഗദ്യവായന മലയാളം"
  },
  {
@@ -3090,7 +3090,7 @@
  "slug":"munavvirul-islam-dars-cherushola",
  "category":"JUNIOR",
  "stage1":"08. ഗ്രന്ഥവായന",
- "stae2":"14. ഗദ്യവായന മലയാളം"
+ "stage2":"14. ഗദ്യവായന മലയാളം"
  },
  {
  "code":"TJ370",
@@ -3122,7 +3122,7 @@
  "zone":"TIRURANGADI",
  "slug":"munavvirul-islam-dars-cherushola",
  "category":"JUNIOR",
- "stae2":"09. ഗാനം അറബി",
+ "stage2":"09. ഗാനം അറബി",
  "groupstage1":"19. അറബി സംഘഗാനം"
  },
  {
@@ -3156,7 +3156,7 @@
  "slug":"munavvirul-islam-dars-cherushola",
  "category":"JUNIOR",
  "stage1":"10. മാപ്പിളപ്പാട്ട്",
- "stae2":"16. പദപ്പയറ്റ് അറബി",
+ "stage2":"16. പദപ്പയറ്റ് അറബി",
  "offstage1":"25. കേട്ടെഴുത്ത് ",
  "offstage2":"30. പ്രശ്‌നോത്തരി",
  "offstage3":"25. കേട്ടെഴുത്ത് ",
@@ -3192,7 +3192,7 @@
  "zone":"TIRURANGADI",
  "slug":"munavvirul-islam-dars-cherushola",
  "category":"JUNIOR",
- "stae2":"18. മദ്ഹുന്നബി",
+ "stage2":"18. മദ്ഹുന്നബി",
  "stage3":"03. വാങ്ക്",
  "groupstage1":"19. അറബി സംഘഗാനം"
  },
@@ -3216,7 +3216,7 @@
  "slug":"munavvirul-islam-dars-cherushola",
  "category":"JUNIOR",
  "stage1":"02. ഹിഫ്‌ള്",
- "stae2":"04. പ്രസംഗം അറബി"
+ "stage2":"04. പ്രസംഗം അറബി"
  },
  {
  "code":"TJ381",
@@ -3247,7 +3247,7 @@
  "slug":"munavvirul-islam-dars-cherushola",
  "category":"JUNIOR",
  "stage1":"10. മാപ്പിളപ്പാട്ട്",
- "stae2":"16. പദപ്പയറ്റ് അറബി",
+ "stage2":"16. പദപ്പയറ്റ് അറബി",
  "offstage1":"25. കേട്ടെഴുത്ത് ",
  "offstage2":"28. തശ്കീല്‍",
  "groupstage1":"19. അറബി സംഘഗാനം"
@@ -3261,7 +3261,7 @@
  "slug":"munavvirul-islam-dars-cherushola",
  "category":"JUNIOR",
  "stage1":"02. ഹിഫ്‌ള്",
- "stae2":"04. പ്രസംഗം അറബി",
+ "stage2":"04. പ്രസംഗം അറബി",
  "offstage1":"30. പ്രശ്‌നോത്തരി"
  },
  {
@@ -3283,7 +3283,7 @@
  "slug":"nooru-thwalaba-dars-edarikode",
  "category":"JUNIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"02. ഹിഫ്‌ള്",
+ "stage2":"02. ഹിഫ്‌ള്",
  "stage3":"09. ഗാനം അറബി",
  "groupstage1":"19. അറബി സംഘഗാനം",
  "groupstage2":"20. മലയാള സമൂഹ ഗാനം"
@@ -3307,7 +3307,7 @@
  "slug":"nooru-thwalaba-dars-edarikode",
  "category":"JUNIOR",
  "stage1":"05. പ്രസംഗം മലയാളം",
- "stae2":"07. പ്രസംഗം ഇംഗ്ലീഷ്",
+ "stage2":"07. പ്രസംഗം ഇംഗ്ലീഷ്",
  "stage3":"14. ഗദ്യവായന മലയാളം",
  "offstage1":"30. പ്രശ്‌നോത്തരി"
  },
@@ -3384,7 +3384,7 @@
  "slug":"nooru-thwalaba-dars-edarikode",
  "category":"JUNIOR",
  "stage1":"08. ഗ്രന്ഥവായന",
- "stae2":"16. പദപ്പയറ്റ് അറബി",
+ "stage2":"16. പദപ്പയറ്റ് അറബി",
  "stage3":"17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
  "offstage1":"22. സുഡോക്കു",
  "offstage2":"28. തശ്കീല്‍",
@@ -3409,7 +3409,7 @@
  "slug":"nooru-thwalaba-dars-edarikode",
  "category":"JUNIOR",
  "stage1":"04. പ്രസംഗം അറബി",
- "stae2":"11. മാലപ്പാട്ട്",
+ "stage2":"11. മാലപ്പാട്ട്",
  "offstage3":"29. മലയാള പ്രബന്ധം"
  },
  {
@@ -3421,7 +3421,7 @@
  "slug":"nooru-thwalaba-dars-edarikode",
  "category":"JUNIOR",
  "stage1":"12. ഗാനം ഉറുദു",
- "stae2":"18. മദ്ഹുന്നബി",
+ "stage2":"18. മദ്ഹുന്നബി",
  "groupstage1":"19. അറബി സംഘഗാനം",
  "groupstage2":"20. മലയാള സമൂഹ ഗാനം"
  },
@@ -3434,7 +3434,7 @@
  "slug":"subulussalam-dars-kozhippuram",
  "category":"JUNIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"03. വാങ്ക്",
+ "stage2":"03. വാങ്ക്",
  "stage3":"11. മാലപ്പാട്ട്",
  "groupstage1":"19. അറബി സംഘഗാനം",
  "groupstage2":"20. മലയാള സമൂഹ ഗാനം"
@@ -3448,7 +3448,7 @@
  "slug":"subulussalam-dars-kozhippuram",
  "category":"JUNIOR",
  "stage1":"09. ഗാനം അറബി",
- "stae2":"10. മാപ്പിളപ്പാട്ട്",
+ "stage2":"10. മാപ്പിളപ്പാട്ട്",
  "groupstage1":"19. അറബി സംഘഗാനം",
  "groupstage2":"20. മലയാള സമൂഹ ഗാനം"
  },
@@ -3461,7 +3461,7 @@
  "slug":"subulussalam-dars-kozhippuram",
  "category":"JUNIOR",
  "stage1":"04. പ്രസംഗം അറബി",
- "stae2":"08. ഗ്രന്ഥവായന",
+ "stage2":"08. ഗ്രന്ഥവായന",
  "stage3":"16. പദപ്പയറ്റ് അറബി",
  "offstage1":"24. ഖത്തുന്നസ്ഖ്",
  "offstage2":"28. തശ്കീല്‍",
@@ -3574,7 +3574,7 @@
  "slug":"subulussalam-dars-kozhippuram",
  "category":"JUNIOR",
  "stage1":"07. പ്രസംഗം ഇംഗ്ലീഷ്",
- "stae2":"14. ഗദ്യവായന മലയാളം"
+ "stage2":"14. ഗദ്യവായന മലയാളം"
  },
  {
  "code":"TJ412",
@@ -3625,7 +3625,7 @@
  "slug":"thamreenu-thwalaba-ananthavoor",
  "category":"JUNIOR",
  "stage1":"05. പ്രസംഗം മലയാളം",
- "stae2":"08. ഗ്രന്ഥവായന",
+ "stage2":"08. ഗ്രന്ഥവായന",
  "stage3":"14. ഗദ്യവായന മലയാളം",
  "offstage1":"22. സുഡോക്കു",
  "offstage2":"25. കേട്ടെഴുത്ത് ",
@@ -3641,7 +3641,7 @@
  "slug":"thamreenu-thwalaba-ananthavoor",
  "category":"JUNIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"07. പ്രസംഗം ഇംഗ്ലീഷ്",
+ "stage2":"07. പ്രസംഗം ഇംഗ്ലീഷ്",
  "stage3":"17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
  "offstage1":"23. മെമ്മറി ടെസ്റ്റ്",
  "offstage2":"24. ഖത്തുന്നസ്ഖ്",
@@ -3657,7 +3657,7 @@
  "slug":"thamreenu-thwalaba-ananthavoor",
  "category":"JUNIOR",
  "stage1":"02. ഹിഫ്‌ള്",
- "stae2":"13. കഥ പറച്ചില്‍",
+ "stage2":"13. കഥ പറച്ചില്‍",
  "groupstage1":"19. അറബി സംഘഗാനം"
  },
  {
@@ -3669,7 +3669,7 @@
  "slug":"thamreenu-thwalaba-ananthavoor",
  "category":"JUNIOR",
  "stage1":"09. ഗാനം അറബി",
- "stae2":"10. മാപ്പിളപ്പാട്ട്",
+ "stage2":"10. മാപ്പിളപ്പാട്ട്",
  "stage3":"11. മാലപ്പാട്ട്",
  "offstage1":"21. ചിത്രരചന ",
  "offstage2":"27. നിഘണ്ടു നിര്‍മ്മാണം",
@@ -3697,7 +3697,7 @@
  "slug":"ttss-kundukulam",
  "category":"JUNIOR",
  "stage1":"02. ഹിഫ്‌ള്",
- "stae2":"05. പ്രസംഗം മലയാളം",
+ "stage2":"05. പ്രസംഗം മലയാളം",
  "stage3":"17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
  "offstage1":"29. മലയാള പ്രബന്ധം"
  },
@@ -3710,7 +3710,7 @@
  "slug":"ttss-kundukulam",
  "category":"JUNIOR",
  "stage1":"06. പ്രസംഗം ഉറുദു",
- "stae2":"10. മാപ്പിളപ്പാട്ട്",
+ "stage2":"10. മാപ്പിളപ്പാട്ട്",
  "offstage1":"24. ഖത്തുന്നസ്ഖ്",
  "groupstage1":"19. അറബി സംഘഗാനം",
  "groupstage2":"20. മലയാള സമൂഹ ഗാനം"
@@ -3724,7 +3724,7 @@
  "slug":"ttss-kundukulam",
  "category":"JUNIOR",
  "stage1":"03. വാങ്ക്",
- "stae2":"01. ഖിറാഅത്ത്",
+ "stage2":"01. ഖിറാഅത്ത്",
  "stage3":"09. ഗാനം അറബി",
  "offstage1":"23. മെമ്മറി ടെസ്റ്റ്",
  "groupstage1":"19. അറബി സംഘഗാനം",
@@ -3739,7 +3739,7 @@
  "slug":"ttss-kundukulam",
  "category":"JUNIOR",
  "stage1":"18. മദ്ഹുന്നബി",
- "stae2":"12. ഗാനം ഉറുദു",
+ "stage2":"12. ഗാനം ഉറുദു",
  "groupstage1":"19. അറബി സംഘഗാനം",
  "groupstage2":"20. മലയാള സമൂഹ ഗാനം"
  },
@@ -3773,7 +3773,7 @@
  "slug":"ttss-kundukulam",
  "category":"JUNIOR",
  "stage1":"08. ഗ്രന്ഥവായന",
- "stae2":"13. കഥ പറച്ചില്‍",
+ "stage2":"13. കഥ പറച്ചില്‍",
  "stage3":"16. പദപ്പയറ്റ് അറബി",
  "offstage1":"25. കേട്ടെഴുത്ത് ",
  "offstage2":"28. തശ്കീല്‍",
@@ -3788,7 +3788,7 @@
  "slug":"vasiliyah-dars-kundukulam",
  "category":"JUNIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"02. ഹിഫ്‌ള്",
+ "stage2":"02. ഹിഫ്‌ള്",
  "groupstage1":"20. മലയാള സമൂഹ ഗാനം"
  },
  {
@@ -3800,7 +3800,7 @@
  "slug":"vasiliyah-dars-kundukulam",
  "category":"JUNIOR",
  "stage1":"03. വാങ്ക്",
- "stae2":"10. മാപ്പിളപ്പാട്ട്",
+ "stage2":"10. മാപ്പിളപ്പാട്ട്",
  "stage3":"11. മാലപ്പാട്ട്",
  "groupstage1":"19. അറബി സംഘഗാനം",
  "groupstage2":"20. മലയാള സമൂഹ ഗാനം"
@@ -3826,7 +3826,7 @@
  "slug":"vasiliyah-dars-kundukulam",
  "category":"JUNIOR",
  "stage1":"05. പ്രസംഗം മലയാളം",
- "stae2":"14. ഗദ്യവായന മലയാളം",
+ "stage2":"14. ഗദ്യവായന മലയാളം",
  "offstage1":"21. ചിത്രരചന ",
  "offstage2":"26. പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
  "offstage3":"29. മലയാള പ്രബന്ധം"
@@ -3840,7 +3840,7 @@
  "slug":"vasiliyah-dars-kundukulam",
  "category":"JUNIOR",
  "stage1":"07. പ്രസംഗം ഇംഗ്ലീഷ്",
- "stae2":"17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
+ "stage2":"17. പദപ്പയറ്റ് ഇംഗ്ലീഷ്",
  "offstage1":"23. മെമ്മറി ടെസ്റ്റ്",
  "offstage2":"28. തശ്കീല്‍"
  },
@@ -3863,7 +3863,7 @@
  "slug":"vasiliyah-dars-kundukulam",
  "category":"JUNIOR",
  "stage1":"04. പ്രസംഗം അറബി",
- "stae2":"13. കഥ പറച്ചില്‍",
+ "stage2":"13. കഥ പറച്ചില്‍",
  "offstage1":"24. ഖത്തുന്നസ്ഖ്"
  },
  {
@@ -3885,7 +3885,7 @@
  "slug":"vasiliyah-dars-kundukulam",
  "category":"JUNIOR",
  "stage1":"06. പ്രസംഗം ഉറുദു",
- "stae2":"08. ഗ്രന്ഥവായന",
+ "stage2":"08. ഗ്രന്ഥവായന",
  "stage3":"15. മുശാഅറ",
  "offstage1":"25. കേട്ടെഴുത്ത് "
  },
@@ -3898,7 +3898,7 @@
  "slug":"al-anwar-dars-kuruka",
  "category":"SENIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"11. ഗ്രന്ഥ വായന",
+ "stage2":"11. ഗ്രന്ഥ വായന",
  "offstage1":"21. അറബിക് കാലിഗ്രഫി",
  "offstage2":"22. പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
  "offstage3":"23. ഖത്തുന്നസ്ഖ്",
@@ -3914,7 +3914,7 @@
  "slug":"al-anwar-dars-kuruka",
  "category":"SENIOR",
  "stage1":"02. ഹിഫ്‌ള്",
- "stae2":"03. വാങ്ക്",
+ "stage2":"03. വാങ്ക്",
  "stage3":"10. ഖുഥ്ബ",
  "offstage1":"38. തശ്കീല്‍",
  "groupstage1":"18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
@@ -3953,7 +3953,7 @@
  "slug":"al-eaqalu-dars-chembra",
  "category":"SENIOR",
  "stage1":"02. ഹിഫ്‌ള്",
- "stae2":"04. ക്ലാസ് അവതരണം",
+ "stage2":"04. ക്ലാസ് അവതരണം",
  "stage3":"03. വാങ്ക്",
  "offstage1":"25. വിവര്‍ത്തനം ",
  "offstage2":"28. പ്രബന്ധം അറബി ",
@@ -4005,7 +4005,7 @@
  "slug":"al-eaqalu-dars-chembra",
  "category":"SENIOR",
  "stage1":"06. പ്രസംഗം മലയാളം",
- "stae2":"14. അനൗണ്‍സ്‌മെന്റ്",
+ "stage2":"14. അനൗണ്‍സ്‌മെന്റ്",
  "groupstage1":"20. പ്രോഗ്രാം സെറ്റിംഗ്"
  },
  {
@@ -4017,7 +4017,7 @@
  "slug":"al-eaqalu-dars-chembra",
  "category":"SENIOR",
  "stage1":"10. ഖുഥ്ബ",
- "stae2":"05. വഅ്‌ള്",
+ "stage2":"05. വഅ്‌ള്",
  "groupstage1":"20. പ്രോഗ്രാം സെറ്റിംഗ്"
  },
  {
@@ -4099,7 +4099,7 @@
  "slug":"al-eaqalu-dars-chembra",
  "category":"SENIOR",
  "stage1":"06. പ്രസംഗം മലയാളം",
- "stae2":"14. അനൗണ്‍സ്‌മെന്റ്",
+ "stage2":"14. അനൗണ്‍സ്‌മെന്റ്",
  "groupstage1":"20. പ്രോഗ്രാം സെറ്റിംഗ്"
  },
  {
@@ -4121,7 +4121,7 @@
  "slug":"al-eaqalu-dars-chembra",
  "category":"SENIOR",
  "stage1":"08. പ്രസംഗം ഉറുദു",
- "stae2":"11. ഗ്രന്ഥ വായന",
+ "stage2":"11. ഗ്രന്ഥ വായന",
  "groupstage1":"20. പ്രോഗ്രാം സെറ്റിംഗ്",
  "groupoffstage":"40. പത്രനിര്‍മാണം"
  },
@@ -4192,7 +4192,7 @@
  "slug":"al-imdad-pathambad",
  "category":"SENIOR",
  "stage1":"03. വാങ്ക്",
- "stae2":"06. പ്രസംഗം മലയാളം",
+ "stage2":"06. പ്രസംഗം മലയാളം",
  "offstage3":"38. തശ്കീല്‍",
  "groupstage1":"19. ഖസ്വീദ പാരായണം"
  },
@@ -4205,7 +4205,7 @@
  "slug":"al-imdad-pathambad",
  "category":"SENIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"03. വാങ്ക്",
+ "stage2":"03. വാങ്ക്",
  "offstage1":"23. ഖത്തുന്നസ്ഖ്",
  "groupstage1":"19. ഖസ്വീദ പാരായണം"
  },
@@ -4251,7 +4251,7 @@
  "slug":"al-maswalih-students-association-valiyaparappur",
  "category":"SENIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"03. വാങ്ക്",
+ "stage2":"03. വാങ്ക്",
  "stage3":"14. അനൗണ്‍സ്‌മെന്റ്",
  "offstage1":"33. മുദ്രവാക്യ രചന",
  "offstage2":"38. തശ്കീല്‍",
@@ -4269,7 +4269,7 @@
  "slug":"al-maswalih-students-association-valiyaparappur",
  "category":"SENIOR",
  "stage1":"06. പ്രസംഗം മലയാളം",
- "stae2":"04. ക്ലാസ് അവതരണം",
+ "stage2":"04. ക്ലാസ് അവതരണം",
  "stage3":"16. നിമിഷപ്രസംഗം",
  "offstage1":"36. അടിക്കുറിപ്പ്",
  "offstage2":"26. വിവര്‍ത്തനം ",
@@ -4287,7 +4287,7 @@
  "slug":"al-maswalih-students-association-valiyaparappur",
  "category":"SENIOR",
  "stage1":"15. പ്രബന്ധാവതരണം",
- "stae2":"10. ഖുഥ്ബ",
+ "stage2":"10. ഖുഥ്ബ",
  "stage3":"11. ഗ്രന്ഥ വായന",
  "offstage1":"39. പ്രശ്‌നോത്തരി",
  "offstage2":"32. തലവാചക നിര്‍മ്മാണം",
@@ -4315,7 +4315,7 @@
  "slug":"badrul-huda-dars-koomanna",
  "category":"SENIOR",
  "stage1":"02. ഹിഫ്‌ള്",
- "stae2":"10. ഖുഥ്ബ"
+ "stage2":"10. ഖുഥ്ബ"
  },
  {
  "code":"TS535",
@@ -4326,7 +4326,7 @@
  "slug":"badrul-huda-dars-koomanna",
  "category":"SENIOR",
  "stage1":"06. പ്രസംഗം മലയാളം",
- "stae2":"14. അനൗണ്‍സ്‌മെന്റ്",
+ "stage2":"14. അനൗണ്‍സ്‌മെന്റ്",
  "offstage1":"38. തശ്കീല്‍"
  },
  {
@@ -4381,7 +4381,7 @@
  "slug":"bahjathul-hikam-dars-karathur",
  "category":"SENIOR",
  "stage1":"09. പ്രസംഗം ഇംഗ്ലീഷ്",
- "stae2":"14. അനൗണ്‍സ്‌മെന്റ്",
+ "stage2":"14. അനൗണ്‍സ്‌മെന്റ്",
  "offstage1":"30. പ്രബന്ധം മലയാളം ",
  "offstage2":"34. കവിതാ രചന ",
  "offstage3":"22. പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
@@ -4396,7 +4396,7 @@
  "slug":"bahjathul-hikam-dars-karathur",
  "category":"SENIOR",
  "stage1":"06. പ്രസംഗം മലയാളം",
- "stae2":"13. മുശാഅറ",
+ "stage2":"13. മുശാഅറ",
  "stage3":"16. നിമിഷപ്രസംഗം",
  "offstage1":"24. ഖത്തുറുഖഈ",
  "offstage2":"33. മുദ്രവാക്യ രചന"
@@ -4410,7 +4410,7 @@
  "slug":"bahjathul-hikam-dars-karathur",
  "category":"SENIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"03. വാങ്ക്",
+ "stage2":"03. വാങ്ക്",
  "stage3":"05. വഅ്‌ള്",
  "offstage1":"21. അറബിക് കാലിഗ്രഫി",
  "offstage2":"36. അടിക്കുറിപ്പ്"
@@ -4424,7 +4424,7 @@
  "slug":"bahjathul-hikam-dars-karathur",
  "category":"SENIOR",
  "stage1":"02. ഹിഫ്‌ള്",
- "stae2":"07. പ്രസംഗം അറബി",
+ "stage2":"07. പ്രസംഗം അറബി",
  "stage3":"08. പ്രസംഗം ഉറുദു",
  "offstage1":"25. വിവര്‍ത്തനം ",
  "offstage2":"35. നിഘണ്ടു നിര്‍മ്മാണം ",
@@ -4440,7 +4440,7 @@
  "slug":"bahjathul-hikam-dars-karathur",
  "category":"SENIOR",
  "stage1":"04. ക്ലാസ് അവതരണം",
- "stae2":"11. ഗ്രന്ഥ വായന",
+ "stage2":"11. ഗ്രന്ഥ വായന",
  "stage3":"15. പ്രബന്ധാവതരണം",
  "offstage1":"29. പ്രബന്ധം ഇംഗ്ലീഷ് ",
  "offstage2":"32. തലവാചക നിര്‍മ്മാണം",
@@ -4456,7 +4456,7 @@
  "slug":"bahjathul-hikam-dars-karathur",
  "category":"SENIOR",
  "stage1":"12. കവിതാലാപനം മലയാളം",
- "stae2":"17. പാടിപ്പറയല്‍",
+ "stage2":"17. പാടിപ്പറയല്‍",
  "stage3":"10. ഖുഥ്ബ",
  "offstage1":"23. ഖത്തുന്നസ്ഖ്",
  "offstage2":"28. പ്രബന്ധം അറബി ",
@@ -4513,7 +4513,7 @@
  "slug":"bahjathul-huda-daras-edakkulam",
  "category":"SENIOR",
  "stage1":"06. പ്രസംഗം മലയാളം",
- "stae2":"04. ക്ലാസ് അവതരണം",
+ "stage2":"04. ക്ലാസ് അവതരണം",
  "stage3":"14. അനൗണ്‍സ്‌മെന്റ്",
  "offstage1":"26. വിവര്‍ത്തനം ",
  "offstage2":"35. നിഘണ്ടു നിര്‍മ്മാണം ",
@@ -4570,7 +4570,7 @@
  "slug":"bahjathul-huda-daras-edakkulam",
  "category":"SENIOR",
  "stage1":"05. വഅ്‌ള്",
- "stae2":"03. വാങ്ക്",
+ "stage2":"03. വാങ്ക്",
  "stage3":"17. പാടിപ്പറയല്‍",
  "groupstage1":"18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
  "groupstage2":"19. ഖസ്വീദ പാരായണം"
@@ -4584,7 +4584,7 @@
  "slug":"bahjathul-huda-daras-edakkulam",
  "category":"SENIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"07. പ്രസംഗം അറബി"
+ "stage2":"07. പ്രസംഗം അറബി"
  },
  {
  "code":"TS555",
@@ -4595,7 +4595,7 @@
  "slug":"bahjathul-huda-daras-edakkulam",
  "category":"SENIOR",
  "stage1":"09. പ്രസംഗം ഇംഗ്ലീഷ്",
- "stae2":"13. കഥ പറച്ചില്‍"
+ "stage2":"13. കഥ പറച്ചില്‍"
  },
  {
  "code":"TS556",
@@ -4606,7 +4606,7 @@
  "slug":"bahjathul-huda-daras-edakkulam",
  "category":"SENIOR",
  "stage1":"15. പ്രബന്ധാവതരണം",
- "stae2":"16. നിമിഷപ്രസംഗം",
+ "stage2":"16. നിമിഷപ്രസംഗം",
  "offstage1":"31. റിപ്പോര്‍ട്ടിംഗ്",
  "offstage2":"33. മുദ്രവാക്യ രചന",
  "offstage3":"36. അടിക്കുറിപ്പ്",
@@ -4622,7 +4622,7 @@
  "slug":"bahjathul-huda-daras-edakkulam",
  "category":"SENIOR",
  "stage1":"02. ഹിഫ്‌ള്",
- "stae2":"13. മുശാഅറ"
+ "stage2":"13. മുശാഅറ"
  },
  {
  "code":"TS558",
@@ -4676,7 +4676,7 @@
  "slug":"bayanul-uloom-dars-kodinhi",
  "category":"SENIOR",
  "stage1":"02. ഹിഫ്‌ള്",
- "stae2":"05. വഅ്‌ള്",
+ "stage2":"05. വഅ്‌ള്",
  "stage3":"06. പ്രസംഗം മലയാളം",
  "groupstage1":"20. പ്രോഗ്രാം സെറ്റിംഗ്"
  },
@@ -4689,7 +4689,7 @@
  "slug":"bayanul-uloom-dars-kodinhi",
  "category":"SENIOR",
  "stage1":"07. പ്രസംഗം അറബി",
- "stae2":"04. ക്ലാസ് അവതരണം",
+ "stage2":"04. ക്ലാസ് അവതരണം",
  "stage3":"07. പ്രസംഗം അറബി",
  "offstage1":"35. നിഘണ്ടു നിര്‍മ്മാണം ",
  "offstage2":"38. തശ്കീല്‍",
@@ -4744,7 +4744,7 @@
  "slug":"bayanul-uloom-dars-kodinhi",
  "category":"SENIOR",
  "stage1":"16. നിമിഷപ്രസംഗം",
- "stae2":"14. അനൗണ്‍സ്‌മെന്റ്",
+ "stage2":"14. അനൗണ്‍സ്‌മെന്റ്",
  "offstage1":"25. വിവര്‍ത്തനം ",
  "offstage2":"30. പ്രബന്ധം മലയാളം ",
  "offstage3":"33. മുദ്രവാക്യ രചന",
@@ -4760,7 +4760,7 @@
  "slug":"bayanul-uloom-dars-kodinhi",
  "category":"SENIOR",
  "stage1":"03. വാങ്ക്",
- "stae2":"01. ഖിറാഅത്ത്",
+ "stage2":"01. ഖിറാഅത്ത്",
  "groupstage1":"18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
  "groupstage2":"19. ഖസ്വീദ പാരായണം"
  },
@@ -4796,7 +4796,7 @@
  "slug":"bayanul-uloom-dars-kodinhi",
  "category":"SENIOR",
  "stage1":"11. ഗ്രന്ഥ വായന",
- "stae2":"09. പ്രസംഗം ഇംഗ്ലീഷ്",
+ "stage2":"09. പ്രസംഗം ഇംഗ്ലീഷ്",
  "offstage1":"22. പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
  "offstage2":"24. ഖത്തുറുഖഈ",
  "groupstage1":"20. പ്രോഗ്രാം സെറ്റിംഗ്",
@@ -4915,7 +4915,7 @@
  "slug":"bayanul-uloom-dars-muttichira",
  "category":"SENIOR",
  "stage1":"05. വഅ്‌ള്",
- "stae2":"08. പ്രസംഗം ഉറുദു"
+ "stage2":"08. പ്രസംഗം ഉറുദു"
  },
  {
  "code":"TS582",
@@ -4936,7 +4936,7 @@
  "slug":"bayanul-uloom-dars-muttichira",
  "category":"SENIOR",
  "stage1":"06. പ്രസംഗം മലയാളം",
- "stae2":"10. ഖുഥ്ബ",
+ "stage2":"10. ഖുഥ്ബ",
  "stage3":"12. കവിതാലാപനം മലയാളം",
  "offstage1":"28. പ്രബന്ധം അറബി ",
  "groupstage1":"18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
@@ -4985,7 +4985,7 @@
  "slug":"bayanul-uloom-dars-muttichira",
  "category":"SENIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"02. ഹിഫ്‌ള്",
+ "stage2":"02. ഹിഫ്‌ള്",
  "stage3":"03. വാങ്ക്",
  "groupstage1":"18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
  "groupstage2":"19. ഖസ്വീദ പാരായണം",
@@ -5000,7 +5000,7 @@
  "slug":"bayanul-uloom-dars-muttichira",
  "category":"SENIOR",
  "stage1":"04. ക്ലാസ് അവതരണം",
- "stae2":"14. അനൗണ്‍സ്‌മെന്റ്",
+ "stage2":"14. അനൗണ്‍സ്‌മെന്റ്",
  "offstage1":"29. പ്രബന്ധം ഇംഗ്ലീഷ് ",
  "offstage2":"39. പ്രശ്‌നോത്തരി",
  "groupstage1":"18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
@@ -5072,7 +5072,7 @@
  "slug":"bayanul-uloom-dars-omachappuzha",
  "category":"SENIOR",
  "stage1":"07. പ്രസംഗം അറബി",
- "stae2":"10. ഖുഥ്ബ",
+ "stage2":"10. ഖുഥ്ബ",
  "stage3":"15. പ്രബന്ധാവതരണം",
  "offstage1":"29. പ്രബന്ധം ഇംഗ്ലീഷ് ",
  "offstage2":"34. കവിതാ രചന ",
@@ -5090,7 +5090,7 @@
  "slug":"bayanul-uloom-dars-omachappuzha",
  "category":"SENIOR",
  "stage1":"12. കവിതാലാപനം മലയാളം",
- "stae2":"13. മുശാഅറ"
+ "stage2":"13. മുശാഅറ"
  },
  {
  "code":"TS596",
@@ -5111,7 +5111,7 @@
  "slug":"bayanul-uloom-dars-omachappuzha",
  "category":"SENIOR",
  "stage1":"04. ക്ലാസ് അവതരണം",
- "stae2":"09. പ്രസംഗം ഇംഗ്ലീഷ്",
+ "stage2":"09. പ്രസംഗം ഇംഗ്ലീഷ്",
  "stage3":"11. ഗ്രന്ഥ വായന",
  "offstage1":"28. പ്രബന്ധം അറബി ",
  "offstage2":"38. തശ്കീല്‍",
@@ -5126,7 +5126,7 @@
  "slug":"bayanul-uloom-dars-omachappuzha",
  "category":"SENIOR",
  "stage1":"06. പ്രസംഗം മലയാളം",
- "stae2":"14. അനൗണ്‍സ്‌മെന്റ്",
+ "stage2":"14. അനൗണ്‍സ്‌മെന്റ്",
  "stage3":"16. നിമിഷപ്രസംഗം"
  },
  {
@@ -5180,7 +5180,7 @@
  "slug":"bayanul-uloom-dars-omachappuzha",
  "category":"SENIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"02. ഹിഫ്‌ള്",
+ "stage2":"02. ഹിഫ്‌ള്",
  "stage3":"05. വഅ്‌ള്",
  "offstage1":"32. തലവാചക നിര്‍മ്മാണം",
  "groupstage1":"18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
@@ -5272,7 +5272,7 @@
  "slug":"bayanul-uloom-dars-puthantheru",
  "category":"SENIOR",
  "stage1":"06. പ്രസംഗം മലയാളം",
- "stae2":"14. അനൗണ്‍സ്‌മെന്റ്",
+ "stage2":"14. അനൗണ്‍സ്‌മെന്റ്",
  "stage3":"17. പാടിപ്പറയല്‍",
  "offstage1":"30. പ്രബന്ധം മലയാളം ",
  "offstage2":"34. കവിതാ രചന "
@@ -5308,7 +5308,7 @@
  "slug":"bayanul-uloom-dars-puthantheru",
  "category":"SENIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"02. ഹിഫ്‌ള്",
+ "stage2":"02. ഹിഫ്‌ള്",
  "stage3":"10. ഖുഥ്ബ",
  "groupstage1":"18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
  "groupstage2":"19. ഖസ്വീദ പാരായണം"
@@ -5344,7 +5344,7 @@
  "slug":"darul-hidaya-dars-ullanam",
  "category":"SENIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"03. വാങ്ക്"
+ "stage2":"03. വാങ്ക്"
  },
  {
  "code":"TS617",
@@ -5355,7 +5355,7 @@
  "slug":"darul-uloom-dars-korad",
  "category":"SENIOR",
  "stage1":"02. ഹിഫ്‌ള്",
- "stae2":"03. വാങ്ക്"
+ "stage2":"03. വാങ്ക്"
  },
  {
  "code":"TS618",
@@ -5387,7 +5387,7 @@
  "slug":"darul-uloom-dars-korad",
  "category":"SENIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"10. ഖുഥ്ബ",
+ "stage2":"10. ഖുഥ്ബ",
  "offstage1":"24. ഖത്തുറുഖഈ"
  },
  {
@@ -5399,7 +5399,7 @@
  "slug":"darul-uloom-dars-korad",
  "category":"SENIOR",
  "stage1":"02. ഹിഫ്‌ള്",
- "stae2":"05. വഅ്‌ള്"
+ "stage2":"05. വഅ്‌ള്"
  },
  {
  "code":"TS622",
@@ -5420,7 +5420,7 @@
  "slug":"darul-uloom-dars-korad",
  "category":"SENIOR",
  "stage1":"04. ക്ലാസ് അവതരണം",
- "stae2":"11. ഗ്രന്ഥ വായന",
+ "stage2":"11. ഗ്രന്ഥ വായന",
  "stage3":"13. മുശാഅറ",
  "offstage1":"30. പ്രബന്ധം മലയാളം ",
  "offstage2":"38. തശ്കീല്‍"
@@ -5457,7 +5457,7 @@
  "slug":"darul-uloom-dars-korad",
  "category":"SENIOR",
  "stage1":"04. ക്ലാസ് അവതരണം",
- "stae2":"11. ഗ്രന്ഥ വായന",
+ "stage2":"11. ഗ്രന്ഥ വായന",
  "stage3":"13. മുശാഅറ",
  "offstage1":"39. പ്രശ്‌നോത്തരി",
  "offstage2":"30. പ്രബന്ധം മലയാളം ",
@@ -5508,7 +5508,7 @@
  "slug":"daruthanveer-dars-koomanna",
  "category":"SENIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"10. ഖുഥ്ബ",
+ "stage2":"10. ഖുഥ്ബ",
  "offstage1":"38. തശ്കീല്‍",
  "offstage3":"32. തലവാചക നിര്‍മ്മാണം"
  },
@@ -5521,7 +5521,7 @@
  "slug":"daruthanveer-dars-koomanna",
  "category":"SENIOR",
  "stage1":"03. വാങ്ക്",
- "stae2":"05. വഅ്‌ള്",
+ "stage2":"05. വഅ്‌ള്",
  "stage3":"11. ഗ്രന്ഥ വായന",
  "offstage1":"36. അടിക്കുറിപ്പ്"
  },
@@ -5534,7 +5534,7 @@
  "slug":"daruthanveer-dars-koomanna",
  "category":"SENIOR",
  "stage1":"06. പ്രസംഗം മലയാളം",
- "stae2":"13. മുശാഅറ",
+ "stage2":"13. മുശാഅറ",
  "offstage1":"25. വിവര്‍ത്തനം "
  },
  {
@@ -5546,7 +5546,7 @@
  "slug":"inarathul-huda-dars-chelari",
  "category":"SENIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"09. പ്രസംഗം ഇംഗ്ലീഷ്",
+ "stage2":"09. പ്രസംഗം ഇംഗ്ലീഷ്",
  "stage3":"11. ഗ്രന്ഥ വായന",
  "offstage1":"37. പദ സമ്പാദനം",
  "offstage2":"21. അറബിക് കാലിഗ്രഫി",
@@ -5563,7 +5563,7 @@
  "slug":"inarathul-huda-dars-chelari",
  "category":"SENIOR",
  "stage1":"05. വഅ്‌ള്",
- "stae2":"05. വഅ്‌ള്",
+ "stage2":"05. വഅ്‌ള്",
  "stage3":"06. പ്രസംഗം മലയാളം"
  },
  {
@@ -5575,7 +5575,7 @@
  "slug":"inarathul-islam-dars.velimukk-town",
  "category":"SENIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"11. ഗ്രന്ഥ വായന",
+ "stage2":"11. ഗ്രന്ഥ വായന",
  "stage3":"15. പ്രബന്ധാവതരണം",
  "offstage1":"23. ഖത്തുന്നസ്ഖ്",
  "offstage2":"38. തശ്കീല്‍",
@@ -5591,7 +5591,7 @@
  "slug":"jamalullail-dars-ayyaya",
  "category":"SENIOR",
  "stage1":"04. ക്ലാസ് അവതരണം",
- "stae2":"10. ഖുഥ്ബ",
+ "stage2":"10. ഖുഥ്ബ",
  "stage3":"11. ഗ്രന്ഥ വായന",
  "offstage1":"35. നിഘണ്ടു നിര്‍മ്മാണം ",
  "offstage2":"28. പ്രബന്ധം അറബി ",
@@ -5607,7 +5607,7 @@
  "slug":"jamalullail-dars-ayyaya",
  "category":"SENIOR",
  "stage1":"03. വാങ്ക്",
- "stae2":"17. പാടിപ്പറയല്‍",
+ "stage2":"17. പാടിപ്പറയല്‍",
  "offstage1":"38. തശ്കീല്‍",
  "groupstage1":"18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
  "groupstage2":"19. ഖസ്വീദ പാരായണം"
@@ -5621,7 +5621,7 @@
  "slug":"jamalullail-dars-ayyaya",
  "category":"SENIOR",
  "stage1":"13. മുശാഅറ",
- "stae2":"15. പ്രബന്ധാവതരണം",
+ "stage2":"15. പ്രബന്ധാവതരണം",
  "offstage1":"30. പ്രബന്ധം മലയാളം ",
  "groupstage1":"18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
  "groupstage2":"19. ഖസ്വീദ പാരായണം",
@@ -5636,7 +5636,7 @@
  "slug":"jamalullail-dars-ayyaya",
  "category":"SENIOR",
  "stage1":"06. പ്രസംഗം മലയാളം",
- "stae2":"16. നിമിഷപ്രസംഗം",
+ "stage2":"16. നിമിഷപ്രസംഗം",
  "offstage1":"25. വിവര്‍ത്തനം ",
  "offstage2":"31. റിപ്പോര്‍ട്ടിംഗ്",
  "groupstage1":"20. പ്രോഗ്രാം സെറ്റിംഗ്"
@@ -5650,7 +5650,7 @@
  "slug":"jamalullail-dars-ayyaya",
  "category":"SENIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"02. ഹിഫ്‌ള്"
+ "stage2":"02. ഹിഫ്‌ള്"
  },
  {
  "code":"TS641",
@@ -5813,7 +5813,7 @@
  "zone":"TIRURANGADI",
  "slug":"jamalullail-dars-ayyaya",
  "category":"SENIOR",
- "stae2":"14. അനൗണ്‍സ്‌മെന്റ്"
+ "stage2":"14. അനൗണ്‍സ്‌മെന്റ്"
  },
  {
  "code":"TS656",
@@ -5868,7 +5868,7 @@
  "slug":"manshaul-uloom-dars-puthupparamba",
  "category":"SENIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"06. പ്രസംഗം മലയാളം",
+ "stage2":"06. പ്രസംഗം മലയാളം",
  "stage3":"16. നിമിഷപ്രസംഗം",
  "offstage1":"26. വിവര്‍ത്തനം ",
  "offstage2":"39. പ്രശ്‌നോത്തരി",
@@ -5883,7 +5883,7 @@
  "slug":"manshaul-uloom-dars-puthupparamba",
  "category":"SENIOR",
  "stage1":"03. വാങ്ക്",
- "stae2":"05. വഅ്‌ള്",
+ "stage2":"05. വഅ്‌ള്",
  "offstage1":"23. ഖത്തുന്നസ്ഖ്",
  "offstage2":"25. വിവര്‍ത്തനം ",
  "offstage3":"36. അടിക്കുറിപ്പ്",
@@ -5921,7 +5921,7 @@
  "slug":"manshaul-uloom-dars-puthupparamba",
  "category":"SENIOR",
  "stage1":"02. ഹിഫ്‌ള്",
- "stae2":"17. പാടിപ്പറയല്‍",
+ "stage2":"17. പാടിപ്പറയല്‍",
  "offstage1":"27. വിവര്‍ത്തനം ",
  "offstage2":"37. പദ സമ്പാദനം",
  "offstage3":"35. നിഘണ്ടു നിര്‍മ്മാണം ",
@@ -5958,7 +5958,7 @@
  "slug":"manshaul-uloom-kunnathparamb",
  "category":"SENIOR",
  "stage1":"06. പ്രസംഗം മലയാളം",
- "stae2":"04. ക്ലാസ് അവതരണം",
+ "stage2":"04. ക്ലാസ് അവതരണം",
  "stage3":"12. കവിതാലാപനം മലയാളം",
  "offstage1":"21. അറബിക് കാലിഗ്രഫി",
  "offstage2":"23. ഖത്തുന്നസ്ഖ്",
@@ -6000,7 +6000,7 @@
  "slug":"manshaul-uloom-kunnathparamb",
  "category":"SENIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"03. വാങ്ക്",
+ "stage2":"03. വാങ്ക്",
  "offstage1":"36. അടിക്കുറിപ്പ്",
  "groupstage1":"18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
  "groupstage2":"19. ഖസ്വീദ പാരായണം",
@@ -6016,7 +6016,7 @@
  "slug":"manshaul-uloom-kunnathparamb",
  "category":"SENIOR",
  "stage1":"11. ഗ്രന്ഥ വായന",
- "stae2":"14. അനൗണ്‍സ്‌മെന്റ്",
+ "stage2":"14. അനൗണ്‍സ്‌മെന്റ്",
  "stage3":"16. നിമിഷപ്രസംഗം",
  "offstage1":"31. റിപ്പോര്‍ട്ടിംഗ്",
  "offstage2":"33. മുദ്രവാക്യ രചന",
@@ -6047,7 +6047,7 @@
  "slug":"manshaul-uloom-kunnathparamb",
  "category":"SENIOR",
  "stage1":"05. വഅ്‌ള്",
- "stae2":"09. പ്രസംഗം ഇംഗ്ലീഷ്",
+ "stage2":"09. പ്രസംഗം ഇംഗ്ലീഷ്",
  "stage3":"10. ഖുഥ്ബ",
  "offstage1":"27. വിവര്‍ത്തനം ",
  "offstage2":"34. കവിതാ രചന ",
@@ -6066,7 +6066,7 @@
  "slug":"markazul-ulama-dars-apla",
  "category":"SENIOR",
  "stage1":"10. ഖുഥ്ബ",
- "stae2":"14. അനൗണ്‍സ്‌മെന്റ്",
+ "stage2":"14. അനൗണ്‍സ്‌മെന്റ്",
  "stage3":"05. വഅ്‌ള്",
  "offstage1":"36. അടിക്കുറിപ്പ്"
  },
@@ -6090,7 +6090,7 @@
  "slug":"markazul-ulama-dars-apla",
  "category":"SENIOR",
  "stage1":"03. വാങ്ക്",
- "stae2":"06. പ്രസംഗം മലയാളം",
+ "stage2":"06. പ്രസംഗം മലയാളം",
  "offstage1":"38. തശ്കീല്‍",
  "offstage2":"30. പ്രബന്ധം മലയാളം "
  },
@@ -6103,7 +6103,7 @@
  "slug":"markazul-ulama-dars-farookabad",
  "category":"SENIOR",
  "stage1":"17. പാടിപ്പറയല്‍",
- "stae2":"16. നിമിഷപ്രസംഗം",
+ "stage2":"16. നിമിഷപ്രസംഗം",
  "offstage3":"22. പോസ്റ്റര്‍ ഡിസൈനിംഗ്"
  },
  {
@@ -6139,7 +6139,7 @@
  "slug":"markazul-ulama-dars-farookabad",
  "category":"SENIOR",
  "stage1":"05. വഅ്‌ള്",
- "stae2":"03. വാങ്ക്",
+ "stage2":"03. വാങ്ക്",
  "offstage1":"30. പ്രബന്ധം മലയാളം ",
  "offstage2":"32. തലവാചക നിര്‍മ്മാണം"
  },
@@ -6152,7 +6152,7 @@
  "slug":"markazul-ulama-dars-farookabad",
  "category":"SENIOR",
  "stage1":"09. പ്രസംഗം ഇംഗ്ലീഷ്",
- "stae2":"04. ക്ലാസ് അവതരണം",
+ "stage2":"04. ക്ലാസ് അവതരണം",
  "stage3":"11. ഗ്രന്ഥ വായന",
  "offstage1":"25. വിവര്‍ത്തനം ",
  "offstage2":"28. പ്രബന്ധം അറബി ",
@@ -6168,7 +6168,7 @@
  "slug":"markazul-ulama-dars-farookabad",
  "category":"SENIOR",
  "stage1":"05. വഅ്‌ള്",
- "stae2":"03. വാങ്ക്",
+ "stage2":"03. വാങ്ക്",
  "stage3":"14. അനൗണ്‍സ്‌മെന്റ്",
  "offstage1":"30. പ്രബന്ധം മലയാളം ",
  "offstage2":"32. തലവാചക നിര്‍മ്മാണം",
@@ -6196,7 +6196,7 @@
  "slug":"markazul-ulama-dars-farookabad",
  "category":"SENIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"12. കവിതാലാപനം മലയാളം",
+ "stage2":"12. കവിതാലാപനം മലയാളം",
  "groupstage1":"19. ഖസ്വീദ പാരായണം",
  "groupoffstage":"40. പത്രനിര്‍മാണം"
  },
@@ -6243,7 +6243,7 @@
  "slug":"markazul-ulama-dars-palathingal",
  "category":"SENIOR",
  "stage1":"04. ക്ലാസ് അവതരണം",
- "stae2":"10. ഖുഥ്ബ",
+ "stage2":"10. ഖുഥ്ബ",
  "stage3":"13. മുശാഅറ",
  "offstage1":"25. വിവര്‍ത്തനം ",
  "groupstage1":"20. പ്രോഗ്രാം സെറ്റിംഗ്"
@@ -6257,7 +6257,7 @@
  "slug":"markazul-ulama-dars-palathingal",
  "category":"SENIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"02. ഹിഫ്‌ള്",
+ "stage2":"02. ഹിഫ്‌ള്",
  "stage3":"06. പ്രസംഗം മലയാളം",
  "groupstage1":"18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
  "groupstage2":"19. ഖസ്വീദ പാരായണം",
@@ -6287,7 +6287,7 @@
  "slug":"markazul-ulama-dars-palathingal",
  "category":"SENIOR",
  "stage1":"12. കവിതാലാപനം മലയാളം",
- "stae2":"03. വാങ്ക്",
+ "stage2":"03. വാങ്ക്",
  "groupstage1":"18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
  "groupstage2":"19. ഖസ്വീദ പാരായണം",
  "groupstage3":"20. പ്രോഗ്രാം സെറ്റിംഗ്"
@@ -6345,7 +6345,7 @@
  "slug":"markazul-ulama-dars-panambra",
  "category":"SENIOR",
  "stage1":"02. ഹിഫ്‌ള്",
- "stae2":"12. കവിതാലാപനം മലയാളം",
+ "stage2":"12. കവിതാലാപനം മലയാളം",
  "stage3":"17. പാടിപ്പറയല്‍",
  "offstage1":"34. കവിതാ രചന ",
  "groupstage1":"18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
@@ -6372,7 +6372,7 @@
  "slug":"markazul-ulama-dars-panambra",
  "category":"SENIOR",
  "stage1":"04. ക്ലാസ് അവതരണം",
- "stae2":"05. വഅ്‌ള്",
+ "stage2":"05. വഅ്‌ള്",
  "stage3":"13. മുശാഅറ",
  "offstage1":"38. തശ്കീല്‍",
  "offstage2":"25. വിവര്‍ത്തനം ",
@@ -6610,7 +6610,7 @@
  "slug":"munavvirul-islam-dars-cherushola",
  "category":"SENIOR",
  "stage1":"03. വാങ്ക്",
- "stae2":"09. പ്രസംഗം ഇംഗ്ലീഷ്",
+ "stage2":"09. പ്രസംഗം ഇംഗ്ലീഷ്",
  "offstage1":"30. പ്രബന്ധം മലയാളം "
  },
  {
@@ -6622,7 +6622,7 @@
  "slug":"munavvirul-islam-dars-cherushola",
  "category":"SENIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"05. വഅ്‌ള്"
+ "stage2":"05. വഅ്‌ള്"
  },
  {
  "code":"TS722",
@@ -6656,7 +6656,7 @@
  "slug":"munavvirul-islam-dars-cherushola",
  "category":"SENIOR",
  "stage1":"03. വാങ്ക്",
- "stae2":"09. പ്രസംഗം ഇംഗ്ലീഷ്",
+ "stage2":"09. പ്രസംഗം ഇംഗ്ലീഷ്",
  "stage3":"17. പാടിപ്പറയല്‍",
  "offstage2":"29. പ്രബന്ധം ഇംഗ്ലീഷ് ",
  "groupstage1":"20. പ്രോഗ്രാം സെറ്റിംഗ്"
@@ -6696,7 +6696,7 @@
  "slug":"munavvirul-islam-dars-cherushola",
  "category":"SENIOR",
  "stage1":"05. വഅ്‌ള്",
- "stae2":"01. ഖിറാഅത്ത്",
+ "stage2":"01. ഖിറാഅത്ത്",
  "groupstage1":"20. പ്രോഗ്രാം സെറ്റിംഗ്"
  },
  {
@@ -6708,7 +6708,7 @@
  "slug":"nooru-thwalaba-dars-edarikode",
  "category":"SENIOR",
  "stage1":"06. പ്രസംഗം മലയാളം",
- "stae2":"07. പ്രസംഗം അറബി",
+ "stage2":"07. പ്രസംഗം അറബി",
  "stage3":"02. ഹിഫ്‌ള്",
  "offstage1":"36. അടിക്കുറിപ്പ്",
  "offstage2":"26. വിവര്‍ത്തനം ",
@@ -6726,7 +6726,7 @@
  "zone":"TIRURANGADI",
  "slug":"nooru-thwalaba-dars-edarikode",
  "category":"SENIOR",
- "stae2":"12. കവിതാലാപനം മലയാളം",
+ "stage2":"12. കവിതാലാപനം മലയാളം",
  "stage3":"17. പാടിപ്പറയല്‍",
  "offstage1":"23. ഖത്തുന്നസ്ഖ്",
  "groupstage1":"18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
@@ -6743,7 +6743,7 @@
  "slug":"nooru-thwalaba-dars-edarikode",
  "category":"SENIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"09. പ്രസംഗം ഇംഗ്ലീഷ്",
+ "stage2":"09. പ്രസംഗം ഇംഗ്ലീഷ്",
  "stage3":"10. ഖുഥ്ബ",
  "offstage1":"30. പ്രബന്ധം മലയാളം ",
  "offstage2":"32. തലവാചക നിര്‍മ്മാണം",
@@ -6762,7 +6762,7 @@
  "slug":"nooru-thwalaba-dars-edarikode",
  "category":"SENIOR",
  "stage1":"03. വാങ്ക്",
- "stae2":"05. വഅ്‌ള്",
+ "stage2":"05. വഅ്‌ള്",
  "stage3":"14. അനൗണ്‍സ്‌മെന്റ്",
  "offstage1":"21. അറബിക് കാലിഗ്രഫി",
  "offstage2":"23. ഖത്തുന്നസ്ഖ്",
@@ -6822,7 +6822,7 @@
  "slug":"subulussalam-dars-kozhippuram",
  "category":"SENIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"11. ഗ്രന്ഥ വായന",
+ "stage2":"11. ഗ്രന്ഥ വായന",
  "stage3":"13. മുശാഅറ",
  "offstage1":"31. റിപ്പോര്‍ട്ടിംഗ്",
  "offstage2":"32. തലവാചക നിര്‍മ്മാണം",
@@ -6875,7 +6875,7 @@
  "slug":"subulussalam-dars-kozhippuram",
  "category":"SENIOR",
  "stage1":"05. വഅ്‌ള്",
- "stae2":"14. അനൗണ്‍സ്‌മെന്റ്",
+ "stage2":"14. അനൗണ്‍സ്‌മെന്റ്",
  "stage3":"16. നിമിഷപ്രസംഗം",
  "offstage1":"34. കവിതാ രചന ",
  "groupstage1":"19. ഖസ്വീദ പാരായണം",
@@ -6890,7 +6890,7 @@
  "slug":"subulussalam-dars-kozhippuram",
  "category":"SENIOR",
  "stage1":"02. ഹിഫ്‌ള്",
- "stae2":"07. പ്രസംഗം അറബി",
+ "stage2":"07. പ്രസംഗം അറബി",
  "stage3":"15. പ്രബന്ധാവതരണം",
  "offstage1":"25. വിവര്‍ത്തനം ",
  "offstage2":"28. പ്രബന്ധം അറബി ",
@@ -6906,7 +6906,7 @@
  "slug":"subulussalam-dars-kozhippuram",
  "category":"SENIOR",
  "stage1":"08. പ്രസംഗം ഉറുദു",
- "stae2":"17. പാടിപ്പറയല്‍",
+ "stage2":"17. പാടിപ്പറയല്‍",
  "offstage1":"33. മുദ്രവാക്യ രചന",
  "groupstage1":"20. പ്രോഗ്രാം സെറ്റിംഗ്"
  },
@@ -6955,7 +6955,7 @@
  "slug":"subulussalam-dars-kozhippuram",
  "category":"SENIOR",
  "stage1":"04. ക്ലാസ് അവതരണം",
- "stae2":"10. ഖുഥ്ബ"
+ "stage2":"10. ഖുഥ്ബ"
  },
  {
  "code":"TS746",
@@ -6966,7 +6966,7 @@
  "slug":"thamreenu-thwalaba-ananthavoor",
  "category":"SENIOR",
  "stage1":"03. വാങ്ക്",
- "stae2":"10. ഖുഥ്ബ",
+ "stage2":"10. ഖുഥ്ബ",
  "groupstage1":"18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
  "groupstage2":"19. ഖസ്വീദ പാരായണം",
  "groupstage3":"20. പ്രോഗ്രാം സെറ്റിംഗ്",
@@ -6994,7 +6994,7 @@
  "slug":"thamreenu-thwalaba-ananthavoor",
  "category":"SENIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"05. വഅ്‌ള്",
+ "stage2":"05. വഅ്‌ള്",
  "offstage1":"25. വിവര്‍ത്തനം ",
  "offstage2":"36. അടിക്കുറിപ്പ്",
  "groupstage1":"18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
@@ -7073,7 +7073,7 @@
  "slug":"thamreenu-thwalaba-ananthavoor",
  "category":"SENIOR",
  "stage1":"04. ക്ലാസ് അവതരണം",
- "stae2":"15. പ്രബന്ധാവതരണം",
+ "stage2":"15. പ്രബന്ധാവതരണം",
  "stage3":"09. പ്രസംഗം ഇംഗ്ലീഷ്",
  "offstage1":"26. വിവര്‍ത്തനം ",
  "offstage2":"30. പ്രബന്ധം മലയാളം ",
@@ -7101,7 +7101,7 @@
  "slug":"thamreenu-thwalaba-ananthavoor",
  "category":"SENIOR",
  "stage1":"11. ഗ്രന്ഥ വായന",
- "stae2":"07. പ്രസംഗം അറബി",
+ "stage2":"07. പ്രസംഗം അറബി",
  "offstage1":"21. അറബിക് കാലിഗ്രഫി",
  "offstage2":"24. ഖത്തുറുഖഈ",
  "offstage3":"32. തലവാചക നിര്‍മ്മാണം",
@@ -7133,7 +7133,7 @@
  "slug":"thamreenu-thwalaba-ananthavoor",
  "category":"SENIOR",
  "stage1":"06. പ്രസംഗം മലയാളം",
- "stae2":"16. നിമിഷപ്രസംഗം",
+ "stage2":"16. നിമിഷപ്രസംഗം",
  "offstage1":"33. മുദ്രവാക്യ രചന",
  "offstage2":"37. പദ സമ്പാദനം",
  "groupstage1":"20. പ്രോഗ്രാം സെറ്റിംഗ്",
@@ -7148,7 +7148,7 @@
  "slug":"ttss-kundukulam",
  "category":"SENIOR",
  "stage1":"06. പ്രസംഗം മലയാളം",
- "stae2":"03. വാങ്ക്",
+ "stage2":"03. വാങ്ക്",
  "stage3":"16. നിമിഷപ്രസംഗം",
  "offstage1":"22. പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
  "offstage2":"32. തലവാചക നിര്‍മ്മാണം",
@@ -7167,7 +7167,7 @@
  "slug":"ttss-kundukulam",
  "category":"SENIOR",
  "stage1":"07. പ്രസംഗം അറബി",
- "stae2":"14. അനൗണ്‍സ്‌മെന്റ്",
+ "stage2":"14. അനൗണ്‍സ്‌മെന്റ്",
  "stage3":"15. പ്രബന്ധാവതരണം",
  "offstage1":"31. റിപ്പോര്‍ട്ടിംഗ്",
  "offstage2":"35. നിഘണ്ടു നിര്‍മ്മാണം ",
@@ -7186,7 +7186,7 @@
  "slug":"ttss-kundukulam",
  "category":"SENIOR",
  "stage1":"17. പാടിപ്പറയല്‍",
- "stae2":"01. ഖിറാഅത്ത്",
+ "stage2":"01. ഖിറാഅത്ത്",
  "stage3":"12. കവിതാലാപനം മലയാളം",
  "offstage1":"30. പ്രബന്ധം മലയാളം ",
  "offstage2":"32. തലവാചക നിര്‍മ്മാണം",
@@ -7220,7 +7220,7 @@
  "slug":"vasiliyah-dars-kundukulam",
  "category":"SENIOR",
  "stage1":"02. ഹിഫ്‌ള്",
- "stae2":"03. വാങ്ക്",
+ "stage2":"03. വാങ്ക്",
  "stage3":"05. വഅ്‌ള്",
  "groupstage1":"18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്"
  },
@@ -7233,7 +7233,7 @@
  "slug":"vasiliyah-dars-kundukulam",
  "category":"SENIOR",
  "stage1":"01. ഖിറാഅത്ത്",
- "stae2":"07. പ്രസംഗം അറബി",
+ "stage2":"07. പ്രസംഗം അറബി",
  "offstage1":"23. ഖത്തുന്നസ്ഖ്",
  "groupstage1":"18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
  "groupoffstage":"40. പത്രനിര്‍മാണം"
@@ -7293,7 +7293,7 @@
  "slug":"vasiliyah-dars-kundukulam",
  "category":"SENIOR",
  "stage1":"10. ഖുഥ്ബ",
- "stae2":"14. അനൗണ്‍സ്‌മെന്റ്",
+ "stage2":"14. അനൗണ്‍സ്‌മെന്റ്",
  "stage3":"16. നിമിഷപ്രസംഗം",
  "offstage1":"25. വിവര്‍ത്തനം ",
  "offstage2":"26. വിവര്‍ത്തനം ",
@@ -7308,7 +7308,7 @@
  "zone":"TIRURANGADI",
  "slug":"vasiliyah-dars-kundukulam",
  "category":"SENIOR",
- "stae2":"12. കവിതാലാപനം മലയാളം",
+ "stage2":"12. കവിതാലാപനം മലയാളം",
  "stage3":"13. മുശാഅറ",
  "offstage2":"33. മുദ്രവാക്യ രചന",
  "groupstage1":"18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
@@ -7355,6 +7355,6 @@
  "slug":"vasiliyah-dars-kundukulam",
  "category":"SENIOR",
  "stage1":"06. പ്രസംഗം മലയാളം",
- "stae2":"04. ക്ലാസ് അവതരണം"
+ "stage2":"04. ക്ലാസ് അവതരണം"
  }
 ]
