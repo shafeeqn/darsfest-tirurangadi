@@ -1472,8 +1472,7 @@
   "zone": "TIRURANGADI",
   "slug": "bahjathul-huda-daras-edakkulam",
   "category": "JUNIOR",
-  "stage1": "11. മാലപ്പാട്ട്",
-  "groupstage1": "20. മലയാള സമൂഹ ഗാനം"
+  "stage1": "11. മാലപ്പാട്ട്"
  },
  {
   "code": "TJ180",
@@ -1507,9 +1506,7 @@
   "zone": "TIRURANGADI",
   "slug": "bahjathul-huda-daras-edakkulam",
   "category": "JUNIOR",
-  "stage1": "01. ഖിറാഅത്ത്",
-  "groupstage1": "19. അറബി സംഘഗാനം",
-  "groupstage2": "20. മലയാള സമൂഹ ഗാനം"
+  "stage1": "01. ഖിറാഅത്ത്"
  },
  {
   "code": "TJ183",
@@ -1519,7 +1516,8 @@
   "zone": "TIRURANGADI",
   "slug": "bahjathul-huda-daras-edakkulam",
   "category": "JUNIOR",
-  "stage1": "02. ഹിഫ്‌ള്"
+  "stage1": "02. ഹിഫ്‌ള്",
+  "stage2": "04. പ്രസംഗം അറബി"
  },
  {
   "code": "TJ184",
@@ -1543,7 +1541,6 @@
   "zone": "TIRURANGADI",
   "slug": "bahjathul-huda-daras-edakkulam",
   "category": "JUNIOR",
-  "stage1": "04. പ്രസംഗം അറബി",
   "offstage1": "28. തശ്കീല്‍",
   "stage2": "15. മുശാഅറ",
   "stage3": "08. ഗ്രന്ഥവായന",
@@ -1591,7 +1588,6 @@
   "slug": "bahjathul-huda-daras-edakkulam",
   "category": "JUNIOR",
   "stage1": "18. മദ്ഹുന്നബി",
-  "groupstage1": "19. അറബി സംഘഗാനം",
   "stage2": "10. മാപ്പിളപ്പാട്ട്"
  },
  {
@@ -1605,6 +1601,16 @@
   "offstage2": "25. കേട്ടെഴുത്ത് "
  },
  {
+  "code": "TJ437",
+  "name": "MUHAMMED VADAKARA",
+  "darsname": "BAHJATHUL HUDA DARAS EDAKKULAM",
+  "darsplace": "EDAKKULAM,THIRUNAVAYA",
+  "zone": "TIRURANGADI",
+  "slug": "bahjathul-huda-daras-edakkulam",
+  "category": "JUNIOR",
+  "stage1": "13. കഥ പറച്ചില്‍"
+ },
+ {
   "code": "TS547",
   "name": "RAHEES PUTHANATHANI",
   "darsname": "BAHJATHUL HUDA DARAS EDAKKULAM",
@@ -1614,11 +1620,8 @@
   "category": "SENIOR",
   "stage1": "10. ഖുഥ്ബ",
   "offstage1": "25. വിവര്‍ത്തനം ",
-  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
-  "groupstage2": "20. പ്രോഗ്രാം സെറ്റിംഗ്",
   "offstage2": "27. വിവര്‍ത്തനം ",
-  "offstage3": "37. പദ സമ്പാദനം",
-  "groupoffstage": "40. പത്രനിര്‍മാണം"
+  "offstage3": "37. പദ സമ്പാദനം"
  },
  {
   "code": "TS548",
@@ -1630,8 +1633,8 @@
   "category": "SENIOR",
   "offstage1": "32. തലവാചക നിര്‍മ്മാണം",
   "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
-  "groupstage2": "19. ഖസ്വീദ പാരായണം",
-  "offstage2": "24. ഖത്തുറുഖഈ"
+  "offstage2": "24. ഖത്തുറുഖഈ",
+  "offstage3": "30. പ്രബന്ധം മലയാളം "
  },
  {
   "code": "TS549",
@@ -1643,12 +1646,10 @@
   "category": "SENIOR",
   "stage1": "06. പ്രസംഗം മലയാളം",
   "offstage1": "26. വിവര്‍ത്തനം ",
-  "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്",
   "stage2": "04. ക്ലാസ് അവതരണം",
   "stage3": "14. അനൗണ്‍സ്‌മെന്റ്",
   "offstage2": "35. നിഘണ്ടു നിര്‍മ്മാണം ",
-  "offstage3": "38. തശ്കീല്‍",
-  "groupoffstage": "40. പത്രനിര്‍മാണം"
+  "offstage3": "38. തശ്കീല്‍"
  },
  {
   "code": "TS550",
@@ -1685,10 +1686,8 @@
   "slug": "bahjathul-huda-daras-edakkulam",
   "category": "SENIOR",
   "offstage1": "21. അറബിക് കാലിഗ്രഫി",
-  "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്",
   "offstage2": "22. പോസ്റ്റര്‍ ഡിസൈനിംഗ്",
-  "offstage3": "23. ഖത്തുന്നസ്ഖ്",
-  "groupoffstage": "40. പത്രനിര്‍മാണം"
+  "offstage3": "23. ഖത്തുന്നസ്ഖ്"
  },
  {
   "code": "TS553",
@@ -1699,7 +1698,6 @@
   "slug": "bahjathul-huda-daras-edakkulam",
   "category": "SENIOR",
   "stage1": "05. വഅ്‌ള്",
-  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
   "stage2": "03. വാങ്ക്",
   "stage3": "17. പാടിപ്പറയല്‍",
   "groupstage2": "19. ഖസ്വീദ പാരായണം"
@@ -1735,11 +1733,9 @@
   "category": "SENIOR",
   "stage1": "15. പ്രബന്ധാവതരണം",
   "offstage1": "31. റിപ്പോര്‍ട്ടിംഗ്",
-  "groupstage1": "20. പ്രോഗ്രാം സെറ്റിംഗ്",
   "stage2": "16. നിമിഷപ്രസംഗം",
   "offstage2": "33. മുദ്രവാക്യ രചന",
-  "offstage3": "36. അടിക്കുറിപ്പ്",
-  "groupoffstage": "40. പത്രനിര്‍മാണം"
+  "offstage3": "36. അടിക്കുറിപ്പ്"
  },
  {
   "code": "TS557",
@@ -1760,40 +1756,7 @@
   "zone": "TIRURANGADI",
   "slug": "bahjathul-huda-daras-edakkulam",
   "category": "SENIOR",
-  "stage1": "12. കവിതാലാപനം മലയാളം",
-  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
-  "groupstage2": "19. ഖസ്വീദ പാരായണം"
- },
- {
-  "code": "TS559",
-  "name": "SHABEEB.T PONNANI",
-  "darsname": "BAHJATHUL HUDA DARAS EDAKKULAM",
-  "darsplace": "EDAKKULAM,THIRUNAVAYA",
-  "zone": "TIRURANGADI",
-  "slug": "bahjathul-huda-daras-edakkulam",
-  "category": "SENIOR",
-  "groupstage1": "18. മാഷപ്പ് മാപ്പിളപ്പാട്ട്",
-  "groupstage2": "19. ഖസ്വീദ പാരായണം"
- },
- {
-  "code": "TS560",
-  "name": "MOHAMMED JUSAIL. K CHIRAVELLUR",
-  "darsname": "BAHJATHUL HUDA DARAS EDAKKULAM",
-  "darsplace": "EDAKKULAM,THIRUNAVAYA",
-  "zone": "TIRURANGADI",
-  "slug": "bahjathul-huda-daras-edakkulam",
-  "category": "SENIOR",
-  "groupstage1": "19. ഖസ്വീദ പാരായണം"
- },
- {
-  "code": "TS561",
-  "name": "SHAHID MUNEER. CHIRAMANANGAD",
-  "darsname": "BAHJATHUL HUDA DARAS EDAKKULAM",
-  "darsplace": "EDAKKULAM,THIRUNAVAYA",
-  "zone": "TIRURANGADI",
-  "slug": "bahjathul-huda-daras-edakkulam",
-  "category": "SENIOR",
-  "offstage1": "30. പ്രബന്ധം മലയാളം "
+  "stage1": "12. കവിതാലാപനം മലയാളം"
  },
  {
   "code": "TJ191",
@@ -5437,6 +5400,7 @@
   "zone": "TIRURANGADI",
   "slug": "markazul-ulama-dars-panambra",
   "category": "SENIOR",
+  "stage1": "09. പ്രസംഗം ഇംഗ്ലീഷ്",
   "stage3": "16. നിമിഷപ്രസംഗം",
   "offstage2": "29. പ്രബന്ധം ഇംഗ്ലീഷ് ",
   "offstage3": "27. വിവര്‍ത്തനം "
@@ -5547,8 +5511,7 @@
   "darsplace": "PANAMBRA, CHELARI",
   "zone": "TIRURANGADI",
   "slug": "markazul-ulama-dars-panambra",
-  "category": "SENIOR",
-  "stage1": "09. പ്രസംഗം ഇംഗ്ലീഷ്"
+  "category": "SENIOR"
  },
  {
   "code": "TS716",
